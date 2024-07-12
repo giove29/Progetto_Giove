@@ -117,6 +117,54 @@ def get_random_walk_bc_prof_opt(graph):
     
     return rw_betweenness
 
+@time_decorator
+def get_random_walk(graph):
+    import networkx as nx
+    import random, itertools
+
+    assert isinstance(graph, nx.DiGraph), 'Input should be a NetworkX directed graph'
+
+    G = graph.copy()
+
+    rw_betweenness = {node: 0 for node in G.nodes()}
+
+    nodes = list(G.nodes)
+    all_combinations = [(u, v) for u, v in itertools.product(nodes, repeat=2) if u != v and nx.has_path(G, u, v)] #elimina direttamente le coppie con nodi uguali e che non sono collegati nel grafo
+
+    for start, end in all_combinations:
+        queue = []
+        visited = []
+        next_node = random.choice(list(G.successors(start)))
+        queue.append(next_node)
+        path = [(start, next_node)]
+        walk_length = G.number_of_edges() * 500
+        while(True):
+            node = queue.pop()
+            if node == end:
+                break
+
+            if len(list(G.successors(node))) > 0 and len(path) < walk_length:
+                next_node = random.choice(list(G.successors(node)))
+                visited.append(node)
+                path = path + [(node, next_node)]
+                queue.append(next_node)
+                    
+            else:
+                next_node = random.choice(list(G.successors(start)))
+                path = [(start, next_node)]
+                visited = []
+                queue.append(next_node)
+
+        for v in set(visited):
+            rw_betweenness[v] += 1
+        
+    count = sum(rw_betweenness.values())
+
+    for node in rw_betweenness:
+        rw_betweenness[node] /= (count)
+
+    return rw_betweenness
+
 # returns a new node different from the passed one, with at least one predecessor and not already randomly accessed
 def get_a_new_node(G, current_node, entry_nodes):
     import random
