@@ -96,7 +96,9 @@ def main():
     plt.scatter(0, 0, label="Tentacoli & Co", color='gray')
     plt.legend()
 
-    plt.get_current_fig_manager().canvas.set_window_title('Bow-tie Structure')
+
+    #QUESTO CAMBIA DA QUALCHE VERSIONE
+    plt.get_current_fig_manager().canvas.setWindowTitle('Bow-tie Structure')
 
     plt.subplot(122)
     nx.draw(UG, pos=node_layout, node_color=node_colors, arrowsize=10, with_labels=True, font_color='white')
