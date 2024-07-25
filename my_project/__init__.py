@@ -14,7 +14,10 @@ from .create_graph import (
     create_excel
 )
 from .opts import (
-    clear_screen, 
+    clear_screen,
+    bowtie_to_partitions,
+    results_to_avalanche,
+    avalanche_to_partitions,
     exe_case_1, 
     case_1,
     case_2,
@@ -38,6 +41,9 @@ __all__ = [
     "create_graph_file", 
     "create_excel", 
     "clear_screen",
+    "bowtie_to_partitions",
+    "results_to_avalanche",
+    "avalanche_to_partitions",
     "exe_case_1",
     "case_1",
     "case_2",

@@ -9,6 +9,42 @@ def clear_screen():
     else:
         os.system("clear")
 
+def bowtie_to_partitions(bowtie_components):
+    partitions = {}
+    for section, nodes in bowtie_components.items():
+        if section == "S":
+            for node in nodes:
+                partitions[node] = 1
+        elif section == "IN":
+            for node in nodes:
+                partitions[node] = 2
+        elif section == "OUT":
+            for node in nodes:
+                partitions[node] = 3
+        else:
+            for node in nodes:
+                partitions[node] = 4
+
+    return partitions
+
+def results_to_avalanche(results):
+    avalanche = set()
+    for node, a in results.items():
+        avalanche.update(a)
+
+    return avalanche
+
+def avalanche_to_partitions(G, avalanche):
+    partitions = {}
+    for node in G.nodes():
+        if node in avalanche:
+            partitions[node] = 2
+        else:
+            partitions[node] = 1
+    
+    return partitions
+
+
 def exe_case_1(G):
     UG = G.to_undirected()
     bowtie_components = get_bowtie_components(G)
@@ -17,7 +53,13 @@ def exe_case_1(G):
 
     create_excel(G, UG, bowtie_components)
 
-    open_pajek(G)
+    partitions = bowtie_to_partitions(bowtie_components)
+
+    partitions_file = "partitions.clu"
+
+    create_pajek_partitions_file(partitions_file, G, partitions)
+
+    open_pajek(G, partitions_file)
 
 def case_1():
     choice = input("How would you create the network?\n1) By File(.txt or .net)\n2) By giving the total of nodes\n>> ")
@@ -38,6 +80,7 @@ def case_1():
             print("Expected an Integer!")
     else:
         print("Not supported option")
+
 
 def exe_case_2(G, flag, list_nodes, shock):
     #check if all nodes in list_nodes are in the Graph
@@ -62,20 +105,31 @@ def exe_case_2(G, flag, list_nodes, shock):
         print("Shock ON!")
     else:
         print("Shock OFF!")
+    avalanche = set()
     if flag:
         print("Single Avalanche Mode!")
         results = {}
         for node in list_nodes:
             single_avalanche(G, node, results, shock)
         result(G, results)
+        avalanche = results_to_avalanche(results)
+        
     else:
         print("Multiple Avalanche Mode!")
-        multiple_avalanches(G, list_nodes, shock)
+        avalanche = multiple_avalanches(G, list_nodes, shock)
+
+    partitions = avalanche_to_partitions(G, avalanche)
+
+    partitions_file = "partitions_avalanche.clu"
+
+    create_pajek_partitions_file(partitions_file, G, partitions)
+
+    open_pajek(G, partitions_file)
 
 def case_2():
 
-    filename = input("Type the file of the network (.txt or .net)>> ")
-    G = create_graph_file(filename)
+    filename_graph = input("Type the file of the network (.txt or .net)>> ")
+    G = create_graph_file(filename_graph)
     if G is None:
         return False
     filename = input("Type the file of the perturbated nodes>> ")
@@ -91,8 +145,8 @@ def case_2():
             exe_case_2(G, flag, list_nodes, shock)
         else:    
             print(f"Error reading file: \"{filename}\"")
-    except:
-        print(f"Errore nell'apertura del file \"{filename}\" (controlla che il file esista e che sia formattato correttemente, o che siano presenti i giusti permessi)")
+    except Exception as e:
+        print(f"Errore nell'apertura del file \"{filename}\" (controlla che il file esista e che sia formattato correttemente, o che siano presenti i giusti permessi)\n", e)
 
 
 def single_avalanche(G, start_node, results, shock):
@@ -145,8 +199,6 @@ def single_avalanche(G, start_node, results, shock):
                 file.write(f"{n}\n")
     except:
         print("Error...")
-
-
 
 def multiple_avalanches(G, list_nodes, shock):
     rate = 0.5
@@ -203,7 +255,7 @@ def multiple_avalanches(G, list_nodes, shock):
     except:
         print("Error...")
 
-
+    return avalanche
 
 def result(G, results):
     import pandas as pd
