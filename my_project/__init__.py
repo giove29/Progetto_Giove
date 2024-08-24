@@ -25,7 +25,9 @@ from .opts import (
     single_avalanche,
     multiple_avalanches,
     result,
-    case_3
+    case_3,
+    exe_case_4,
+    case_4
 )
 from .pajek import *
 
@@ -52,6 +54,8 @@ __all__ = [
     "multiple_avalanches",
     "result",
     "case_3",
+    "exe_case_4",
+    "case_4",
     "open_pajek", 
     "clean_pajek_logs"
 ]

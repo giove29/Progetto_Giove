@@ -9,7 +9,7 @@ from my_project import *
 
 def main():
     while True:
-        choice = input("\nNETWORK MENU\n1) Generate a network and its centrality calculations\n2) Perturbation mode\n3) Open a .net file with Pajek\n4) Exit\nSelect an option >> ")
+        choice = input("\nNETWORK MENU\n1) Generate a network and its centrality calculations\n2) Perturbation mode\n3) Open a .net file with Pajek\n4) Generate only a network\n5) Exit\nSelect an option >> ")
         if choice == "1":
             clear_screen()
             case_1()
@@ -23,6 +23,10 @@ def main():
             case_3()
             
         elif choice == "4":
+            clear_screen()
+            case_4()
+        
+        elif choice == "5":
             clear_screen()
             print("Bye...")
             sys.exit(1)

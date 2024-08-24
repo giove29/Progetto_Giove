@@ -303,3 +303,35 @@ def case_3():
 
     else:
         print("The file must end with .net ")
+
+
+def exe_case_4(G):
+    bowtie_components = get_bowtie_components(G)
+    
+    partitions = bowtie_to_partitions(bowtie_components)
+
+    partitions_file = "partitions.clu"
+
+    create_pajek_partitions_file(partitions_file, G, partitions)
+
+    open_pajek(G, partitions_file)
+
+def case_4():
+    choice = input("How would you create the network?\n1) By File(.txt or .net)\n2) By giving the total of nodes\n>> ")
+    if choice == "1":
+        filename = input("Type the file name >> ")
+        G = create_graph_file(filename)
+        if G is not None:
+            exe_case_4(G)
+            
+    elif choice == "2":
+        num = input("Type the number of nodes in the network you want to generate >> ")
+        try:
+            num = int(num)
+            G = create_graph_number(num)
+            if G is not None:
+                exe_case_4(G)
+        except ValueError:
+            print("Expected an Integer!")
+    else:
+        print("Not supported option")

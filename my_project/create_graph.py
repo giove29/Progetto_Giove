@@ -43,7 +43,7 @@ def create_excel(G, UG, bowtie_components):
         betweenness_current_flow = nx.current_flow_betweenness_centrality(UG)
     except:
         betweenness_current_flow = {node: 0 for node in G.nodes()}
-    random_centrality = get_random_walk(G)
+    #random_centrality = get_random_walk(G)
     for section, nodes in bowtie_components.items():
         for node in nodes:
             node_data = {
@@ -56,7 +56,7 @@ def create_excel(G, UG, bowtie_components):
                 "Betweenness Centrality": betweenness_centrality[node],
                 "PageRank Centrality": pagerank_centrality[node],
                 "CurrentFlow Centrality": betweenness_current_flow[node],
-                "RandomWalk Centrality": random_centrality[node]
+                #"RandomWalk Centrality": random_centrality[node]
             }
             data.append(node_data)
     df = pd.DataFrame(data)
