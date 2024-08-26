@@ -1,0 +1,3409 @@
+*Vertices 1463
+    1 "Belle_International_Holdings_Ltd"       0.1000    0.5000    0.5000 ellipse
+    2 "Adidas_AG"                              0.1000    0.4983    0.5000
+    3 "Nike_Inc"                               0.1000    0.4966    0.5000
+    4 "Omnicom_Group_Inc"                      0.1000    0.4948    0.5000
+    5 "TBWA_Worldwide_Inc"                     0.1001    0.4931    0.5000
+    6 "Leanix_GmbH"                            0.1001    0.4914    0.5000
+    7 "Pou_Chen_Corp"                          0.1001    0.4897    0.5000
+    8 "Zalando_SE"                             0.1002    0.4880    0.5000
+    9 "Sciessent_LLC"                          0.1002    0.4863    0.5000
+   10 "Yue_Yuen_Industrial_Holdings_Ltd"       0.1003    0.4845    0.5000
+   11 "Hibbett_Inc"                            0.1004    0.4828    0.5000
+   12 "Polygiene_AB"                           0.1004    0.4811    0.5000
+   13 "I.A.R._Systems_AB"                      0.1005    0.4794    0.5000
+   14 "Lululemon_Athletica_Inc"                0.1006    0.4777    0.5000
+   15 "Isobar"                                 0.1007    0.4760    0.5000
+   16 "Staffbase_GmbH"                         0.1008    0.4742    0.5000
+   17 "Under_Armour_Inc"                       0.1009    0.4725    0.5000
+   18 "Frasers_Group_PLC"                      0.1011    0.4708    0.5000
+   19 "Grand_Twins_International_Cambodia_PLC"    0.1012    0.4691    0.5000
+   20 "retarus_GmbH"                           0.1013    0.4674    0.5000
+   21 "Seewhy_Inc"                             0.1015    0.4657    0.5000
+   22 "Airship_Group_Inc"                      0.1016    0.4640    0.5000
+   23 "Manchester_United_PLC"                  0.1018    0.4623    0.5000
+   24 "RedPrairie_Corp"                        0.1019    0.4606    0.5000
+   25 "YOC_AG"                                 0.1021    0.4588    0.5000
+   26 "Demandware_LLC"                         0.1023    0.4571    0.5000
+   27 "Exasol_AG"                              0.1025    0.4554    0.5000
+   28 "Realtime_Technology_AG"                 0.1027    0.4537    0.5000
+   29 "WPP_PLC"                                0.1029    0.4520    0.5000
+   30 "Dyehard_Fan_Supply_LLC"                 0.1031    0.4503    0.5000
+   31 "H_&#38;_M_Hennes_&#38;_Mauritz_AB"      0.1033    0.4486    0.5000
+   32 "JD_Sports_Fashion_PLC"                  0.1035    0.4469    0.5000
+   33 "YDx_Innovation_Corp"                    0.1038    0.4452    0.5000
+   34 "Adyen_NV"                               0.1040    0.4435    0.5000
+   35 "Facebook_Inc"                           0.1043    0.4418    0.5000
+   36 "Airbus_SE"                              0.1045    0.4401    0.5000
+   37 "Air_France_KLM_SA"                      0.1048    0.4384    0.5000
+   38 "Air_Lease_Corp"                         0.1050    0.4367    0.5000
+   39 "Airasia_Group_Bhd"                      0.1053    0.4350    0.5000
+   40 "AirAsia_X_Bhd"                          0.1056    0.4333    0.5000
+   41 "American_Airlines_Group_Inc"            0.1059    0.4316    0.5000
+   42 "Bombardier_Inc"                         0.1062    0.4299    0.5000
+   43 "Cebu_Air_Inc"                           0.1065    0.4282    0.5000
+   44 "CFM_International_Inc"                  0.1068    0.4265    0.5000
+   45 "Cfm_International_SA"                   0.1071    0.4249    0.5000
+   46 "Delta_Air_Lines_Inc"                    0.1074    0.4232    0.5000
+   47 "Deutsche_Lufthansa_AG"                  0.1078    0.4215    0.5000
+   48 "Easyjet_PLC"                            0.1081    0.4198    0.5000
+   49 "Emirates_Airline"                       0.1085    0.4181    0.5000
+   50 "FACC_AG"                                0.1088    0.4164    0.5000
+   51 "Hexcel_Corp"                            0.1092    0.4148    0.5000
+   52 "Interglobe_Aviation_Ltd"                0.1096    0.4131    0.5000
+   53 "Iran_Air"                               0.1099    0.4114    0.5000
+   54 "JetBlue_Airways_Corp"                   0.1103    0.4097    0.5000
+   55 "Pratt_&#38;_Whitney_Co"                 0.1107    0.4081    0.5000
+   56 "Raytheon_Technologies_Corp"             0.1111    0.4064    0.5000
+   57 "Rolls-Royce_Holdings_PLC"               0.1115    0.4047    0.5000
+   58 "Safran_SA"                              0.1119    0.4031    0.5000
+   59 "Spirit_AeroSystems_Holdings_Inc"        0.1123    0.4014    0.5000
+   60 "United_Airlines_Inc"                    0.1128    0.3997    0.5000
+   61 "Vietjet_Aviation_JSC"                   0.1132    0.3981    0.5000
+   62 "Wizz_Air_Holdings_PLC"                  0.1136    0.3964    0.5000
+   63 "AerCap_Holdings_NV"                     0.1141    0.3947    0.5000
+   64 "Dassault_Systemes_SE"                   0.1146    0.3931    0.5000
+   65 "General_Electric_Co"                    0.1150    0.3914    0.5000
+   66 "Magellan_Aerospace_Corp"                0.1155    0.3898    0.5000
+   67 "MTU_Aero_Engines_AG"                    0.1160    0.3881    0.5000
+   68 "Qantas_Airways_Ltd"                     0.1164    0.3865    0.5000
+   69 "Rockwell_Collins_Inc"                   0.1169    0.3848    0.5000
+   70 "Thales_SA"                              0.1174    0.3832    0.5000
+   71 "Controladora_Vuela_Compania_de_Aviacion_SAB_de_CV"    0.1179    0.3816    0.5000
+   72 "Eutelsat_Communications_SA"             0.1185    0.3799    0.5000
+   73 "Inmarsat_Group_Holdings_Ltd"            0.1190    0.3783    0.5000
+   74 "Qatar_Airways_Group_QCSC"               0.1195    0.3766    0.5000
+   75 "Hardide_PLC"                            0.1200    0.3750    0.5000
+   76 "Constellium_SE"                         0.1206    0.3734    0.5000
+   77 "Air_Arabia_PJSC"                        0.1211    0.3717    0.5000
+   78 "ANA_Holdings_Inc"                       0.1217    0.3701    0.5000
+   79 "China_Southern_Airlines_Co_Ltd"         0.1222    0.3685    0.5000
+   80 "Collins_Aerospace"                      0.1228    0.3669    0.5000
+   81 "Howmet_Aerospace_Inc"                   0.1234    0.3653    0.5000
+   82 "IndiGo_Airlines"                        0.1240    0.3636    0.5000
+   83 "Lockheed_Martin_Corp"                   0.1245    0.3620    0.5000
+   84 "TriMas_Corp"                            0.1251    0.3604    0.5000
+   85 "Triumph_Group_Inc"                      0.1257    0.3588    0.5000
+   86 "Virgin_Atlantic_Airways_Ltd"            0.1264    0.3572    0.5000
+   87 "Zodiac_Aerospace_SA"                    0.1270    0.3556    0.5000
+   88 "Aegean_Airlines_SA"                     0.1276    0.3540    0.5000
+   89 "Cobham_Ltd"                             0.1282    0.3524    0.5000
+   90 "Ge_Aviation_Systems"                    0.1289    0.3508    0.5000
+   91 "Gogo_Inc"                               0.1295    0.3492    0.5000
+   92 "Japan_Airlines_Co_Ltd"                  0.1302    0.3476    0.5000
+   93 "Sichuan_Airlines_Co_Ltd"                0.1308    0.3460    0.5000
+   94 "Singapore_Airlines_Ltd"                 0.1315    0.3445    0.5000
+   95 "AstroNova_Inc"                          0.1322    0.3429    0.5000
+   96 "GKN_Ltd"                                0.1328    0.3413    0.5000
+   97 "Hawaiian_Holdings_Inc"                  0.1335    0.3397    0.5000
+   98 "Latecoere_SA"                           0.1342    0.3381    0.5000
+   99 "Middle_East_Airlines_SAL"               0.1349    0.3366    0.5000
+  100 "Rolls-Royce_PLC"                        0.1356    0.3350    0.5000
+  101 "Saab_AB"                                0.1363    0.3334    0.5000
+  102 "Volotea_SL"                             0.1370    0.3319    0.5000
+  103 "American_Lithium_Corp"                  0.1378    0.3303    0.5000
+  104 "B/E_Aerospace_Inc"                      0.1385    0.3288    0.5000
+  105 "CAE_Inc"                                0.1392    0.3272    0.5000
+  106 "China_Eastern_Airlines_Corp_Ltd"        0.1400    0.3257    0.5000
+  107 "Strata_Manufacturing_PJSC"              0.1407    0.3241    0.5000
+  108 "UTC_Aerospace_Systems"                  0.1415    0.3226    0.5000
+  109 "Vietnam_Airlines_JSC"                   0.1423    0.3210    0.5000
+  110 "Air_Canada"                             0.1430    0.3195    0.5000
+  111 "Air_China_Ltd"                          0.1438    0.3180    0.5000
+  112 "Aviation_Capital_Group_LLC"             0.1446    0.3165    0.5000
+  113 "China_Aircraft_Leasing_Group_Holdings_Ltd"    0.1454    0.3149    0.5000
+  114 "Honeywell_International_Inc"            0.1462    0.3134    0.5000
+  115 "LATAM_Airlines_Group_SA"                0.1470    0.3119    0.5000
+  116 "Spirit_Airlines_Inc"                    0.1478    0.3104    0.5000
+  117 "United_Airlines_Holdings_Inc"           0.1486    0.3089    0.5000
+  118 "International_Consolidated_Airlines_Group_SA"    0.1494    0.3074    0.5000
+  119 "Esterline_Technologies_Corp"            0.1503    0.3059    0.5000
+  120 "Meggitt_PLC"                            0.1511    0.3044    0.5000
+  121 "Al_Yah_Satellite_Communications_Company_Pjsc"    0.1520    0.3029    0.5000
+  122 "Etihad_Airways_Pjsc"                    0.1528    0.3014    0.5000
+  123 "Goodrich_Corp"                          0.1537    0.2999    0.5000
+  124 "Korea_Aerospace_Industries_Ltd"         0.1545    0.2984    0.5000
+  125 "Kuwait_Airways_Corp_KSC"                0.1554    0.2969    0.5000
+  126 "Lion_Mentari_PT"                        0.1563    0.2954    0.5000
+  127 "Aeroflot-Rossiyskiye_Avialinii_PAO"     0.1572    0.2940    0.5000
+  128 "Axiscades_Technologies_Ltd"             0.1580    0.2925    0.5000
+  129 "Composites_Technology_Research_Malaysia_Sdn_Bhd"    0.1589    0.2910    0.5000
+  130 "Indigo_Partners_Inc"                    0.1598    0.2896    0.5000
+  131 "Korporatsiya_VSMPO-AVISMA_PAO"          0.1607    0.2881    0.5000
+  132 "Northrop_Grumman_Corp"                  0.1617    0.2866    0.5000
+  133 "Norwegian_Air_Shuttle_ASA"              0.1626    0.2852    0.5000
+  134 "Renault_SA"                             0.1635    0.2837    0.5000
+  135 "Virgin_America_Inc"                     0.1644    0.2823    0.5000
+  136 "British_Airways_PLC"                    0.1654    0.2809    0.5000
+  137 "Cathay_Pacific_Airways_Ltd"             0.1663    0.2794    0.5000
+  138 "China_Airlines_Ltd"                     0.1673    0.2780    0.5000
+  139 "Sky_Brasil_Servicos_Ltda"               0.1682    0.2766    0.5000
+  140 "Turk_Hava_Yollari_AO"                   0.1692    0.2751    0.5000
+  141 "Uganda_Airlines"                        0.1702    0.2737    0.5000
+  142 "Air_Transat_AT_Inc"                     0.1711    0.2723    0.5000
+  143 "CTT_Systems_AB"                         0.1721    0.2709    0.5000
+  144 "Lufthansa_Technik_AG"                   0.1731    0.2695    0.5000
+  145 "Liebherr-International_Ltd"             0.1741    0.2681    0.5000
+  146 "Mahindra_Group"                         0.1751    0.2667    0.5000
+  147 "SES_SA"                                 0.1761    0.2653    0.5000
+  148 "AER_Lingus_Group_DAC"                   0.1771    0.2639    0.5000
+  149 "Ashley_Services_Group_Ltd"              0.1781    0.2625    0.5000
+  150 "CAE_CANADA"                             0.1791    0.2611    0.5000
+  151 "Orolia_Ltd"                             0.1802    0.2598    0.5000
+  152 "Safran_Transmission_Systems_SASU"       0.1812    0.2584    0.5000
+  153 "Transatel_SA"                           0.1822    0.2570    0.5000
+  154 "Indigo_Exploration_Inc"                 0.1833    0.2557    0.5000
+  155 "Rolls_Royce_Motor_Cars_GmbH"            0.1843    0.2543    0.5000
+  156 "SIA_Engineering_Company_Ltd"            0.1854    0.2530    0.5000
+  157 "Stratasys_Ltd"                          0.1865    0.2516    0.5000
+  158 "Tekna_Holding_AS"                       0.1875    0.2503    0.5000
+  159 "Avianca_Holdings_SA"                    0.1886    0.2489    0.5000
+  160 "BOC_Aviation_Ltd"                       0.1897    0.2476    0.5000
+  161 "China_Aviation_Supplies_Holdings_Co"    0.1908    0.2463    0.5000
+  162 "Dubai_Aerospace_Enterprise_Capital"     0.1919    0.2449    0.5000
+  163 "Embraer_SA"                             0.1930    0.2436    0.5000
+  164 "Hainan_Airlines_Holding_Co_Ltd"         0.1941    0.2423    0.5000
+  165 "Korean_Air_Lines_Co_Ltd"                0.1952    0.2410    0.5000
+  166 "Rheinmetall_AG"                         0.1963    0.2397    0.5000
+  167 "Antavia_SAS"                            0.1974    0.2384    0.5000
+  168 "House_of_Travel_Indian_Airlines"        0.1985    0.2371    0.5000
+  169 "Leonardo_SpA"                           0.1997    0.2358    0.5000
+  170 "Senior_PLC"                             0.2008    0.2345    0.5000
+  171 "Avolon_TLB_Borrower_1_Luxembourg_SARL"    0.2020    0.2332    0.5000
+  172 "BAE_Systems_PLC"                        0.2031    0.2319    0.5000
+  173 "Thai_AirAsia_Co_Ltd"                    0.2043    0.2307    0.5000
+  174 "Vistara_Capital_Partners_Ltd"           0.2054    0.2294    0.5000
+  175 "Denel_Saab_Aerostructures_Pty_Ltd"      0.2066    0.2281    0.5000
+  176 "Sky_Airline_SA"                         0.2078    0.2269    0.5000
+  177 "Thai_Airasia_X_Co_Ltd"                  0.2089    0.2256    0.5000
+  178 "AAR_Corp"                               0.2101    0.2244    0.5000
+  179 "2Crsi_SA"                               0.2113    0.2231    0.5000
+  180 "Aernnova_Aerospace_SA"                  0.2125    0.2219    0.5000
+  181 "Air_Partner_PLC"                        0.2137    0.2207    0.5000
+  182 "Aladdin_Healthcare_Technologies_SE"     0.2149    0.2194    0.5000
+  183 "Aleris_Corp"                            0.2161    0.2182    0.5000
+  184 "Chemetall_GmbH"                         0.2173    0.2170    0.5000
+  185 "Chemetall_Ltd"                          0.2185    0.2158    0.5000
+  186 "Elbit_Systems_Ltd"                      0.2198    0.2146    0.5000
+  187 "L&#38;T_Technology_Services_Ltd"        0.2210    0.2134    0.5000
+  188 "L3_Technologies_Inc"                    0.2222    0.2122    0.5000
+  189 "Mahindra_Aerospace_Private_Ltd"         0.2235    0.2110    0.5000
+  190 "Malaysian_Airline_System_Bhd"           0.2247    0.2098    0.5000
+  191 "Optima_Diagnostics_Ltd"                 0.2259    0.2086    0.5000
+  192 "Rovsing_A/S"                            0.2272    0.2075    0.5000
+  193 "Saudi_Arabian_Airlines"                 0.2285    0.2063    0.5000
+  194 "SKY_Perfect_JSAT_Corp"                  0.2297    0.2051    0.5000
+  195 "Transat_AT_Inc"                         0.2310    0.2040    0.5000
+  196 "TY-OHM_Electronic_Works_Co_Ltd"         0.2323    0.2028    0.5000
+  197 "Universal_Alloy_Corporation_Europe_SRL"    0.2335    0.2017    0.5000
+  198 "Accenture_PLC"                          0.2348    0.2005    0.5000
+  199 "Aerkomm_Inc"                            0.2361    0.1994    0.5000
+  200 "Aerospace_Industrial_Development_Corp"    0.2374    0.1983    0.5000
+  201 "Air_Tanzania_Corp"                      0.2387    0.1971    0.5000
+  202 "Airports_Authority_of_India"            0.2400    0.1960    0.5000
+  203 "Amprius__Inc"                           0.2413    0.1949    0.5000
+  204 "Asco_Industries_SA"                     0.2426    0.1938    0.5000
+  205 "Aviakompaniya_Azimut_AO"                0.2439    0.1927    0.5000
+  206 "Avolon_Aerospace_Leasing_Ltd"           0.2453    0.1916    0.5000
+  207 "Bohai_Leasing_Co_Ltd"                   0.2466    0.1905    0.5000
+  208 "Carbures_Europe_SA"                     0.2479    0.1894    0.5000
+  209 "Comac_SpA"                              0.2493    0.1883    0.5000
+  210 "Curtiss-Wright_Corp"                    0.2506    0.1873    0.5000
+  211 "GREEN_AFRICA_SHIPPING_PTY_LTD"          0.2519    0.1862    0.5000
+  212 "IQGeo_Group_PLC"                        0.2533    0.1851    0.5000
+  213 "Magellan_Health_Inc"                    0.2547    0.1841    0.5000
+  214 "Morson_Group_Ltd"                       0.2560    0.1830    0.5000
+  215 "Next_Level_Aviation_LLC"                0.2574    0.1820    0.5000
+  216 "Oasis_Hong_Kong_Airlines_Ltd"           0.2587    0.1809    0.5000
+  217 "Ovzon_AB_publ"                          0.2601    0.1799    0.5000
+  218 "Palantir_Technologies_Inc"              0.2615    0.1789    0.5000
+  219 "Protech_Wheel_Industry_Co_Ltd"          0.2629    0.1779    0.5000
+  220 "PTC_Inc"                                0.2643    0.1768    0.5000
+  221 "Scisys_Group_PLC"                       0.2657    0.1758    0.5000
+  222 "Singapore_Technologies_Engineering_Ltd"    0.2670    0.1748    0.5000
+  223 "Societe_Anonyme_Belge_de_Constructions_Aeronautiques_SA"    0.2684    0.1738    0.5000
+  224 "SupplyOn_AG"                            0.2698    0.1728    0.5000
+  225 "Thales_Alenia_Space_SAS"                0.2713    0.1719    0.5000
+  226 "TOULOUSE_A380_AIRBUS_HANGAR"            0.2727    0.1709    0.5000
+  227 "Travel_+_Leisure_Co"                    0.2741    0.1699    0.5000
+  228 "Air_BP_Ltd"                             0.2755    0.1689    0.5000
+  229 "Air_Greenland_A/S"                      0.2769    0.1680    0.5000
+  230 "Air_Vanuatu"                            0.2784    0.1670    0.5000
+  231 "Alcoa_Corp"                             0.2798    0.1661    0.5000
+  232 "Allegiant_Travel_Co"                    0.2812    0.1651    0.5000
+  233 "Babcock_International_Group_PLC"        0.2827    0.1642    0.5000
+  234 "Capgemini_SE"                           0.2841    0.1633    0.5000
+  235 "CEVA_Logistics_AG"                      0.2856    0.1623    0.5000
+  236 "Chemetall_Us_Inc"                       0.2870    0.1614    0.5000
+  237 "Ducommun_Inc"                           0.2885    0.1605    0.5000
+  238 "ECA_SA"                                 0.2899    0.1596    0.5000
+  239 "Larsen_&#38;_Toubro_Ltd"                0.2914    0.1587    0.5000
+  240 "LSP_Technologies_Inc"                   0.2929    0.1578    0.5000
+  241 "Mda_Lawyers"                            0.2943    0.1569    0.5000
+  242 "Measat_Global_Bhd"                      0.2958    0.1560    0.5000
+  243 "Melrose_Industries_PLC"                 0.2973    0.1552    0.5000
+  244 "OneLogin_Inc"                           0.2988    0.1543    0.5000
+  245 "Premium_Aerotec_GmbH"                   0.3002    0.1534    0.5000
+  246 "Royal_Air_Force_Charitable_Trust_Enterprises"    0.3017    0.1526    0.5000
+  247 "Safran_Nacelles_Ltd"                    0.3032    0.1517    0.5000
+  248 "Spicejet_Ltd"                           0.3047    0.1509    0.5000
+  249 "Spirit_Aerosystems_Europe_Ltd"          0.3062    0.1501    0.5000
+  250 "Transat_Holidays_USA_Inc"               0.3077    0.1492    0.5000
+  251 "UMW_Holdings_Bhd"                       0.3092    0.1484    0.5000
+  252 "Velocity_Composites_PLC"                0.3108    0.1476    0.5000
+  253 "Vibrant_Corp"                           0.3123    0.1468    0.5000
+  254 "Vislink_Technologies_Inc"               0.3138    0.1460    0.5000
+  255 "Vistara_Bioscience_LLC"                 0.3153    0.1452    0.5000
+  256 "Aerostructures_Assemblies_India_Pvt_Ltd"    0.3168    0.1444    0.5000
+  257 "Aleris_AS"                              0.3184    0.1436    0.5000
+  258 "Coupa_Software_Inc"                     0.3199    0.1428    0.5000
+  259 "DRS_Technologies_Canada_Ltd"            0.3214    0.1421    0.5000
+  260 "Ethiopian_Airlines_Enterprise"          0.3230    0.1413    0.5000
+  261 "Eurofighter_Jagdflugzeug_GmbH"          0.3245    0.1405    0.5000
+  262 "Frontier_Airlines_Holdings_Inc"         0.3261    0.1398    0.5000
+  263 "Frontier_Group_Holdings_Inc"            0.3276    0.1391    0.5000
+  264 "Ge_Aviation_Systems_Ltd"                0.3292    0.1383    0.5000
+  265 "GlobalData_PLC"                         0.3307    0.1376    0.5000
+  266 "Go_Airlines_India_Ltd"                  0.3323    0.1369    0.5000
+  267 "Gudeng_Precision_Industrial_Co_Ltd"     0.3338    0.1361    0.5000
+  268 "HNA_Group_Co_Ltd"                       0.3354    0.1354    0.5000
+  269 "Qingdao_Airlines_Co_Ltd"                0.3370    0.1347    0.5000
+  270 "Rolls-Royce_Motor_Cars_Ltd"             0.3385    0.1340    0.5000
+  271 "Royal_Dutch_Shell_PLC"                  0.3401    0.1333    0.5000
+  272 "SAS_AB"                                 0.3417    0.1327    0.5000
+  273 "Shenzhen_Airlines_Co_Ltd"               0.3433    0.1320    0.5000
+  274 "SMBC_Aviation_Capital_Ltd"              0.3448    0.1313    0.5000
+  275 "Sopra_Steria_Group_SA"                  0.3464    0.1307    0.5000
+  276 "STATE_GRID_GENERAL_AVIATION_CO_LTD"     0.3480    0.1300    0.5000
+  277 "Tata_Sons_Pvt_Ltd"                      0.3496    0.1293    0.5000
+  278 "888_Partners_Fund_2014-C_Series_LP"     0.3512    0.1287    0.5000
+  279 "Al-Nawadi_Holding_Co_KPSC"              0.3528    0.1281    0.5000
+  280 "Arianespace_SASU"                       0.3544    0.1274    0.5000
+  281 "Deutsche_Post_AG"                       0.3560    0.1268    0.5000
+  282 "Egyptair_Holding_Co"                    0.3576    0.1262    0.5000
+  283 "Hong_Kong_Airlines_Ltd"                 0.3592    0.1256    0.5000
+  284 "IAR_SA"                                 0.3608    0.1250    0.5000
+  285 "Malaysia_Airlines_Bhd"                  0.3624    0.1244    0.5000
+  286 "Monarch_Airlines_Ltd"                   0.3640    0.1238    0.5000
+  287 "NWS_Holdings_Ltd"                       0.3657    0.1232    0.5000
+  288 "Oneweb_Systems_Inc"                     0.3673    0.1227    0.5000
+  289 "Pacific_Airlines_Aviation_JSC"          0.3689    0.1221    0.5000
+  290 "QC_Ware_Corp"                           0.3705    0.1215    0.5000
+  291 "Ryanair_Holdings_PLC"                   0.3722    0.1210    0.5000
+  292 "Safran_Aircraft_Engines_SASU"           0.3738    0.1204    0.5000
+  293 "Skymark_Airlines_Inc"                   0.3754    0.1199    0.5000
+  294 "Titan_Airways_Ltd"                      0.3770    0.1194    0.5000
+  295 "Agustawestland_SpA"                     0.3787    0.1188    0.5000
+  296 "Elbe_Flugzeugwerke_GmbH"                0.3803    0.1183    0.5000
+  297 "Galliford_Try_Holdings_PLC"             0.3820    0.1178    0.5000
+  298 "GE_Capital_Aviation_Services_LLC"       0.3836    0.1173    0.5000
+  299 "Jet_Airways_India_Ltd"                  0.3852    0.1168    0.5000
+  300 "Jet2_PLC"                               0.3869    0.1163    0.5000
+  301 "Starlux_Airlines_Co_Ltd"                0.3885    0.1158    0.5000
+  302 "Air_Liquide"                            0.3902    0.1154    0.5000
+  303 "ASDA_Group_Ltd"                         0.3918    0.1149    0.5000
+  304 "Sasol_Ltd"                              0.3935    0.1144    0.5000
+  305 "Steel_Dynamics_Inc"                     0.3952    0.1140    0.5000
+  306 "Total_Energies_Nouvelles_Activites_USA_SASU"    0.3968    0.1135    0.5000
+  307 "Axion_Energy_Argentina_SA"              0.3985    0.1131    0.5000
+  308 "Eastman_Chemical_Co"                    0.4001    0.1127    0.5000
+  309 "Marathon_Petroleum_Company_LP"          0.4018    0.1122    0.5000
+  310 "OCI_Partners_LP"                        0.4035    0.1118    0.5000
+  311 "Shandong_Energy_Group_Co_Ltd"           0.4051    0.1114    0.5000
+  312 "Akeneo_SAS"                             0.4068    0.1110    0.5000
+  313 "ArcelorMittal_SA"                       0.4085    0.1106    0.5000
+  314 "China_Petroleum_&#38;_Chemical_Corp"    0.4102    0.1102    0.5000
+  315 "Petroleos_Mexicanos"                    0.4118    0.1098    0.5000
+  316 "SINOPEC_Beijing_Yanshan_Petrochemical_Ltd"    0.4135    0.1095    0.5000
+  317 "BASF_SE"                                0.4152    0.1091    0.5000
+  318 "Chart_Industries_Inc"                   0.4169    0.1087    0.5000
+  319 "Severstal&#39;_PAO"                     0.4185    0.1084    0.5000
+  320 "Scores_Holding_Company_Inc"             0.4202    0.1080    0.5000
+  321 "Allianz_SE"                             0.4219    0.1077    0.5000
+  322 "SinnerSchrader_AG"                      0.4236    0.1074    0.5000
+  323 "CENIT_AG"                               0.4253    0.1070    0.5000
+  324 "Tricentis_Technology_&#38;_Consulting_GmbH"    0.4270    0.1067    0.5000
+  325 "Talend_SA"                              0.4287    0.1064    0.5000
+  326 "International_Business_Machines_Corp"    0.4304    0.1061    0.5000
+  327 "Deutsche_Telekom_AG"                    0.4320    0.1058    0.5000
+  328 "Preferred_Life_Variable_Account_C"      0.4337    0.1055    0.5000
+  329 "VMware_Inc"                             0.4354    0.1052    0.5000
+  330 "Amadeus_IT_Group_SA"                    0.4371    0.1050    0.5000
+  331 "Couchbase_Inc"                          0.4388    0.1047    0.5000
+  332 "Inntopia_Com_Inc"                       0.4405    0.1044    0.5000
+  333 "Moovly_Media_Inc"                       0.4422    0.1042    0.5000
+  334 "TravelClick_Inc"                        0.4439    0.1040    0.5000
+  335 "Red_Hat_Inc"                            0.4456    0.1037    0.5000
+  336 "Bosch_Corp"                             0.4473    0.1035    0.5000
+  337 "everis_Spain_SLU"                       0.4490    0.1033    0.5000
+  338 "Southwest_Airlines_Co"                  0.4507    0.1030    0.5000
+  339 "Sabre_Corp"                             0.4524    0.1028    0.5000
+  340 "Anheuser_Busch_Inbev_SA"                0.4541    0.1026    0.5000
+  341 "Asana_Rebel_GmbH"                       0.4559    0.1024    0.5000
+  342 "Ardagh_Packaging_Holdings_Ltd"          0.4576    0.1023    0.5000
+  343 "Molson_Coors_Beverage_Co"               0.4593    0.1021    0.5000
+  344 "Ardagh_Group_SA"                        0.4610    0.1019    0.5000
+  345 "Constellation_Brands_Inc"               0.4627    0.1017    0.5000
+  346 "Budweiser"                              0.4644    0.1016    0.5000
+  347 "Spark_Neuro_Inc"                        0.4661    0.1014    0.5000
+  348 "Absolicon_Solar_Collector_AB"           0.4678    0.1013    0.5000
+  349 "pulse220_LLC"                           0.4695    0.1012    0.5000
+  350 "Cerveceria_y_Malteria_Quilmes_SAICA_y_G"    0.4713    0.1010    0.5000
+  351 "Kapitan_Diado_Nikola_v_nesustoiatelnost_AD"    0.4730    0.1009    0.5000
+  352 "Ambev_SA"                               0.4747    0.1008    0.5000
+  353 "PepsiCo_Inc"                            0.4764    0.1007    0.5000
+  354 "KKR_&#38;_Co_Inc"                       0.4781    0.1006    0.5000
+  355 "ASML_Holding_NV"                        0.4798    0.1005    0.5000
+  356 "Intel_Corp"                             0.4815    0.1004    0.5000
+  357 "Samsung_Electronics_Co_Ltd"             0.4833    0.1004    0.5000
+  358 "Taiwan_Semiconductor_Manufacturing_Co_Ltd"    0.4850    0.1003    0.5000
+  359 "Carl_Zeiss_SMT_GmbH"                    0.4867    0.1002    0.5000
+  360 "Nikon_Corp"                             0.4884    0.1002    0.5000
+  361 "Lumentum_Holdings_Inc"                  0.4901    0.1001    0.5000
+  362 "Semiconductor_Manufacturing_International_Corp"    0.4918    0.1001    0.5000
+  363 "Jenoptik_AG"                            0.4936    0.1001    0.5000
+  364 "Cymer_Inc"                              0.4953    0.1000    0.5000
+  365 "Entegris_Inc"                           0.4970    0.1000    0.5000
+  366 "Joh_Berenberg_Gossler_&#38;_Co_KG"      0.4987    0.1000    0.5000
+  367 "KPMG_Accountants_NV"                    0.5004    0.1000    0.5000
+  368 "ASML_Motion_Sub_BV"                     0.5021    0.1000    0.5000
+  369 "SK_Hynix_Inc"                           0.5039    0.1000    0.5000
+  370 "Apple_Inc"                              0.5056    0.1000    0.5000
+  371 "Cymer_LLC"                              0.5073    0.1001    0.5000
+  372 "NXT-ID_Inc"                             0.5090    0.1001    0.5000
+  373 "XTAL_Inc"                               0.5107    0.1001    0.5000
+  374 "EuV_Residential_Lizenzholding_GmbH"     0.5125    0.1002    0.5000
+  375 "SMT_Scharf_AG"                          0.5142    0.1003    0.5000
+  376 "Micron_Technology_Inc"                  0.5159    0.1003    0.5000
+  377 "AXA_SA"                                 0.5176    0.1004    0.5000
+  378 "Aeh_Group_Ltd"                          0.5193    0.1005    0.5000
+  379 "Ngdata_NV"                              0.5210    0.1006    0.5000
+  380 "SecurityScorecard_Inc"                  0.5227    0.1006    0.5000
+  381 "Vymo_Solutions_Pvt_Ltd"                 0.5245    0.1007    0.5000
+  382 "Refinitiv_US_Holdings_Inc"              0.5262    0.1009    0.5000
+  383 "Banco_Santander_SA"                     0.5279    0.1010    0.5000
+  384 "Santander_UK_Group_Holdings_PLC"        0.5296    0.1011    0.5000
+  385 "Nuance_Communications_Inc"              0.5313    0.1012    0.5000
+  386 "Evertec_Inc"                            0.5330    0.1014    0.5000
+  387 "nCino_Inc"                              0.5347    0.1015    0.5000
+  388 "Glencore_PLC"                           0.5365    0.1017    0.5000
+  389 "Fluor_Corp"                             0.5382    0.1018    0.5000
+  390 "Verbund_AG"                             0.5399    0.1020    0.5000
+  391 "Sunpower_Group_Ltd"                     0.5416    0.1022    0.5000
+  392 "Gunvor_Group_Ltd"                       0.5433    0.1023    0.5000
+  393 "RWE_AG"                                 0.5450    0.1025    0.5000
+  394 "Bilfinger_SE"                           0.5467    0.1027    0.5000
+  395 "Vitol_SA"                               0.5484    0.1029    0.5000
+  396 "Elemica_Inc"                            0.5501    0.1032    0.5000
+  397 "HP_Inc"                                 0.5518    0.1034    0.5000
+  398 "Jacobs_Engineering_Group_Inc"           0.5535    0.1036    0.5000
+  399 "Amarin_Corporation_PLC"                 0.5552    0.1038    0.5000
+  400 "Aspen_Aerogels_Inc"                     0.5569    0.1041    0.5000
+  401 "Trafigura_Pte_Ltd"                      0.5586    0.1043    0.5000
+  402 "Trinseo_SA"                             0.5603    0.1046    0.5000
+  403 "BP_PLC"                                 0.5620    0.1048    0.5000
+  404 "General_Motors_Co"                      0.5637    0.1051    0.5000
+  405 "Air_Liquide_Far_Eastern_Ltd"            0.5654    0.1054    0.5000
+  406 "Esw_Holdings_Inc"                       0.5671    0.1057    0.5000
+  407 "Equinor_ASA"                            0.5688    0.1060    0.5000
+  408 "GMK_Noril&#39;skiy_Nikel&#39;_PAO"      0.5705    0.1063    0.5000
+  409 "Citrine_Informatics_Inc"                0.5722    0.1066    0.5000
+  410 "Emerson_Automation_Solutions_Final_Control_Uk_Ltd"    0.5739    0.1069    0.5000
+  411 "Emerson_Electric_Co"                    0.5756    0.1072    0.5000
+  412 "Hollysys_Automation_Technologies_Ltd"    0.5772    0.1075    0.5000
+  413 "Huntsman_International_LLC"             0.5789    0.1079    0.5000
+  414 "Petroliam_Nasional_Bhd"                 0.5806    0.1082    0.5000
+  415 "Quality_Distribution_Inc"               0.5823    0.1086    0.5000
+  416 "Stahl_Group_BV"                         0.5840    0.1089    0.5000
+  417 "Anaqua_Inc"                             0.5857    0.1093    0.5000
+  418 "Aspen_Technology_Inc"                   0.5873    0.1097    0.5000
+  419 "Azelis_Americas_Case_LLC"               0.5890    0.1100    0.5000
+  420 "Diversey_Inc"                           0.5907    0.1104    0.5000
+  421 "Ecovadis_SAS"                           0.5924    0.1108    0.5000
+  422 "Monsanto_Co"                            0.5940    0.1112    0.5000
+  423 "R_Stahl_AG"                             0.5957    0.1116    0.5000
+  424 "BeyondSpring_Inc"                       0.5974    0.1120    0.5000
+  425 "Hexion_Inc"                             0.5990    0.1125    0.5000
+  426 "Huntsman_Corp"                          0.6007    0.1129    0.5000
+  427 "Mauser_Group_NV"                        0.6024    0.1133    0.5000
+  428 "Microtek_Laboratories_Inc"              0.6040    0.1138    0.5000
+  429 "Solenis_LLC"                            0.6057    0.1142    0.5000
+  430 "Worley_Ltd"                             0.6073    0.1147    0.5000
+  431 "M_Holland_Co"                           0.6090    0.1151    0.5000
+  432 "THT_Heat_Transfer_Technology_Inc"       0.6106    0.1156    0.5000
+  433 "Transportes_Azkar_SA"                   0.6123    0.1161    0.5000
+  434 "MATRIKON_Deutschland_GmbH"              0.6139    0.1166    0.5000
+  435 "Nisshin_Pharma_Inc"                     0.6156    0.1171    0.5000
+  436 "Wintershall_Dea_AG"                     0.6172    0.1176    0.5000
+  437 "Xinjiang_Tianye_Group_Co_Ltd"           0.6189    0.1181    0.5000
+  438 "L&#39;Air_Liquide_Societe_Anonyme_pour_l&#39;Etude_et_l&#39;Exploitation_des_Procedes_Georges_Claude_SA"    0.6205    0.1186    0.5000
+  439 "Robert_Bosch_GmbH"                      0.6221    0.1191    0.5000
+  440 "Solvay_SA"                              0.6238    0.1196    0.5000
+  441 "Beijing_Oriental_Yuhong_Waterproof_Technology_Co_Ltd"    0.6254    0.1202    0.5000
+  442 "Ionis_Pharmaceuticals_Inc"              0.6270    0.1207    0.5000
+  443 "Bayer_AG"                               0.6287    0.1213    0.5000
+  444 "Vyne_Pharmaceuticals_Ltd"               0.6303    0.1218    0.5000
+  445 "Genzyme_Corp"                           0.6319    0.1224    0.5000
+  446 "Atara_Biotherapeutics_Inc"              0.6335    0.1229    0.5000
+  447 "ImmunoGen_Inc"                          0.6351    0.1235    0.5000
+  448 "Teva_Pharmaceutical_Industries_Ltd"     0.6368    0.1241    0.5000
+  449 "Kimball_International_Inc"              0.6384    0.1247    0.5000
+  450 "Regeneron_Pharmaceuticals_Inc"          0.6400    0.1253    0.5000
+  451 "Perrigo_Co"                             0.6416    0.1259    0.5000
+  452 "Veeva_Systems_Inc"                      0.6432    0.1265    0.5000
+  453 "Celonis_GmbH"                           0.6448    0.1271    0.5000
+  454 "Paragon_Marketing_Communication_General_Trading_Co_WLL"    0.6464    0.1278    0.5000
+  455 "Loxo_Oncology_Inc"                      0.6480    0.1284    0.5000
+  456 "Biogen_Inc"                             0.6496    0.1290    0.5000
+  457 "Merck_&#38;_Co_Inc"                     0.6512    0.1297    0.5000
+  458 "Sensyne_Health_PLC"                     0.6528    0.1303    0.5000
+  459 "Bausch_Health_Companies_Inc"            0.6544    0.1310    0.5000
+  460 "ExpertAi_SpA"                           0.6559    0.1317    0.5000
+  461 "Recursion_Pharmaceuticals_Inc"          0.6575    0.1323    0.5000
+  462 "Rivery_Technology_Ltd"                  0.6591    0.1330    0.5000
+  463 "DocuSign_Inc"                           0.6607    0.1337    0.5000
+  464 "Grifols_SA"                             0.6622    0.1344    0.5000
+  465 "Qumu_Corp"                              0.6638    0.1351    0.5000
+  466 "Acura_Pharmaceuticals_Inc"              0.6654    0.1358    0.5000
+  467 "Blujay_Solutions_Ltd"                   0.6669    0.1365    0.5000
+  468 "Boston_Scientific_Corp"                 0.6685    0.1372    0.5000
+  469 "Horizon_Pharma_Inc"                     0.6701    0.1380    0.5000
+  470 "Kythera_Biopharmaceuticals_Inc"         0.6716    0.1387    0.5000
+  471 "Nektar_Therapeutics"                    0.6732    0.1394    0.5000
+  472 "OncoMed_Pharmaceuticals_Inc"            0.6747    0.1402    0.5000
+  473 "Rekoop_Ltd"                             0.6763    0.1409    0.5000
+  474 "Salesforce.Com_Inc"                     0.6778    0.1417    0.5000
+  475 "Natco_Pharma_Ltd"                       0.6793    0.1425    0.5000
+  476 "PeptiDream_Inc"                         0.6809    0.1432    0.5000
+  477 "Moberg_Pharma_AB_publ"                  0.6824    0.1440    0.5000
+  478 "US_Bioservices_Corp"                    0.6839    0.1448    0.5000
+  479 "Compugen_Ltd"                           0.6855    0.1456    0.5000
+  480 "SK_Motor-Harant_TDV"                    0.6870    0.1464    0.5000
+  481 "Appian_Corp"                            0.6885    0.1472    0.5000
+  482 "Harman_International_Industries_Inc"    0.6900    0.1480    0.5000
+  483 "BMW_AG"                                 0.6915    0.1488    0.5000
+  484 "Magna_International_Inc"                0.6930    0.1497    0.5000
+  485 "Samsung_SDI_Co_Ltd"                     0.6945    0.1505    0.5000
+  486 "A123_Systems_Inc"                       0.6960    0.1513    0.5000
+  487 "Contemporary_Amperex_Technology_Co_Ltd"    0.6975    0.1522    0.5000
+  488 "SAAB_Automobile_AB"                     0.6990    0.1530    0.5000
+  489 "Hankook_Tire_&#38;_Technology_Co_Ltd"    0.7005    0.1539    0.5000
+  490 "Steel_Strips_Wheels_Ltd"                0.7020    0.1547    0.5000
+  491 "ZF_Friedrichshafen_AG"                  0.7035    0.1556    0.5000
+  492 "C_&#38;_A_Textiles_Ltd"                 0.7049    0.1565    0.5000
+  493 "Ganfeng_Lithium_Co_Ltd"                 0.7064    0.1574    0.5000
+  494 "Inchcape_PLC"                           0.7079    0.1583    0.5000
+  495 "NVIDIA_Corp"                            0.7093    0.1592    0.5000
+  496 "Livent_Corp"                            0.7108    0.1601    0.5000
+  497 "VDL_Nedcar_BV"                          0.7123    0.1610    0.5000
+  498 "Daimler_AG"                             0.7137    0.1619    0.5000
+  499 "Innoviz_Technologies_Ltd"               0.7152    0.1628    0.5000
+  500 "Xometry_Inc"                            0.7166    0.1637    0.5000
+  501 "Hankook_&#38;_Company_Co_Ltd"           0.7181    0.1647    0.5000
+  502 "Visteon_Corp"                           0.7195    0.1656    0.5000
+  503 "Garmin_Ltd"                             0.7209    0.1665    0.5000
+  504 "Cooper-Standard_Holdings_Inc"           0.7224    0.1675    0.5000
+  505 "Incadea_Ltd"                            0.7238    0.1685    0.5000
+  506 "Amazon.com_Inc"                         0.7252    0.1694    0.5000
+  507 "Lear_Corp"                              0.7266    0.1704    0.5000
+  508 "SGL_Carbon_SE"                          0.7280    0.1714    0.5000
+  509 "Audi_AG"                                0.7295    0.1724    0.5000
+  510 "Northvolt_AB"                           0.7309    0.1733    0.5000
+  511 "Nokia_Oyj"                              0.7323    0.1743    0.5000
+  512 "TomTom_NV"                              0.7337    0.1753    0.5000
+  513 "SHL_Liquidation_Industries_Inc"         0.7350    0.1763    0.5000
+  514 "Toyota_Motor_Europe_SA"                 0.7364    0.1774    0.5000
+  515 "Akzo_Nobel_NV"                          0.7378    0.1784    0.5000
+  516 "Ballard_Power_Systems_Inc"              0.7392    0.1794    0.5000
+  517 "DriveNow_GmbH_&#38;_Co_KG"              0.7406    0.1804    0.5000
+  518 "Duerr_AG"                               0.7419    0.1815    0.5000
+  519 "Faurecia_SE"                            0.7433    0.1825    0.5000
+  520 "Gentex_Corp"                            0.7447    0.1836    0.5000
+  521 "Infosys_Ltd"                            0.7460    0.1846    0.5000
+  522 "Nordex_SE"                              0.7474    0.1857    0.5000
+  523 "Yit_Oyj"                                0.7487    0.1867    0.5000
+  524 "Jaguar_Land_Rover_Automotive_PLC"       0.7501    0.1878    0.5000
+  525 "Mobileye_BV"                            0.7514    0.1889    0.5000
+  526 "Solid_Power_Inc"                        0.7527    0.1900    0.5000
+  527 "Superior_Industries_Europe_AG"          0.7541    0.1911    0.5000
+  528 "Magna_Steyr_AG_&#38;_Co_KG"             0.7554    0.1921    0.5000
+  529 "Oxe_Marine_AB"                          0.7567    0.1932    0.5000
+  530 "Range_Rover_of_North_America_Inc"       0.7580    0.1944    0.5000
+  531 "Volvo_AB"                               0.7593    0.1955    0.5000
+  532 "BMW_Bank_GmbH"                          0.7606    0.1966    0.5000
+  533 "Tesla_Inc"                              0.7619    0.1977    0.5000
+  534 "Novelis_Inc"                            0.7632    0.1988    0.5000
+  535 "Continental_AG"                         0.7645    0.2000    0.5000
+  536 "TKJP_Corp"                              0.7658    0.2011    0.5000
+  537 "Alcantara_SpA"                          0.7671    0.2022    0.5000
+  538 "Aptiv_PLC"                              0.7684    0.2034    0.5000
+  539 "BMW_MOTORRAD_GMBH_&#38;_CO"             0.7696    0.2045    0.5000
+  540 "Crossmedia"                             0.7709    0.2057    0.5000
+  541 "Exide_Technologies_LLC"                 0.7722    0.2069    0.5000
+  542 "Giesecke+Devrient_GmbH"                 0.7734    0.2080    0.5000
+  543 "Immedia_Group_PLC"                      0.7747    0.2092    0.5000
+  544 "Livent_Inc"                             0.7759    0.2104    0.5000
+  545 "Martinrea_International_Inc"            0.7772    0.2116    0.5000
+  546 "Osram_Licht_AG"                         0.7784    0.2128    0.5000
+  547 "Premier_Technical_Services_Group_Ltd"    0.7796    0.2140    0.5000
+  548 "QNX_Software_Systems_Ltd"               0.7809    0.2152    0.5000
+  549 "RideCell_Inc"                           0.7821    0.2164    0.5000
+  550 "Tenneco_Inc"                            0.7833    0.2176    0.5000
+  551 "ThingWorx_Inc"                          0.7845    0.2188    0.5000
+  552 "Valeo_SE"                               0.7857    0.2201    0.5000
+  553 "Vattenfall_AB"                          0.7869    0.2213    0.5000
+  554 "Vision_6_Pty_Ltd"                       0.7881    0.2225    0.5000
+  555 "Alibaba_Group_Holding_Ltd"              0.7893    0.2238    0.5000
+  556 "ANSYS_Inc"                              0.7905    0.2250    0.5000
+  557 "Borgwarner_Inc"                         0.7917    0.2263    0.5000
+  558 "Eagle_Ottawa_LLC"                       0.7928    0.2275    0.5000
+  559 "Halla_Holdings_Corp"                    0.7940    0.2288    0.5000
+  560 "Hilite_International_Inc"               0.7952    0.2300    0.5000
+  561 "Maserati_SpA"                           0.7963    0.2313    0.5000
+  562 "NavInfo_Co_Ltd"                         0.7975    0.2326    0.5000
+  563 "Novelis_Korea_Ltd"                      0.7986    0.2339    0.5000
+  564 "Opel_Automobile_GmbH"                   0.7998    0.2351    0.5000
+  565 "Parrot_SA"                              0.8009    0.2364    0.5000
+  566 "Unity_Technologies_ApS"                 0.8020    0.2377    0.5000
+  567 "VOXX_International_Corp"                0.8031    0.2390    0.5000
+  568 "WINDCHILL_TECHNOLOGY_CORP"              0.8043    0.2403    0.5000
+  569 "Workhorse_Group_Inc"                    0.8054    0.2416    0.5000
+  570 "Yokohama_Rubber_Co_Ltd"                 0.8065    0.2430    0.5000
+  571 "ZF_TRW_Automotive_Holdings_Corp"        0.8076    0.2443    0.5000
+  572 "AT&#38;T_Inc"                           0.8087    0.2456    0.5000
+  573 "China_XD_Plastics_Company_Ltd"          0.8098    0.2469    0.5000
+  574 "Ford_Motor_Co"                          0.8108    0.2483    0.5000
+  575 "Getac_Technology_Corp"                  0.8119    0.2496    0.5000
+  576 "Kuka_AG"                                0.8130    0.2509    0.5000
+  577 "Royal_Imtech_NV"                        0.8141    0.2523    0.5000
+  578 "Wirelesscar_Sweden_AB"                  0.8151    0.2536    0.5000
+  579 "wpd_AG"                                 0.8162    0.2550    0.5000
+  580 "Xtime_LLC"                              0.8172    0.2564    0.5000
+  581 "Baidu_Inc"                              0.8183    0.2577    0.5000
+  582 "Delta_Electronics_Inc"                  0.8193    0.2591    0.5000
+  583 "Verne_Global_Ltd"                       0.8203    0.2605    0.5000
+  584 "Brilliance_China_Automotive_Holdings_Ltd"    0.8214    0.2618    0.5000
+  585 "Deere_&#38;_Co"                         0.8224    0.2632    0.5000
+  586 "Quintiq_Holding_BV"                     0.8234    0.2646    0.5000
+  587 "Stellantis_NV"                          0.8244    0.2660    0.5000
+  588 "ZKW_Group_GmbH"                         0.8254    0.2674    0.5000
+  589 "BNP_Paribas_SA"                         0.8264    0.2688    0.5000
+  590 "Ingenico_Group_SA"                      0.8274    0.2702    0.5000
+  591 "IBM_Luxembourg_SARL"                    0.8284    0.2716    0.5000
+  592 "Tata_Consultancy_Services_Ltd"          0.8294    0.2730    0.5000
+  593 "Illumio_Inc"                            0.8303    0.2744    0.5000
+  594 "Infotel_SA"                             0.8313    0.2759    0.5000
+  595 "Commercial_Vehicle_Group_Inc"           0.8323    0.2773    0.5000
+  596 "Nissan_Motor_Co_Ltd"                    0.8332    0.2787    0.5000
+  597 "SK_Innovation_Co_Ltd"                   0.8342    0.2801    0.5000
+  598 "WABCO_Holdings_Inc"                     0.8351    0.2816    0.5000
+  599 "Meritor_Inc"                            0.8360    0.2830    0.5000
+  600 "Dana_Inc"                               0.8370    0.2845    0.5000
+  601 "United_Parcel_Service_Inc"              0.8379    0.2859    0.5000
+  602 "Akka_Technologies_SE"                   0.8388    0.2874    0.5000
+  603 "Aston_Martin_Lagonda_Ltd"               0.8397    0.2888    0.5000
+  604 "Cummins_Inc"                            0.8406    0.2903    0.5000
+  605 "Bayerische_Motoren_Werke_AG"            0.8415    0.2918    0.5000
+  606 "Toyota_Motor_Corp"                      0.8424    0.2932    0.5000
+  607 "Daimler_Truck_AG"                       0.8433    0.2947    0.5000
+  608 "Hexagon_Composites_ASA"                 0.8442    0.2962    0.5000
+  609 "Veoneer_Inc"                            0.8450    0.2976    0.5000
+  610 "Volkswagen_AG"                          0.8459    0.2991    0.5000
+  611 "Bollore_SE"                             0.8468    0.3006    0.5000
+  612 "LG_Chem_Ltd"                            0.8476    0.3021    0.5000
+  613 "Microsoft_Corp"                         0.8485    0.3036    0.5000
+  614 "Parkopedia_Ltd"                         0.8493    0.3051    0.5000
+  615 "Day_Software_Holding_AG"                0.8501    0.3066    0.5000
+  616 "Kamaz_PAO"                              0.8510    0.3081    0.5000
+  617 "Penske_Automotive_Group_Inc"            0.8518    0.3096    0.5000
+  618 "Daimler_Mobility_Services_GmbH"         0.8526    0.3111    0.5000
+  619 "Icertis_Inc"                            0.8534    0.3126    0.5000
+  620 "Motherson_Sumi_Systems_Ltd"             0.8542    0.3142    0.5000
+  621 "Valmet_Automotive_Oy"                   0.8550    0.3157    0.5000
+  622 "Xilinx_Inc"                             0.8558    0.3172    0.5000
+  623 "EVE_Energy_Co_Ltd"                      0.8566    0.3187    0.5000
+  624 "LG_Electronics_Inc"                     0.8574    0.3203    0.5000
+  625 "ThoughtSpot_Inc"                        0.8581    0.3218    0.5000
+  626 "Chrysler_Ltd"                           0.8589    0.3234    0.5000
+  627 "Autoliv_Inc"                            0.8596    0.3249    0.5000
+  628 "BNN_Technology_PLC"                     0.8604    0.3264    0.5000
+  629 "Johnson_Controls_Inc"                   0.8611    0.3280    0.5000
+  630 "Porsche_Automobil_Holding_SE"           0.8619    0.3295    0.5000
+  631 "Publicis_Groupe_SA"                     0.8626    0.3311    0.5000
+  632 "Sanden_Holdings_Corp"                   0.8633    0.3327    0.5000
+  633 "Teklas_Kaucuk_Sanayi_ve_Ticaret_AS"     0.8640    0.3342    0.5000
+  634 "Waymo_LLC"                              0.8647    0.3358    0.5000
+  635 "Allison_Transmission_Holdings_Inc"      0.8654    0.3374    0.5000
+  636 "Barkawi_Management_Consultants_GmbH_&#38;_Co_KG"    0.8661    0.3389    0.5000
+  637 "Goodyear_Tire_&#38;_Rubber_Co"          0.8668    0.3405    0.5000
+  638 "Linamar_Light_Metals_SAS"               0.8675    0.3421    0.5000
+  639 "Rolls_Royce_Power_Systems_AG"           0.8682    0.3437    0.5000
+  640 "Uber_Technologies_Inc"                  0.8688    0.3452    0.5000
+  641 "XCMG_Construction_Machinery_Co_Ltd"     0.8695    0.3468    0.5000
+  642 "Alphabet_Inc"                           0.8702    0.3484    0.5000
+  643 "Daimler_Trucks_North_America_LLC"       0.8708    0.3500    0.5000
+  644 "Deutsche_Accumotive_GmbH_&#38;_Co_KG"    0.8715    0.3516    0.5000
+  645 "Sccrsg_Corp"                            0.8721    0.3532    0.5000
+  646 "FCA_US_LLC"                             0.8727    0.3548    0.5000
+  647 "MCI_Communications_Corp"                0.8733    0.3564    0.5000
+  648 "Mercedes-Benz_Bank_AG"                  0.8739    0.3580    0.5000
+  649 "Cognigy_GmbH"                           0.8746    0.3596    0.5000
+  650 "Mobility_House_AG"                      0.8752    0.3612    0.5000
+  651 "Software_AG"                            0.8757    0.3628    0.5000
+  652 "Zoom_Corp"                              0.8763    0.3644    0.5000
+  653 "Aleris_International_Inc"               0.8769    0.3661    0.5000
+  654 "Northstar_Commercial_Partners"          0.8775    0.3677    0.5000
+  655 "Danone_SA"                              0.8780    0.3693    0.5000
+  656 "Danone_US_Inc"                          0.8786    0.3709    0.5000
+  657 "Fonterra_Co-Operative_Group_Ltd"        0.8792    0.3726    0.5000
+  658 "Clover_Industries_Ltd"                  0.8797    0.3742    0.5000
+  659 "Martek_Biosciences_Corp"                0.8802    0.3758    0.5000
+  660 "Fallon_Worldwide"                       0.8808    0.3775    0.5000
+  661 "Loop_Industries_Inc"                    0.8813    0.3791    0.5000
+  662 "Chr_Hansen_Holding_A/S"                 0.8818    0.3807    0.5000
+  663 "ID_Logistics_SAS"                       0.8823    0.3824    0.5000
+  664 "Invibes_Advertising_NV"                 0.8828    0.3840    0.5000
+  665 "Linkfluence_SAS"                        0.8833    0.3857    0.5000
+  666 "Ultrack_Systems_Inc"                    0.8838    0.3873    0.5000
+  667 "Yashili_International_Holdings_Ltd"     0.8843    0.3890    0.5000
+  668 "sorbion_&#38;_GmbH_Co_KG"               0.8848    0.3906    0.5000
+  669 "Transparency_Software_Inc"              0.8852    0.3923    0.5000
+  670 "XMReality_AB_publ"                      0.8857    0.3939    0.5000
+  671 "Young_and_Rubicam_Inc"                  0.8861    0.3956    0.5000
+  672 "Amcor_PLC"                              0.8866    0.3972    0.5000
+  673 "Eurofins_Scientific_SE"                 0.8870    0.3989    0.5000
+  674 "Iberdrola_SA"                           0.8874    0.4006    0.5000
+  675 "Publicis_Communications_Schweiz_AG"     0.8879    0.4022    0.5000
+  676 "EDF_Renewables_Distributed_Solutions_Inc"    0.8883    0.4039    0.5000
+  677 "David5_LLC"                             0.8887    0.4056    0.5000
+  678 "Waste_Management_Inc"                   0.8891    0.4072    0.5000
+  679 "Unitar"                                 0.8895    0.4089    0.5000
+  680 "Marlin_&#38;_Associates_New_York_LLC"    0.8899    0.4106    0.5000
+  681 "Deutsche_Boerse_AG"                     0.8903    0.4122    0.5000
+  682 "Juniper_Networks_Inc"                   0.8906    0.4139    0.5000
+  683 "SAP_SE"                                 0.8910    0.4156    0.5000
+  684 "Air_Transport_Services_Group_Inc"       0.8914    0.4173    0.5000
+  685 "Atlas_Air_Worldwide_Holdings_Inc"       0.8917    0.4190    0.5000
+  686 "innogy_SE"                              0.8921    0.4206    0.5000
+  687 "3t_Systems"                             0.8924    0.4223    0.5000
+  688 "Arcimoto_Inc"                           0.8927    0.4240    0.5000
+  689 "Vodafone_Group_PLC"                     0.8930    0.4257    0.5000
+  690 "StreetScooter_GmbH"                     0.8934    0.4274    0.5000
+  691 "Cryoport_Inc"                           0.8937    0.4291    0.5000
+  692 "APO_Group"                              0.8940    0.4308    0.5000
+  693 "Blue_Yonder_Group_Inc"                  0.8943    0.4325    0.5000
+  694 "Kreisstadt_Bad_Hersfeld"                0.8945    0.4342    0.5000
+  695 "S.F._Holding_Co_Ltd"                    0.8948    0.4359    0.5000
+  696 "Vuzix_Corp"                             0.8951    0.4376    0.5000
+  697 "Huawei_Technologies_Co_Ltd"             0.8954    0.4393    0.5000
+  698 "iPass_Inc"                              0.8956    0.4409    0.5000
+  699 "Telefonaktiebolaget_LM_Ericsson"        0.8959    0.4426    0.5000
+  700 "Magyar_Telekom_Tavkozlesi_Nyrt"         0.8961    0.4443    0.5000
+  701 "ADTRAN_Inc"                             0.8963    0.4461    0.5000
+  702 "Dsp_Group_Inc"                          0.8966    0.4478    0.5000
+  703 "Zenterio_AB_publ"                       0.8968    0.4495    0.5000
+  704 "AppDirect_Inc"                          0.8970    0.4512    0.5000
+  705 "T-Mobile_US_Inc"                        0.8972    0.4529    0.5000
+  706 "T-System_Inc"                           0.8974    0.4546    0.5000
+  707 "Orange_SA"                              0.8976    0.4563    0.5000
+  708 "T-Mobile_USA_Inc"                       0.8978    0.4580    0.5000
+  709 "Cisco_Systems_Inc"                      0.8980    0.4597    0.5000
+  710 "Telefonica_Deutschland_Holding_AG"      0.8981    0.4614    0.5000
+  711 "Infinera_Corp"                          0.8983    0.4631    0.5000
+  712 "Caverion_Oyj"                           0.8985    0.4648    0.5000
+  713 "EE_Ltd"                                 0.8986    0.4665    0.5000
+  714 "MariaDB_Corporation_Ab"                 0.8987    0.4683    0.5000
+  715 "Netcracker_Technology_Corp"             0.8989    0.4700    0.5000
+  716 "Vodafone_West_GmbH"                     0.8990    0.4717    0.5000
+  717 "Voxbone_SA"                             0.8991    0.4734    0.5000
+  718 "Clicksoftware_Technologies_Ltd"         0.8992    0.4751    0.5000
+  719 "Ericsson_AS"                            0.8993    0.4768    0.5000
+  720 "Intec_Telecom_Systems_Ltd"              0.8994    0.4785    0.5000
+  721 "Moengage_India_Pvt_Ltd"                 0.8995    0.4803    0.5000
+  722 "Neonode_Inc"                            0.8996    0.4820    0.5000
+  723 "Qualys_Inc"                             0.8997    0.4837    0.5000
+  724 "Google_LLC"                             0.8997    0.4854    0.5000
+  725 "Intershop_Communications_AG"            0.8998    0.4871    0.5000
+  726 "Mavenir_Systems_Inc"                    0.8998    0.4888    0.5000
+  727 "Digi_International_Inc"                 0.8999    0.4906    0.5000
+  728 "Alcatel_Lucent_SA"                      0.8999    0.4923    0.5000
+  729 "Iss_A/S"                                0.9000    0.4940    0.5000
+  730 "Leoni_AG"                               0.9000    0.4957    0.5000
+  731 "MobiledgeX_Inc"                         0.9000    0.4974    0.5000
+  732 "Ribbon_Communications_Inc"              0.9000    0.4991    0.5000
+  733 "Aspiro_AB"                              0.9000    0.5009    0.5000
+  734 "BroadSoft_Inc"                          0.9000    0.5026    0.5000
+  735 "Exozet_Berlin_GmbH"                     0.9000    0.5043    0.5000
+  736 "Liberty_Global_PLC"                     0.9000    0.5060    0.5000
+  737 "Sterlite_Technologies_Ltd"              0.8999    0.5077    0.5000
+  738 "T_Systems_International_GmbH"           0.8999    0.5094    0.5000
+  739 "United_Internet_AG"                     0.8998    0.5112    0.5000
+  740 "Abu_Dhabi_Media_Company_PJSC"           0.8998    0.5129    0.5000
+  741 "Artefact_SA"                            0.8997    0.5146    0.5000
+  742 "Comcast_Corp"                           0.8997    0.5163    0.5000
+  743 "Energous_Corp"                          0.8996    0.5180    0.5000
+  744 "Neo_Technology_Inc"                     0.8995    0.5197    0.5000
+  745 "Nokia_Networks_US_Son_LLC"              0.8994    0.5215    0.5000
+  746 "TalkPool_AG"                            0.8993    0.5232    0.5000
+  747 "Tele2_AB"                               0.8992    0.5249    0.5000
+  748 "UPC_Telekabel_Wien_GmbH"                0.8991    0.5266    0.5000
+  749 "SerVision_PLC"                          0.8990    0.5283    0.5000
+  750 "Telia_Company_AB"                       0.8989    0.5300    0.5000
+  751 "Altair_Semiconductor_Ltd"               0.8987    0.5317    0.5000
+  752 "EQT_Corp"                               0.8986    0.5335    0.5000
+  753 "Netflix_Inc"                            0.8985    0.5352    0.5000
+  754 "Total_Access_Communication_PCL"         0.8983    0.5369    0.5000
+  755 "Naspers_Ltd"                            0.8981    0.5386    0.5000
+  756 "Echelon_Corp"                           0.8980    0.5403    0.5000
+  757 "Enel_SpA"                               0.8978    0.5420    0.5000
+  758 "Enel_Green_Power_SpA"                   0.8976    0.5437    0.5000
+  759 "Enel_Americas_SA"                       0.8974    0.5454    0.5000
+  760 "Enel_Generacion_Chile_SA"               0.8972    0.5471    0.5000
+  761 "STMicroelectronics_NV"                  0.8970    0.5488    0.5000
+  762 "LDK_Solar_Co_Ltd"                       0.8968    0.5505    0.5000
+  763 "NK_Rosneft&#39;_PAO"                    0.8966    0.5522    0.5000
+  764 "Vestas_Wind_Systems_A/S"                0.8963    0.5539    0.5000
+  765 "Largo_Resources_Ltd"                    0.8961    0.5557    0.5000
+  766 "Aenza_SAA"                              0.8959    0.5574    0.5000
+  767 "Anglo_American_PLC"                     0.8956    0.5591    0.5000
+  768 "Cheniere_Energy_Inc"                    0.8954    0.5607    0.5000
+  769 "Kellogg_Co"                             0.8951    0.5624    0.5000
+  770 "Ansaldo_Energia_SpA"                    0.8948    0.5641    0.5000
+  771 "Ormat_Technologies_Inc"                 0.8945    0.5658    0.5000
+  772 "Indra_Sistemas_SA"                      0.8943    0.5675    0.5000
+  773 "Intesa_Sanpaolo_SpA"                    0.8940    0.5692    0.5000
+  774 "Johnson_&#38;_Johnson"                  0.8937    0.5709    0.5000
+  775 "Areva_SA"                               0.8934    0.5726    0.5000
+  776 "AES_Andes_SA"                           0.8930    0.5743    0.5000
+  777 "Colbun_SA"                              0.8927    0.5760    0.5000
+  778 "Petroleo_Brasileiro_SA_Petrobras"       0.8924    0.5777    0.5000
+  779 "Electricite_de_France_SA"               0.8921    0.5794    0.5000
+  780 "Origin_Energy_Ltd"                      0.8917    0.5810    0.5000
+  781 "Engie_SA"                               0.8914    0.5827    0.5000
+  782 "Amec_Foster_Wheeler_Ltd"                0.8910    0.5844    0.5000
+  783 "Totalenergies_Electricite_Et_Gaz_France_SA"    0.8906    0.5861    0.5000
+  784 "Plexus_Holdings_PLC"                    0.8903    0.5878    0.5000
+  785 "Cameron_Lng_LLC"                        0.8899    0.5894    0.5000
+  786 "IOT_Group_Ltd"                          0.8895    0.5911    0.5000
+  787 "Gazprom_PAO"                            0.8891    0.5928    0.5000
+  788 "Southern_Copper_Corp"                   0.8887    0.5944    0.5000
+  789 "Liquefied_Natural_Gas_Ltd"              0.8883    0.5961    0.5000
+  790 "Yamal_SPG_OAO"                          0.8879    0.5978    0.5000
+  791 "Vlocity_Inc"                            0.8874    0.5994    0.5000
+  792 "Orchestrade_SARL"                       0.8870    0.6011    0.5000
+  793 "Umicore_SA"                             0.8866    0.6028    0.5000
+  794 "AES_Corp"                               0.8861    0.6044    0.5000
+  795 "Beijer_Ref_AB_publ"                     0.8857    0.6061    0.5000
+  796 "Beijing_Gas_Group_Co_Ltd"               0.8852    0.6077    0.5000
+  797 "Enea_AB"                                0.8848    0.6094    0.5000
+  798 "Lubelski_Wegiel_Bogdanka_SA"            0.8843    0.6110    0.5000
+  799 "Naturgy_Energy_Group_SA"                0.8838    0.6127    0.5000
+  800 "Sempra_Energy"                          0.8833    0.6143    0.5000
+  801 "Shell_Energy_Europe_Ltd"                0.8828    0.6160    0.5000
+  802 "GAIL_India_Ltd"                         0.8823    0.6176    0.5000
+  803 "Luminus_NV"                             0.8818    0.6193    0.5000
+  804 "National_Central_Cooling_Co_PJSC"       0.8813    0.6209    0.5000
+  805 "Scania_AB"                              0.8808    0.6225    0.5000
+  806 "Altran_Technologies_SAS"                0.8802    0.6242    0.5000
+  807 "NIC_Inc"                                0.8797    0.6258    0.5000
+  808 "Renox_Projects"                         0.8792    0.6274    0.5000
+  809 "Siemens_Gamesa_Renewable_Energy_SA"     0.8786    0.6291    0.5000
+  810 "Taiwan_Cement_Corp"                     0.8780    0.6307    0.5000
+  811 "Golar_LNG_Ltd"                          0.8775    0.6323    0.5000
+  812 "Korea_Shipbuilding_&#38;_Offshore_Engineering_Co_Ltd"    0.8769    0.6339    0.5000
+  813 "Petronet_LNG_Ltd"                       0.8763    0.6356    0.5000
+  814 "Alstom_SA"                              0.8757    0.6372    0.5000
+  815 "Gerdau_SA"                              0.8752    0.6388    0.5000
+  816 "Novatek_PAO"                            0.8746    0.6404    0.5000
+  817 "TotalEnergies_SE"                       0.8739    0.6420    0.5000
+  818 "Saipem_SpA"                             0.8733    0.6436    0.5000
+  819 "Eni_SpA"                                0.8727    0.6452    0.5000
+  820 "State_Oil_Company_of_the_Azerbaijan_Republic"    0.8721    0.6468    0.5000
+  821 "Abu_Dhabi_National_Oil_Co"              0.8715    0.6484    0.5000
+  822 "Surgutneftegaz_PAO"                     0.8708    0.6500    0.5000
+  823 "Unipec_America_Inc"                     0.8702    0.6516    0.5000
+  824 "Sonatrach_SPA"                          0.8695    0.6532    0.5000
+  825 "Ocean_Power_Technologies_Inc"           0.8688    0.6548    0.5000
+  826 "Exxon_Mobil_Corp"                       0.8682    0.6563    0.5000
+  827 "Technip_SA"                             0.8675    0.6579    0.5000
+  828 "Valaris_PLC"                            0.8668    0.6595    0.5000
+  829 "CPC_Corp_Taiwan"                        0.8661    0.6611    0.5000
+  830 "Il_Af_27032002_A/S"                     0.8654    0.6626    0.5000
+  831 "Litasco_SA"                             0.8647    0.6642    0.5000
+  832 "Repsol_SA"                              0.8640    0.6658    0.5000
+  833 "Crestwood_Midstream_Partners_LP_Pre-Merger"    0.8633    0.6673    0.5000
+  834 "Petroleos_de_Venezuela_SA"              0.8626    0.6689    0.5000
+  835 "Quicksilver_Resources_Inc"              0.8619    0.6705    0.5000
+  836 "TechnipFMC_PLC"                         0.8611    0.6720    0.5000
+  837 "Phillips_66"                            0.8604    0.6736    0.5000
+  838 "Snam_SpA"                               0.8596    0.6751    0.5000
+  839 "NK_Lukoil_PAO"                          0.8589    0.6766    0.5000
+  840 "China_International_United_Petroleum_&#38;_Chemicals_Co_Ltd"    0.8581    0.6782    0.5000
+  841 "Gasterra_BV"                            0.8574    0.6797    0.5000
+  842 "Halliburton_Co"                         0.8566    0.6813    0.5000
+  843 "Harbour_Energy_PLC"                     0.8558    0.6828    0.5000
+  844 "SURGUT_KARMEL&#39;_RESTORANTS_OOO"      0.8550    0.6843    0.5000
+  845 "GC_Rieber_Shipping_ASA"                 0.8542    0.6858    0.5000
+  846 "IPG_Photonics_Corp"                     0.8534    0.6874    0.5000
+  847 "Modec_Inc"                              0.8526    0.6889    0.5000
+  848 "Morgan_Stanley"                         0.8518    0.6904    0.5000
+  849 "PDVSA_Gas_SA"                           0.8510    0.6919    0.5000
+  850 "Sapura_Energy_Bhd"                      0.8501    0.6934    0.5000
+  851 "Weatherford_International_PLC"          0.8493    0.6949    0.5000
+  852 "Nigerian_National_Petroleum_Corp"       0.8485    0.6964    0.5000
+  853 "Telecom_Italia_SpA"                     0.8476    0.6979    0.5000
+  854 "Transocean_Ltd"                         0.8468    0.6994    0.5000
+  855 "Bristow_Norway_AS"                      0.8459    0.7009    0.5000
+  856 "Medservregis_PLC"                       0.8450    0.7024    0.5000
+  857 "Gaffney_Cline_&#38;_Associates_Consultants_Pte_Ltd"    0.8442    0.7038    0.5000
+  858 "Vantage_Drilling_International"         0.8433    0.7053    0.5000
+  859 "Grandvision_NV"                         0.8424    0.7068    0.5000
+  860 "EssilorLuxottica_SA"                    0.8415    0.7082    0.5000
+  861 "Luxottica_Group_SpA"                    0.8406    0.7097    0.5000
+  862 "Netuitive_Inc"                          0.8397    0.7112    0.5000
+  863 "Toi_LLC"                                0.8388    0.7126    0.5000
+  864 "BBHC_Inc"                               0.8379    0.7141    0.5000
+  865 "PPG_Industries_Inc"                     0.8370    0.7155    0.5000
+  866 "Radiology_Partners_Inc"                 0.8360    0.7170    0.5000
+  867 "Nel_ASA"                                0.8351    0.7184    0.5000
+  868 "Avangrid_Inc"                           0.8342    0.7199    0.5000
+  869 "Orsted_A/S"                             0.8332    0.7213    0.5000
+  870 "MIX_Telematics_Ltd"                     0.8323    0.7227    0.5000
+  871 "Drax_Group_PLC"                         0.8313    0.7241    0.5000
+  872 "Amec_Foster_Wheeler_Engineering_AG"     0.8303    0.7256    0.5000
+  873 "Compagnie_d&#39;entreprises_CFE_SA"     0.8294    0.7270    0.5000
+  874 "Ingeteam_Corporacion_SA"                0.8284    0.7284    0.5000
+  875 "Aibel_AS"                               0.8274    0.7298    0.5000
+  876 "Corpus_Christi_Liquefaction_LLC"        0.8264    0.7312    0.5000
+  877 "Kutxabank_SA"                           0.8254    0.7326    0.5000
+  878 "Ferrovial_Construccion_SA"              0.8244    0.7340    0.5000
+  879 "Infineon_Technologies_AG"               0.8234    0.7354    0.5000
+  880 "Hyundai_Motor_Co"                       0.8224    0.7368    0.5000
+  881 "LG_Corp"                                0.8214    0.7382    0.5000
+  882 "Amkor_Technology_Inc"                   0.8203    0.7395    0.5000
+  883 "M&#38;W_Group_GmbH"                     0.8193    0.7409    0.5000
+  884 "Avnet_Inc"                              0.8183    0.7423    0.5000
+  885 "Wolfspeed_Inc"                          0.8172    0.7436    0.5000
+  886 "Enphase_Energy_Inc"                     0.8162    0.7450    0.5000
+  887 "CEVA_Inc"                               0.8151    0.7464    0.5000
+  888 "AAC_Technologies_Holdings_Inc"          0.8141    0.7477    0.5000
+  889 "SPTS_Technologies_Ltd"                  0.8130    0.7491    0.5000
+  890 "Marketwall_Srl"                         0.8119    0.7504    0.5000
+  891 "Gemalto_BV"                             0.8108    0.7517    0.5000
+  892 "Bolero_International_Ltd"               0.8098    0.7531    0.5000
+  893 "Kering_SA"                              0.8087    0.7544    0.5000
+  894 "Guccio_Gucci_SpA"                       0.8076    0.7557    0.5000
+  895 "Yoox_Net-A-Porter_Group_SpA"            0.8065    0.7570    0.5000
+  896 "Compagnie_Financiere_Richemont_SA"      0.8054    0.7584    0.5000
+  897 "Safilo_Group_SpA"                       0.8043    0.7597    0.5000
+  898 "Mendes_SaYsl_Couture"                   0.8031    0.7610    0.5000
+  899 "Stella_Mccartney_Ltd"                   0.8020    0.7623    0.5000
+  900 "Fnac_Darty_SA"                          0.8009    0.7636    0.5000
+  901 "Kone_Oyj"                               0.7998    0.7649    0.5000
+  902 "Sdl_Ltd"                                0.7986    0.7661    0.5000
+  903 "Metro_Inc"                              0.7975    0.7674    0.5000
+  904 "Japan_Resistor_Mfg._Co_Ltd"             0.7963    0.7687    0.5000
+  905 "Etteplan_Oyj"                           0.7952    0.7700    0.5000
+  906 "Accounting_Plaza_Services_BV"           0.7940    0.7712    0.5000
+  907 "Koninklijke_Ahold_Delhaize_NV"          0.7928    0.7725    0.5000
+  908 "Annie&#39;s_Inc"                        0.7917    0.7737    0.5000
+  909 "Blueconic_Inc"                          0.7905    0.7750    0.5000
+  910 "Genpact_Ltd"                            0.7893    0.7762    0.5000
+  911 "Greenyard_NV"                           0.7881    0.7775    0.5000
+  912 "Park_City_Group_Inc"                    0.7869    0.7787    0.5000
+  913 "Restaurant_Technologies_Inc"            0.7857    0.7799    0.5000
+  914 "Zycus_Inc"                              0.7845    0.7812    0.5000
+  915 "Procter_&#38;_Gamble_Co"                0.7833    0.7824    0.5000
+  916 "NCR_Corp"                               0.7821    0.7836    0.5000
+  917 "Delhaize_America_LLC"                   0.7809    0.7848    0.5000
+  918 "Linde_PLC"                              0.7796    0.7860    0.5000
+  919 "Shanghai_Huayi_Group_Corp_Ltd"          0.7784    0.7872    0.5000
+  920 "Evonik_Industries_AG"                   0.7772    0.7884    0.5000
+  921 "GTA_Semiconductor_Co_Ltd"               0.7759    0.7896    0.5000
+  922 "Fieldbit"                               0.7747    0.7908    0.5000
+  923 "L&#39;Oreal_SA"                         0.7734    0.7920    0.5000
+  924 "Croda_International_PLC"                0.7722    0.7931    0.5000
+  925 "Fiorano_Software_Inc"                   0.7709    0.7943    0.5000
+  926 "Landsea_Homes_Corp"                     0.7696    0.7955    0.5000
+  927 "Biovia_Corp"                            0.7684    0.7966    0.5000
+  928 "E2open_LLC"                             0.7671    0.7978    0.5000
+  929 "Sitecore_Corporation_A/S"               0.7658    0.7989    0.5000
+  930 "Adparlor_Inc"                           0.7645    0.8000    0.5000
+  931 "PFSweb_Inc"                             0.7632    0.8012    0.5000
+  932 "Modiface_Inc"                           0.7619    0.8023    0.5000
+  933 "Dataiku_SAS"                            0.7606    0.8034    0.5000
+  934 "Ulta_Beauty_Inc"                        0.7593    0.8045    0.5000
+  935 "Onespot_Inc"                            0.7580    0.8056    0.5000
+  936 "Silgan_Holdings_Inc"                    0.7567    0.8068    0.5000
+  937 "Applied_Media_Logic"                    0.7554    0.8079    0.5000
+  938 "Logility_Inc"                           0.7541    0.8089    0.5000
+  939 "Media_Partnership_SA"                   0.7527    0.8100    0.5000
+  940 "Salsify_Inc"                            0.7514    0.8111    0.5000
+  941 "CloudCraze_Software_LLC"                0.7501    0.8122    0.5000
+  942 "Coveo_Solutions_Inc"                    0.7487    0.8133    0.5000
+  943 "Vivoom_Inc"                             0.7474    0.8143    0.5000
+  944 "Withings_SAS"                           0.7460    0.8154    0.5000
+  945 "Landec_Corp"                            0.7447    0.8164    0.5000
+  946 "Maesa_SAS"                              0.7433    0.8175    0.5000
+  947 "Sprinklr_Inc"                           0.7419    0.8185    0.5000
+  948 "Zettics_Inc"                            0.7406    0.8196    0.5000
+  949 "LVMH_Moet_Hennessy_Louis_Vuitton_SE"    0.7392    0.8206    0.5000
+  950 "Valtech_SE"                             0.7378    0.8216    0.5000
+  951 "Nexity_SA"                              0.7364    0.8226    0.5000
+  952 "LVMH"                                   0.7350    0.8237    0.5000
+  953 "Christian_Dior_SE"                      0.7337    0.8247    0.5000
+  954 "St_Dupont_SA"                           0.7323    0.8257    0.5000
+  955 "Pernod_Ricard_SA"                       0.7309    0.8267    0.5000
+  956 "Tiffany_&#38;_Co"                       0.7295    0.8276    0.5000
+  957 "Algolia_SAS"                            0.7280    0.8286    0.5000
+  958 "Marcolin_SpA"                           0.7266    0.8296    0.5000
+  959 "Troika_Media_Group_Inc"                 0.7252    0.8306    0.5000
+  960 "Hexaom_SA"                              0.7238    0.8315    0.5000
+  961 "Okta_Inc"                               0.7224    0.8325    0.5000
+  962 "Replika_Software_LLC"                   0.7209    0.8335    0.5000
+  963 "Swatch_Group_AG"                        0.7195    0.8344    0.5000
+  964 "Centric_Software_Engineering_Holding_BV"    0.7181    0.8353    0.5000
+  965 "Entrupy_Inc"                            0.7166    0.8363    0.5000
+  966 "SimpliField_SAS"                        0.7152    0.8372    0.5000
+  967 "Heng_Long_International_Ltd"            0.7137    0.8381    0.5000
+  968 "Sephora_SA"                             0.7123    0.8390    0.5000
+  969 "HCL_Technologies_Ltd"                   0.7108    0.8399    0.5000
+  970 "Muenchener"                             0.7093    0.8408    0.5000
+  971 "Cybercube_Analytics_Inc"                0.7079    0.8417    0.5000
+  972 "Informatica_LLC"                        0.7064    0.8426    0.5000
+  973 "Demand_Management_Inc"                  0.7049    0.8435    0.5000
+  974 "IGS_Capital_Group_Ltd"                  0.7035    0.8444    0.5000
+  975 "M&#38;C_Saatchi_PLC"                    0.7020    0.8453    0.5000
+  976 "Brown-Forman_Corp"                      0.7005    0.8461    0.5000
+  977 "Compania_Pisquera_de_Chile_SA"          0.6990    0.8470    0.5000
+  978 "Verallia_France_SA"                     0.6975    0.8478    0.5000
+  979 "Alibaba_Cloud_Computing_Ltd"            0.6960    0.8487    0.5000
+  980 "Koninklijke_Philips_NV"                 0.6945    0.8495    0.5000
+  981 "DMS_Health_Technologies_Inc"            0.6930    0.8503    0.5000
+  982 "DMS_Inc"                                0.6915    0.8512    0.5000
+  983 "Star_Equity_Holdings_Inc"               0.6900    0.8520    0.5000
+  984 "Signify_NV"                             0.6885    0.8528    0.5000
+  985 "TPV_Technology_Ltd"                     0.6870    0.8536    0.5000
+  986 "Wipro_Ltd"                              0.6855    0.8544    0.5000
+  987 "US_Department_of_Veterans_Affairs"      0.6839    0.8552    0.5000
+  988 "Acrolinx_GmbH"                          0.6824    0.8560    0.5000
+  989 "Usabilla_BV"                            0.6809    0.8568    0.5000
+  990 "Vithas_Sanidad_Malaga_Internacional_SL"    0.6793    0.8575    0.5000
+  991 "P&#38;F_USA_Inc"                        0.6778    0.8583    0.5000
+  992 "Dana-Farber_Cancer_Institute_Inc"       0.6763    0.8591    0.5000
+  993 "Hansen_Medical_Inc"                     0.6747    0.8598    0.5000
+  994 "Janrain_Inc"                            0.6732    0.8606    0.5000
+  995 "Silicon_Laboratories_Inc"               0.6716    0.8613    0.5000
+  996 "Wipro_Technologies_Oy_Finland"          0.6701    0.8620    0.5000
+  997 "Funai_Electric_Co_Ltd"                  0.6685    0.8628    0.5000
+  998 "Hillshire_Brands_Co"                    0.6669    0.8635    0.5000
+  999 "Re-Act_Enterprises_Inc"                 0.6654    0.8642    0.5000
+ 1000 "Volex_PLC"                              0.6638    0.8649    0.5000
+ 1001 "Zoran_Corp"                             0.6622    0.8656    0.5000
+ 1002 "Breville_Group_Ltd"                     0.6607    0.8663    0.5000
+ 1003 "iWatt_Inc"                              0.6591    0.8670    0.5000
+ 1004 "Sharp_Corp"                             0.6575    0.8677    0.5000
+ 1005 "Sonos_Inc"                              0.6559    0.8683    0.5000
+ 1006 "Sony_Group_Corp"                        0.6544    0.8690    0.5000
+ 1007 "Trident_Microsystems_Inc"               0.6528    0.8697    0.5000
+ 1008 "Cognizant_Technology_Solutions_Corp"    0.6512    0.8703    0.5000
+ 1009 "Elcoteq_SE"                             0.6496    0.8710    0.5000
+ 1010 "One_Red_Locker_Inc"                     0.6480    0.8716    0.5000
+ 1011 "Skyworks_Solutions_Inc"                 0.6464    0.8722    0.5000
+ 1012 "Funai_Soken_Holdings_Inc"               0.6448    0.8729    0.5000
+ 1013 "Jasco_Electronics_Holdings_Ltd"         0.6432    0.8735    0.5000
+ 1014 "NXP_Semiconductors_NV"                  0.6416    0.8741    0.5000
+ 1015 "Sectra_AB"                              0.6400    0.8747    0.5000
+ 1016 "Toshiba_Corp"                           0.6384    0.8753    0.5000
+ 1017 "Capsule_Technologies_Inc"               0.6368    0.8759    0.5000
+ 1018 "Delivery_Hero_SE"                       0.6351    0.8765    0.5000
+ 1019 "Prosus_NV"                              0.6335    0.8771    0.5000
+ 1020 "Deloitte_LLP"                           0.6319    0.8776    0.5000
+ 1021 "Boeing_Co"                              0.6303    0.8782    0.5000
+ 1022 "Dassault_Aviation_SA"                   0.6287    0.8787    0.5000
+ 1023 "Airbus_SAS"                             0.6270    0.8793    0.5000
+ 1024 "Cessna_Aircraft_Co"                     0.6254    0.8798    0.5000
+ 1025 "FADEC_International_LLC"                0.6238    0.8804    0.5000
+ 1026 "Aveos_Fleet_Performance_Inc"            0.6221    0.8809    0.5000
+ 1027 "Textron_Inc"                            0.6205    0.8814    0.5000
+ 1028 "Cincinnati_Bell_Inc"                    0.6189    0.8819    0.5000
+ 1029 "RBC_Bearings_Inc"                       0.6172    0.8824    0.5000
+ 1030 "Omeo_Financial_Consulting_AB"           0.6156    0.8829    0.5000
+ 1031 "Albany_International_Corp"              0.6139    0.8834    0.5000
+ 1032 "ABC_Aerolineas_SA_de_CV"                0.6123    0.8839    0.5000
+ 1033 "Corsair_SA"                             0.6106    0.8844    0.5000
+ 1034 "Menhaden_Resource_Efficiency_PLC"       0.6090    0.8849    0.5000
+ 1035 "Unison_Industries_LLC"                  0.6073    0.8853    0.5000
+ 1036 "Morpho_Inc"                             0.6057    0.8858    0.5000
+ 1037 "Euroopa_ameti,_mis_loodi_vabadusel,_turvalisusel_ja_oigusel_rajaneva_ala_suuremahuliste_IT-susteemide_operatiivjuhtimiseks_eu-LISA"    0.6040    0.8862    0.5000
+ 1038 "Sanofi_SA"                              0.6024    0.8867    0.5000
+ 1039 "Biontech_AG"                            0.6007    0.8871    0.5000
+ 1040 "MannKind_Corp"                          0.5990    0.8875    0.5000
+ 1041 "Unilife_Corp"                           0.5974    0.8880    0.5000
+ 1042 "Vivus_Inc"                              0.5957    0.8884    0.5000
+ 1043 "Oxford_BioMedica_PLC"                   0.5940    0.8888    0.5000
+ 1044 "GlaxoSmithKline_PLC"                    0.5924    0.8892    0.5000
+ 1045 "AstraZeneca_PLC"                        0.5907    0.8896    0.5000
+ 1046 "Immune_Design_Corp"                     0.5890    0.8900    0.5000
+ 1047 "Translate_Bio_MA_Inc"                   0.5873    0.8903    0.5000
+ 1048 "Novartis_AG"                            0.5857    0.8907    0.5000
+ 1049 "Humanigen_Inc"                          0.5840    0.8911    0.5000
+ 1050 "Evotec_SE"                              0.5823    0.8914    0.5000
+ 1051 "MyoKardia_Inc"                          0.5806    0.8918    0.5000
+ 1052 "Pfizer_Inc"                             0.5789    0.8921    0.5000
+ 1053 "Zealand_Pharma_A/S"                     0.5772    0.8925    0.5000
+ 1054 "ON_Semiconductor_Corp"                  0.5756    0.8928    0.5000
+ 1055 "Usablenet_Inc"                          0.5739    0.8931    0.5000
+ 1056 "Vectura_Group_Services_Ltd"             0.5722    0.8934    0.5000
+ 1057 "Translate_Bio_Inc"                      0.5705    0.8937    0.5000
+ 1058 "Ablynx_NV"                              0.5688    0.8940    0.5000
+ 1059 "Moderna_Inc"                            0.5671    0.8943    0.5000
+ 1060 "Legend_Natural_Gas_LP"                  0.5654    0.8946    0.5000
+ 1061 "Medidata_Solutions_Inc"                 0.5637    0.8949    0.5000
+ 1062 "Principia_Biopharma_Inc"                0.5620    0.8952    0.5000
+ 1063 "Yoobic_Ltd"                             0.5603    0.8954    0.5000
+ 1064 "Ardelyx_Inc"                            0.5586    0.8957    0.5000
+ 1065 "Eli_Lilly_and_Co"                       0.5569    0.8959    0.5000
+ 1066 "Sanofi_Aventis_Deutschland_GmbH"        0.5552    0.8962    0.5000
+ 1067 "Lexicon_Pharmaceuticals_Inc"            0.5535    0.8964    0.5000
+ 1068 "NextBio"                                0.5518    0.8966    0.5000
+ 1069 "Regulus_Therapeutics_Inc"               0.5501    0.8968    0.5000
+ 1070 "Takeda_Pharmaceutical_Co_Ltd"           0.5484    0.8971    0.5000
+ 1071 "Warner_Chilcott_PLC"                    0.5467    0.8973    0.5000
+ 1072 "Genentech_Inc"                          0.5450    0.8975    0.5000
+ 1073 "Merrimack_Inc"                          0.5433    0.8977    0.5000
+ 1074 "Pinnacle_Airlines_Corp"                 0.5416    0.8978    0.5000
+ 1075 "Theratechnologies_Inc"                  0.5399    0.8980    0.5000
+ 1076 "Transgene_SA"                           0.5382    0.8982    0.5000
+ 1077 "Cellectis_SA"                           0.5365    0.8983    0.5000
+ 1078 "Gol_Linhas_Aereas_Inteligentes_SA"      0.5347    0.8985    0.5000
+ 1079 "Havas_Worldwide_LLC"                    0.5330    0.8986    0.5000
+ 1080 "Ovintiv_Exploration_Inc"                0.5313    0.8988    0.5000
+ 1081 "Benchling_Inc"                          0.5296    0.8989    0.5000
+ 1082 "China_Lumena_New_Materials_Corp"        0.5279    0.8990    0.5000
+ 1083 "Hubert_Burda_Media_Holding_KG"          0.5262    0.8991    0.5000
+ 1084 "POZEN_Inc"                              0.5245    0.8993    0.5000
+ 1085 "Sanofi-Aventis_US_LLC"                  0.5227    0.8994    0.5000
+ 1086 "Shenzhen_Hepalink_Pharmaceutical_Group_Co_Ltd"    0.5210    0.8994    0.5000
+ 1087 "Covis_Pharma_BV_Zug_Branch"             0.5193    0.8995    0.5000
+ 1088 "Hypera_SA"                              0.5176    0.8996    0.5000
+ 1089 "Sanofi_Pasteur_SA"                      0.5159    0.8997    0.5000
+ 1090 "Sanofi_Winthrop_Industrie_SA"           0.5142    0.8997    0.5000
+ 1091 "Allergan_plc"                           0.5125    0.8998    0.5000
+ 1092 "Alliance_Pharma_PLC"                    0.5107    0.8999    0.5000
+ 1093 "Amber_Resources_Company_Of_Colorado"    0.5090    0.8999    0.5000
+ 1094 "Amgen_Inc"                              0.5073    0.8999    0.5000
+ 1095 "Arrow_Electronics_Inc"                  0.5056    0.9000    0.5000
+ 1096 "Delta_Apparel_Inc"                      0.5039    0.9000    0.5000
+ 1097 "Ipsen_SA"                               0.5021    0.9000    0.5000
+ 1098 "Ligand_Pharmaceuticals_Inc"             0.5004    0.9000    0.5000
+ 1099 "Matortho_Ltd"                           0.4987    0.9000    0.5000
+ 1100 "Medimmune_LLC"                          0.4970    0.9000    0.5000
+ 1101 "Patheon_Inc"                            0.4953    0.9000    0.5000
+ 1102 "Pieris_Pharmaceuticals_Inc"             0.4936    0.8999    0.5000
+ 1103 "Icagen_Inc"                             0.4918    0.8999    0.5000
+ 1104 "Acer_Therapeutics_Inc"                  0.4901    0.8999    0.5000
+ 1105 "Alnylam_Pharmaceuticals_Inc"            0.4884    0.8998    0.5000
+ 1106 "ER_Squibb_&#38;_Sons_LLC"               0.4867    0.8998    0.5000
+ 1107 "Flex_Ltd"                               0.4850    0.8997    0.5000
+ 1108 "Rimini_Street_Inc"                      0.4833    0.8996    0.5000
+ 1109 "Rimini_Street_Inc_Pre-Merger"           0.4815    0.8996    0.5000
+ 1110 "Oracle_Corp"                            0.4798    0.8995    0.5000
+ 1111 "Sap_Software_System_Co_Ltd"             0.4781    0.8994    0.5000
+ 1112 "Solar_Frontier_KK"                      0.4764    0.8993    0.5000
+ 1113 "Chelford_SAP_Solutions_Ltd"             0.4747    0.8992    0.5000
+ 1114 "Qualtrics_LLC"                          0.4730    0.8991    0.5000
+ 1115 "All_for_One_Group_SE"                   0.4713    0.8990    0.5000
+ 1116 "NetSuite_Inc"                           0.4695    0.8988    0.5000
+ 1117 "Qualtrics_International_Inc"            0.4678    0.8987    0.5000
+ 1118 "SuccessFactors_Inc"                     0.4661    0.8986    0.5000
+ 1119 "Ariba_Inc"                              0.4644    0.8984    0.5000
+ 1120 "TransNet_Corp"                          0.4627    0.8983    0.5000
+ 1121 "Kofax_Sweden_Services_AB"               0.4610    0.8981    0.5000
+ 1122 "Callidus_Software_Inc"                  0.4593    0.8979    0.5000
+ 1123 "SAP_AG"                                 0.4576    0.8977    0.5000
+ 1124 "DoubleDutch_Inc"                        0.4559    0.8976    0.5000
+ 1125 "Deloitte_Global_Services_Ltd"           0.4541    0.8974    0.5000
+ 1126 "Totango_Inc"                            0.4524    0.8972    0.5000
+ 1127 "Spinnaker_Support_LLC"                  0.4507    0.8970    0.5000
+ 1128 "Trintech_Inc"                           0.4490    0.8967    0.5000
+ 1129 "Blackline_Inc"                          0.4473    0.8965    0.5000
+ 1130 "Concur_Technologies_Inc"                0.4456    0.8963    0.5000
+ 1131 "NTT_DATA_Business_Solutions_AG"         0.4439    0.8960    0.5000
+ 1132 "Impinj_Inc"                             0.4422    0.8958    0.5000
+ 1133 "SAP_SOLUTIONS_GMBHDEUTSCHE"             0.4405    0.8956    0.5000
+ 1134 "Knoa_Software_Inc"                      0.4388    0.8953    0.5000
+ 1135 "BRIGHTIDEA_INC"                         0.4371    0.8950    0.5000
+ 1136 "Coles_Group_Ltd"                        0.4354    0.8948    0.5000
+ 1137 "E.ON_SE"                                0.4337    0.8945    0.5000
+ 1138 "Fujitsu_Ltd"                            0.4320    0.8942    0.5000
+ 1139 "Lumen_Technologies_Inc"                 0.4304    0.8939    0.5000
+ 1140 "ON24_Inc"                               0.4287    0.8936    0.5000
+ 1141 "Sumup_Payments_Ltd"                     0.4270    0.8933    0.5000
+ 1142 "Unilever_PLC"                           0.4253    0.8930    0.5000
+ 1143 "Vinci_SA"                               0.4236    0.8926    0.5000
+ 1144 "ABB_Mexico_SA_de_CV"                    0.4219    0.8923    0.5000
+ 1145 "Boehrer_GmbH"                           0.4202    0.8920    0.5000
+ 1146 "Gigya_Inc"                              0.4185    0.8916    0.5000
+ 1147 "Grupo_Q_Gestion_Inmobiliaria_SL"        0.4169    0.8913    0.5000
+ 1148 "Fujitsu_Technology_Solutions_GmbH"      0.4152    0.8909    0.5000
+ 1149 "Getronics_BV"                           0.4135    0.8905    0.5000
+ 1150 "Graham_Group_Ltd"                       0.4118    0.8902    0.5000
+ 1151 "Gurobi_Optimization_LLC"                0.4102    0.8898    0.5000
+ 1152 "Rohrer_Corp"                            0.4085    0.8894    0.5000
+ 1153 "NetApp_Inc"                             0.4068    0.8890    0.5000
+ 1154 "Seven_Arts_Pictures_PLC"                0.4051    0.8886    0.5000
+ 1155 "Virtustream_LLC"                        0.4035    0.8882    0.5000
+ 1156 "Acs_Application_Management_Services_Inc"    0.4018    0.8878    0.5000
+ 1157 "Bnet_Media_Group_Inc"                   0.4001    0.8873    0.5000
+ 1158 "Cloudshare_Inc"                         0.3985    0.8869    0.5000
+ 1159 "Fraport_AG_Frankfurt_Airport_Services_Worldwide"    0.3968    0.8865    0.5000
+ 1160 "Kaeser_Kompressoren_Se"                 0.3952    0.8860    0.5000
+ 1161 "Kakao_Enterprise_Corp"                  0.3935    0.8856    0.5000
+ 1162 "Mcdonald&#39;s_Corp"                    0.3918    0.8851    0.5000
+ 1163 "Nextgen_Biomed_Ltd"                     0.3902    0.8846    0.5000
+ 1164 "Pricerite_Stores_Ltd"                   0.3885    0.8842    0.5000
+ 1165 "Santen_Pharmaceutical_Co_Ltd"           0.3869    0.8837    0.5000
+ 1166 "Siemens_AG"                             0.3852    0.8832    0.5000
+ 1167 "Abington_Memorial_Hospital"             0.3836    0.8827    0.5000
+ 1168 "Acuity_Brands_Inc"                      0.3820    0.8822    0.5000
+ 1169 "Arvato_Financial_Solutions_Ltd"         0.3803    0.8817    0.5000
+ 1170 "Associacao_Grupo_Boticario"             0.3787    0.8812    0.5000
+ 1171 "Atheletic_Mindset_Consulting_DWC-LLC"    0.3770    0.8806    0.5000
+ 1172 "Brewdog_PLC"                            0.3754    0.8801    0.5000
+ 1173 "ER-Telekom_Holding_AO"                  0.3738    0.8796    0.5000
+ 1174 "Forcam_GmbH"                            0.3722    0.8790    0.5000
+ 1175 "Forrester_Research_Inc"                 0.3705    0.8785    0.5000
+ 1176 "Hireright_LLC"                          0.3689    0.8779    0.5000
+ 1177 "Lenovo_Group_Ltd"                       0.3673    0.8773    0.5000
+ 1178 "Linc_Energy_Ltd"                        0.3657    0.8768    0.5000
+ 1179 "Mirakl_SAS"                             0.3640    0.8762    0.5000
+ 1180 "Mobiquity_Technologies_Inc"             0.3624    0.8756    0.5000
+ 1181 "MongoDB_Inc"                            0.3608    0.8750    0.5000
+ 1182 "Nasdaq_Inc"                             0.3592    0.8744    0.5000
+ 1183 "REV_Group_Inc"                          0.3576    0.8738    0.5000
+ 1184 "Samsung_SnP"                            0.3560    0.8732    0.5000
+ 1185 "Suse_Linux_GmbH"                        0.3544    0.8726    0.5000
+ 1186 "Tokyo_Gas_Co_Ltd"                       0.3528    0.8719    0.5000
+ 1187 "Workday_Inc"                            0.3512    0.8713    0.5000
+ 1188 "Atos_SE"                                0.3496    0.8707    0.5000
+ 1189 "Hitachi_Ltd"                            0.3480    0.8700    0.5000
+ 1190 "Innovapptive_Inc"                       0.3464    0.8693    0.5000
+ 1191 "Migros_Genossenschafts_Bund"            0.3448    0.8687    0.5000
+ 1192 "Netline_Corp"                           0.3433    0.8680    0.5000
+ 1193 "NTT_Communications_Corp"                0.3417    0.8673    0.5000
+ 1194 "Prada_SpA"                              0.3401    0.8667    0.5000
+ 1195 "Qlik_Analytics_ISR_Ltd"                 0.3385    0.8660    0.5000
+ 1196 "Sealed_Air_Corp"                        0.3370    0.8653    0.5000
+ 1197 "SNP_Schneider_Neureither_&#38;_Partner_SE"    0.3354    0.8646    0.5000
+ 1198 "Tagetik_Software_Srl"                   0.3338    0.8639    0.5000
+ 1199 "UiPath_Inc"                             0.3323    0.8631    0.5000
+ 1200 "Utopia_Global_Inc"                      0.3307    0.8624    0.5000
+ 1201 "Verizon_Communications_Inc"             0.3292    0.8617    0.5000
+ 1202 "Alfresco_Softwash_Ltd"                  0.3276    0.8609    0.5000
+ 1203 "Ballance_Agri-Nutrients_Ltd"            0.3261    0.8602    0.5000
+ 1204 "Beyond_Technologies_Consulting_Inc"     0.3245    0.8595    0.5000
+ 1205 "Burger_King_Corp"                       0.3230    0.8587    0.5000
+ 1206 "BYD_Co_Ltd"                             0.3214    0.8579    0.5000
+ 1207 "China_Foods_Ltd"                        0.3199    0.8572    0.5000
+ 1208 "CNH_Industrial_NV"                      0.3184    0.8564    0.5000
+ 1209 "Coca-Cola_Co"                           0.3168    0.8556    0.5000
+ 1210 "GK_Software_SE"                         0.3153    0.8548    0.5000
+ 1211 "Growmark_Inc"                           0.3138    0.8540    0.5000
+ 1212 "Neptune_Software_PLC"                   0.3123    0.8532    0.5000
+ 1213 "Ricoh_Co_Ltd"                           0.3108    0.8524    0.5000
+ 1214 "Seerene_GmbH"                           0.3092    0.8516    0.5000
+ 1215 "Thomson_Reuters_Corp"                   0.3077    0.8508    0.5000
+ 1216 "ThreatConnect_Inc"                      0.3062    0.8499    0.5000
+ 1217 "Valley_National_Bank_New_Jersey"        0.3047    0.8491    0.5000
+ 1218 "Altima_SASU"                            0.3032    0.8483    0.5000
+ 1219 "Doehler_Group_SE"                       0.3017    0.8474    0.5000
+ 1220 "iMarketKorea_Inc"                       0.3002    0.8466    0.5000
+ 1221 "Kongsberg_Automotive_ASA"               0.2988    0.8457    0.5000
+ 1222 "Libbey_Inc"                             0.2973    0.8448    0.5000
+ 1223 "Mercado_Libre_SRL"                      0.2958    0.8440    0.5000
+ 1224 "MindTree_Ltd"                           0.2943    0.8431    0.5000
+ 1225 "Nestle_Nespresso_SA"                    0.2929    0.8422    0.5000
+ 1226 "NTT_Data_Corp"                          0.2914    0.8413    0.5000
+ 1227 "Revlon_Inc"                             0.2899    0.8404    0.5000
+ 1228 "Sesotec_GmbH"                           0.2885    0.8395    0.5000
+ 1229 "Xinja_Pty_Ltd"                          0.2870    0.8386    0.5000
+ 1230 "Oxya_Corp"                              0.2856    0.8377    0.5000
+ 1231 "Smartshift_GmbH"                        0.2841    0.8367    0.5000
+ 1232 "Schneider_Electric_SE"                  0.2827    0.8358    0.5000
+ 1233 "AVEVA_Group_PLC"                        0.2812    0.8349    0.5000
+ 1234 "Box_Inc"                                0.2798    0.8339    0.5000
+ 1235 "Jobvite_Inc"                            0.2784    0.8330    0.5000
+ 1236 "Outsystems_Software_em_Rede_SA"         0.2769    0.8320    0.5000
+ 1237 "Medallia_Inc"                           0.2755    0.8311    0.5000
+ 1238 "Amazon_Web_Services_Inc"                0.2741    0.8301    0.5000
+ 1239 "Snaplogic_Inc"                          0.2727    0.8291    0.5000
+ 1240 "Etap_Adress_AD_Sofia"                   0.2713    0.8281    0.5000
+ 1241 "Semtech_Corp"                           0.2698    0.8272    0.5000
+ 1242 "AsCo_Power_Technologies"                0.2684    0.8262    0.5000
+ 1243 "Datalliance_SAS"                        0.2670    0.8252    0.5000
+ 1244 "Guardian_Glass_LLC"                     0.2657    0.8242    0.5000
+ 1245 "IXYS_Corp"                              0.2643    0.8232    0.5000
+ 1246 "Kinaxis_Inc"                            0.2629    0.8221    0.5000
+ 1247 "RIB_Software_SE"                        0.2615    0.8211    0.5000
+ 1248 "Alithya_Group_Inc"                      0.2601    0.8201    0.5000
+ 1249 "Cyanconnode_Holdings_PLC"               0.2587    0.8191    0.5000
+ 1250 "Industrial_Control_Systems_ICS"         0.2574    0.8180    0.5000
+ 1251 "ThoughtWire_Corp"                       0.2560    0.8170    0.5000
+ 1252 "Topia_Education_Inc"                    0.2547    0.8159    0.5000
+ 1253 "Walmart_Inc"                            0.2533    0.8149    0.5000
+ 1254 "Anord_Mardix_UK"                        0.2519    0.8138    0.5000
+ 1255 "Ayla_Networks_Inc"                      0.2506    0.8127    0.5000
+ 1256 "Blackstone_Inc"                         0.2493    0.8117    0.5000
+ 1257 "Rio_Tinto_PLC"                          0.2479    0.8106    0.5000
+ 1258 "Rs_Components_Ltd"                      0.2466    0.8095    0.5000
+ 1259 "Schneider_Electric_Software_LLC"        0.2453    0.8084    0.5000
+ 1260 "Equinix_Inc"                            0.2439    0.8073    0.5000
+ 1261 "Wiztopic_SAS"                           0.2426    0.8062    0.5000
+ 1262 "Odaseva_Technologies_SAS"               0.2413    0.8051    0.5000
+ 1263 "Nozomi_Networks_Inc"                    0.2400    0.8040    0.5000
+ 1264 "Veolia_Environnement_SA"                0.2387    0.8029    0.5000
+ 1265 "DartPoints_LLC"                         0.2374    0.8017    0.5000
+ 1266 "Nestle_SA"                              0.2361    0.8006    0.5000
+ 1267 "Deutsche_Bahn_AG"                       0.2348    0.7995    0.5000
+ 1268 "Midas_Holdings_Ltd"                     0.2335    0.7983    0.5000
+ 1269 "Forte_Biosciences_Inc"                  0.2323    0.7972    0.5000
+ 1270 "MidAmerican_Energy_Co"                  0.2310    0.7960    0.5000
+ 1271 "Magnolia_LNG_LLC"                       0.2297    0.7949    0.5000
+ 1272 "Tata_Technologies_Ltd"                  0.2285    0.7937    0.5000
+ 1273 "Teollisuuden_Voima_Oyj"                 0.2272    0.7925    0.5000
+ 1274 "Universal_Biosensors_Inc"               0.2259    0.7914    0.5000
+ 1275 "Via_Rail_Canada_Inc"                    0.2247    0.7902    0.5000
+ 1276 "Dresser-Rand_Group_Inc"                 0.2235    0.7890    0.5000
+ 1277 "Powerwave_Technologies_Inc"             0.2222    0.7878    0.5000
+ 1278 "COOPERATIVE_ENERGY_DEVELOPMENT"         0.2210    0.7866    0.5000
+ 1279 "Abb_Ltd"                                0.2198    0.7854    0.5000
+ 1280 "Varian_Medical_Systems_Inc"             0.2185    0.7842    0.5000
+ 1281 "Eurostar_SA"                            0.2173    0.7830    0.5000
+ 1282 "John_Wood_Group_PLC"                    0.2161    0.7818    0.5000
+ 1283 "Petards_Group_PLC"                      0.2149    0.7806    0.5000
+ 1284 "Vinfast_Trading_and_Production_LLC"     0.2137    0.7793    0.5000
+ 1285 "Abengoa_SA"                             0.2125    0.7781    0.5000
+ 1286 "Broadwind_Inc"                          0.2113    0.7769    0.5000
+ 1287 "Cloud9_Analytics_Inc"                   0.2101    0.7756    0.5000
+ 1288 "GSE_Systems_Inc"                        0.2089    0.7744    0.5000
+ 1289 "Hydrogenics_Corp"                       0.2078    0.7731    0.5000
+ 1290 "Power_Grid_Corporation_of_India_Ltd"    0.2066    0.7719    0.5000
+ 1291 "Tacton_Systems_AB"                      0.2054    0.7706    0.5000
+ 1292 "Faiveley_Transport_SA"                  0.2043    0.7693    0.5000
+ 1293 "Matillion_Ltd"                          0.2031    0.7681    0.5000
+ 1294 "Pattern_Energy_Group_One_LP"            0.2020    0.7668    0.5000
+ 1295 "Power_Grid_Co_of_Bangladesh_Ltd"        0.2008    0.7655    0.5000
+ 1296 "Teradata_Corp"                          0.1997    0.7642    0.5000
+ 1297 "CITIC_Dicastal_Co_Ltd"                  0.1985    0.7629    0.5000
+ 1298 "Tangoe_US_Inc"                          0.1974    0.7616    0.5000
+ 1299 "Clearpoint_Neuro_Inc"                   0.1963    0.7603    0.5000
+ 1300 "Pharmacom_Biovet_Inc"                   0.1952    0.7590    0.5000
+ 1301 "Easyask_Corp"                           0.1941    0.7577    0.5000
+ 1302 "FRIEND2FRIEND_INC"                      0.1930    0.7564    0.5000
+ 1303 "Kaon_Interactive_Inc"                   0.1919    0.7551    0.5000
+ 1304 "Renewable_Energy_Systems_Canada_Inc"    0.1908    0.7537    0.5000
+ 1305 "Tenaska_Energy_Inc"                     0.1897    0.7524    0.5000
+ 1306 "Vale_SA"                                0.1886    0.7511    0.5000
+ 1307 "Viasystems_Group_Inc"                   0.1875    0.7497    0.5000
+ 1308 "Westinghouse_Air_Brake_Technologies_Corp"    0.1865    0.7484    0.5000
+ 1309 "Asseco_South_Eastern_Europe_SA"         0.1854    0.7470    0.5000
+ 1310 "BLS_Cargo_AG"                           0.1843    0.7457    0.5000
+ 1311 "Brooklyn_Navy_Yard_Cogeneration_Partners_LP"    0.1833    0.7443    0.5000
+ 1312 "Consolidated_Edison_Inc"                0.1822    0.7430    0.5000
+ 1313 "Coresystems_AG"                         0.1812    0.7416    0.5000
+ 1314 "Deepwater_Wind_LLC"                     0.1802    0.7402    0.5000
+ 1315 "Dell_Inc"                               0.1791    0.7389    0.5000
+ 1316 "Denso_Corp"                             0.1781    0.7375    0.5000
+ 1317 "DuluxPtyLtd"                            0.1771    0.7361    0.5000
+ 1318 "Eviation_Aircraft_Ltd"                  0.1761    0.7347    0.5000
+ 1319 "IDH_Development_SA"                     0.1751    0.7333    0.5000
+ 1320 "Intermountain_Healthcare_Inc"           0.1741    0.7319    0.5000
+ 1321 "Mulesoft_LLC"                           0.1731    0.7305    0.5000
+ 1322 "NJR_Clean_Energy_Ventures_Corp"         0.1721    0.7291    0.5000
+ 1323 "OTTO_Motors"                            0.1711    0.7277    0.5000
+ 1324 "Paragon_Software_Inc"                   0.1702    0.7263    0.5000
+ 1325 "Salzgitter_AG"                          0.1692    0.7249    0.5000
+ 1326 "Saudi_Arabian_Oil_Co"                   0.1682    0.7234    0.5000
+ 1327 "Scottish_Power_Ltd"                     0.1673    0.7220    0.5000
+ 1328 "Stibo-Fonden"                           0.1663    0.7206    0.5000
+ 1329 "SWU_Verkehr_GmbH"                       0.1654    0.7191    0.5000
+ 1330 "World_Peace_International_Pte_Ltd"      0.1644    0.7177    0.5000
+ 1331 "Adents_High_Tech_International_SAS"     0.1635    0.7163    0.5000
+ 1332 "Advanced_Airfoil_Components_LLC"        0.1626    0.7148    0.5000
+ 1333 "Extension_Inc"                          0.1617    0.7134    0.5000
+ 1334 "Golden_Pass_Lng_Terminal_LLC"           0.1607    0.7119    0.5000
+ 1335 "Imaging_Canada_Liquidating_Corp"        0.1598    0.7104    0.5000
+ 1336 "Jabil_Inc"                              0.1589    0.7090    0.5000
+ 1337 "Mitsubishi_Electric_Corp"               0.1580    0.7075    0.5000
+ 1338 "National_Grid_PLC"                      0.1572    0.7060    0.5000
+ 1339 "National_Railroad_Passenger_Corp"       0.1563    0.7046    0.5000
+ 1340 "Pattern_Energy_Group_Inc"               0.1554    0.7031    0.5000
+ 1341 "PSI_Repair_Services_Inc"                0.1545    0.7016    0.5000
+ 1342 "PVHMC_Federal_Credit_Union"             0.1537    0.7001    0.5000
+ 1343 "ServiceSource_International_Inc"        0.1528    0.6986    0.5000
+ 1344 "Siemens_Medical_Solutions_Health_Services_Corp"    0.1520    0.6971    0.5000
+ 1345 "Xerox_Holdings_Corp"                    0.1511    0.6956    0.5000
+ 1346 "APX_Group_Holdings_Inc"                 0.1503    0.6941    0.5000
+ 1347 "Blg_Logistics"                          0.1494    0.6926    0.5000
+ 1348 "Bombardier_Transportation_GmbH"         0.1486    0.6911    0.5000
+ 1349 "Cathay_Industrial_Biotech_Ltd"          0.1478    0.6896    0.5000
+ 1350 "Cerner_Corp"                            0.1470    0.6881    0.5000
+ 1351 "Deufol_SE"                              0.1462    0.6866    0.5000
+ 1352 "Hainan_Jinpan_Smart_Technology_Co_Ltd"    0.1454    0.6851    0.5000
+ 1353 "Kiewit_Construction_Co"                 0.1446    0.6835    0.5000
+ 1354 "Mazda_Motor_Corp"                       0.1438    0.6820    0.5000
+ 1355 "Polski_Koncern_Naftowy_Orlen_SA"        0.1430    0.6805    0.5000
+ 1356 "Stereotaxis_Inc"                        0.1423    0.6790    0.5000
+ 1357 "Vivint_Wireless_Inc"                    0.1415    0.6774    0.5000
+ 1358 "eMeter_Corp"                            0.1407    0.6759    0.5000
+ 1359 "Metrans_as"                             0.1400    0.6743    0.5000
+ 1360 "Nokia_Solutions_and_Networks_OOO"       0.1392    0.6728    0.5000
+ 1361 "Proton_Motor_Power_Systems_PLC"         0.1385    0.6712    0.5000
+ 1362 "Renfe-Operadora"                        0.1378    0.6697    0.5000
+ 1363 "UBS_AG"                                 0.1370    0.6681    0.5000
+ 1364 "Mendix_Inc"                             0.1363    0.6666    0.5000
+ 1365 "Ministry_of_Railways"                   0.1356    0.6650    0.5000
+ 1366 "ViewRay_Inc"                            0.1349    0.6634    0.5000
+ 1367 "Invensys_Ltd"                           0.1342    0.6619    0.5000
+ 1368 "Jinyu_Bio-Technology_Co_Ltd"            0.1335    0.6603    0.5000
+ 1369 "CMA_CGM_SA"                             0.1328    0.6587    0.5000
+ 1370 "North_Sea_Group_Bunkering_BV"           0.1322    0.6571    0.5000
+ 1371 "Chevron_Corp"                           0.1315    0.6555    0.5000
+ 1372 "ENN_Energy_Holdings_Ltd"                0.1308    0.6540    0.5000
+ 1373 "AP_Moeller_-_Maersk_A/S"                0.1302    0.6524    0.5000
+ 1374 "Indian_Oil_Corporation_Ltd"             0.1295    0.6508    0.5000
+ 1375 "Bharat_Petroleum_Corporation_Ltd"       0.1289    0.6492    0.5000
+ 1376 "Interoil_Corp"                          0.1282    0.6476    0.5000
+ 1377 "Tellurian_Inc"                          0.1276    0.6460    0.5000
+ 1378 "Albemarle_Corp"                         0.1270    0.6444    0.5000
+ 1379 "C&#38;J_Oldco_Inc"                      0.1264    0.6428    0.5000
+ 1380 "Cargill_Inc"                            0.1257    0.6412    0.5000
+ 1381 "Egyptian_General_Petroleum_Corp"        0.1251    0.6396    0.5000
+ 1382 "Oceanica_Consulting_Pty_Ltd"            0.1245    0.6380    0.5000
+ 1383 "Pertamina_Persero_PT"                   0.1240    0.6364    0.5000
+ 1384 "Scomi_Group_Bhd"                        0.1234    0.6347    0.5000
+ 1385 "Argos_Therapeutics_Inc"                 0.1228    0.6331    0.5000
+ 1386 "Chugoku_Electric_Power_Co_Inc"          0.1222    0.6315    0.5000
+ 1387 "National_Iranian_Oil_Co"                0.1217    0.6299    0.5000
+ 1388 "Oil_and_Natural_Gas_Corporation_Ltd"    0.1211    0.6283    0.5000
+ 1389 "Seadrill_Partners_LLC"                  0.1206    0.6266    0.5000
+ 1390 "Vallourec_SA"                           0.1200    0.6250    0.5000
+ 1391 "Abaco_Systems_Ltd"                      0.1195    0.6234    0.5000
+ 1392 "Exxonmobil_Qatargas_ii_Terminal_Co_Ltd"    0.1190    0.6217    0.5000
+ 1393 "PetroChina_Co_Ltd"                      0.1185    0.6201    0.5000
+ 1394 "Canadian_Solar_Inc"                     0.1179    0.6184    0.5000
+ 1395 "CNOOC_Ltd"                              0.1174    0.6168    0.5000
+ 1396 "Mangalore_Refinery_and_Petrochemicals_Ltd"    0.1169    0.6152    0.5000
+ 1397 "Platts"                                 0.1164    0.6135    0.5000
+ 1398 "Clean_Energy_Fuels_Corp"                0.1160    0.6119    0.5000
+ 1399 "Nigeria_Lng_Ltd"                        0.1155    0.6102    0.5000
+ 1400 "Sabine_Pass_Liquefaction_LLC"           0.1150    0.6086    0.5000
+ 1401 "Kia_Corp"                               0.1146    0.6069    0.5000
+ 1402 "Sonangol_Sociedade_Nacional_de_Combustiveis_de_Angola_EP"    0.1141    0.6053    0.5000
+ 1403 "Tullow_Oil_PLC"                         0.1136    0.6036    0.5000
+ 1404 "Intuitive_Surgical_Inc"                 0.1132    0.6019    0.5000
+ 1405 "Avio_SpA"                               0.1128    0.6003    0.5000
+ 1406 "ACS_Actividades_de_Construccion_y_Servicios_SA"    0.1123    0.5986    0.5000
+ 1407 "Altice_France_SA"                       0.1119    0.5969    0.5000
+ 1408 "Vivendi_SE"                             0.1115    0.5953    0.5000
+ 1409 "Activision_Blizzard_Inc"                0.1111    0.5936    0.5000
+ 1410 "Ubisoft_Entertainment_SA"               0.1107    0.5919    0.5000
+ 1411 "inmediaONE_GmbH"                        0.1103    0.5903    0.5000
+ 1412 "Nexen_Tire_Corp"                        0.1099    0.5886    0.5000
+ 1413 "Dogus_Otomotiv_Servis_ve_Ticaret_AS"    0.1096    0.5869    0.5000
+ 1414 "Sierra_Wireless_Inc"                    0.1092    0.5852    0.5000
+ 1415 "D&#39;Ieteren_Group_NV"                 0.1088    0.5836    0.5000
+ 1416 "Fuyao_Glass_Industry_Group_Co_Ltd"      0.1085    0.5819    0.5000
+ 1417 "Argo_AI_LLC"                            0.1081    0.5802    0.5000
+ 1418 "Skoda"                                  0.1078    0.5785    0.5000
+ 1419 "American_Axle_&#38;_Manufacturing_Holdings_Inc"    0.1074    0.5768    0.5000
+ 1420 "Linamar_Corp"                           0.1071    0.5751    0.5000
+ 1421 "ZetaDisplay_AB"                         0.1068    0.5735    0.5000
+ 1422 "Alfen_NV"                               0.1065    0.5718    0.5000
+ 1423 "EDAG_Engineering_Group_AG"              0.1062    0.5701    0.5000
+ 1424 "Gotion_High_tech_Co_Ltd"                0.1059    0.5684    0.5000
+ 1425 "Isuzu_Motors_Ltd"                       0.1056    0.5667    0.5000
+ 1426 "Navistar_International_Corp"            0.1053    0.5650    0.5000
+ 1427 "Fisker_Group_Inc"                       0.1050    0.5633    0.5000
+ 1428 "Gaz_Group_LLC"                          0.1048    0.5616    0.5000
+ 1429 "Piksel_Inc"                             0.1045    0.5599    0.5000
+ 1430 "AD_Plastik_dd"                          0.1043    0.5582    0.5000
+ 1431 "Tata_AutoComp_Systems_Ltd"              0.1040    0.5565    0.5000
+ 1432 "Suzuki_Motor_Corp"                      0.1038    0.5548    0.5000
+ 1433 "Compagnie_Plastic_Omnium_SE"            0.1035    0.5531    0.5000
+ 1434 "Continental_Automotive_GmbH"            0.1033    0.5514    0.5000
+ 1435 "Greenlots"                              0.1031    0.5497    0.5000
+ 1436 "Littelfuse_Inc"                         0.1029    0.5480    0.5000
+ 1437 "Nexteer_Automotive_Group_Ltd"           0.1027    0.5463    0.5000
+ 1438 "Tupy_SA"                                0.1025    0.5446    0.5000
+ 1439 "AB_SKF"                                 0.1023    0.5429    0.5000
+ 1440 "Elixxer_Ltd"                            0.1021    0.5412    0.5000
+ 1441 "Hyundai_Mobis_Co_Ltd"                   0.1019    0.5394    0.5000
+ 1442 "Key_Safety_Systems_Inc"                 0.1018    0.5377    0.5000
+ 1443 "Oppo"                                   0.1016    0.5360    0.5000
+ 1444 "Pasdec_Automotive_Technologies"         0.1015    0.5343    0.5000
+ 1445 "SK_Inc"                                 0.1013    0.5326    0.5000
+ 1446 "United_States_International_Trade_Commission"    0.1012    0.5309    0.5000
+ 1447 "Volkswagen_Group_Rus_OOO"               0.1011    0.5292    0.5000
+ 1448 "FS_Fehrer_Automotive_GmbH"              0.1009    0.5275    0.5000
+ 1449 "Gri_Renewable_Industries_SL"            0.1008    0.5258    0.5000
+ 1450 "Kraussmaffei_Group_GmbH"                0.1007    0.5240    0.5000
+ 1451 "Technical_Publications_Service_SpA"     0.1006    0.5223    0.5000
+ 1452 "Unipart_Group_of_Companies_Ltd"         0.1005    0.5206    0.5000
+ 1453 "Unipart_Logistics_Ltd"                  0.1004    0.5189    0.5000
+ 1454 "UNIWHEELS_Holding_Malta_Ltd"            0.1004    0.5172    0.5000
+ 1455 "Aeva_Inc"                               0.1003    0.5155    0.5000
+ 1456 "INRIX_Inc"                              0.1002    0.5137    0.5000
+ 1457 "Mando_Corp"                             0.1002    0.5120    0.5000
+ 1458 "Skoda_Auto_as"                          0.1001    0.5103    0.5000
+ 1459 "Venyon_Oy"                              0.1001    0.5086    0.5000
+ 1460 "Goodman_Birtcher_North_America_LLC"     0.1001    0.5069    0.5000
+ 1461 "Xiaomi_Corp"                            0.1000    0.5052    0.5000
+ 1462 "Car_Connectivity_Consortium_LLC"        0.1000    0.5034    0.5000
+ 1463 "Tower_International_Inc"                0.1000    0.5017    0.5000
+*Arcs
+    1     2 1
+    2    18 1
+    2    23 1
+    2    31 1
+    3     2 1
+    4     2 1
+    4   610 1
+    5     2 1
+    5   955 1
+    6     2 1
+    6   610 1
+    7     2 1
+    8     2 1
+    9     2 1
+   10     2 1
+   11     2 1
+   12     2 1
+   13     2 1
+   14     2 1
+   15     2 1
+   16     2 1
+   16   281 1
+   17     2 1
+   18     2 1
+   19     2 1
+   20     2 1
+   20   443 1
+   21     2 1
+   22     2 1
+   24     2 1
+   25     2 1
+   26     2 1
+   26   923 1
+   27     2 1
+   28     2 1
+   29     2 1
+   30     2 1
+   32     2 1
+   33     2 1
+   34    35 1
+   35   683 1
+   36    37 1
+   36    38 1
+   36    39 1
+   36    40 1
+   36    41 1
+   36    43 1
+   36    46 1
+   36    47 1
+   36    48 1
+   36    49 1
+   36    52 1
+   36    53 1
+   36    54 1
+   36    60 1
+   36    61 1
+   36    62 1
+   36    63 1
+   36    68 1
+   36    71 1
+   36    72 1
+   36    74 1
+   36    77 1
+   36    78 1
+   36    79 1
+   36    82 1
+   36    83 1
+   36    86 1
+   36    88 1
+   36    92 1
+   36    93 1
+   36    94 1
+   36    97 1
+   36    99 1
+   36   102 1
+   36   106 1
+   36    73 1
+   36   109 1
+   36   110 1
+   36   111 1
+   36   113 1
+   36   115 1
+   36   116 1
+   36   117 1
+   36   118 1
+   36   121 1
+   36   122 1
+   36   125 1
+   36   126 1
+   36   127 1
+   36   133 1
+   36   134 1
+   36   135 1
+   36   137 1
+   36   138 1
+   36   139 1
+   36   141 1
+   36   142 1
+   36   147 1
+   36   148 1
+   36   154 1
+   36   159 1
+   36   112 1
+   36   160 1
+   36   161 1
+   36   162 1
+   36   163 1
+   36   164 1
+   36   165 1
+   36   136 1
+   36   168 1
+   36   130 1
+   36   140 1
+   36   171 1
+   36   173 1
+   36   174 1
+   36   176 1
+   36   190 1
+   36   194 1
+   36   195 1
+   36   199 1
+   36   201 1
+   36   205 1
+   36   206 1
+   36   207 1
+   36   211 1
+   36   216 1
+   36   225 1
+   36   226 1
+   36   229 1
+   36   230 1
+   36   232 1
+   36   242 1
+   36   246 1
+   36   248 1
+   36   250 1
+   36   262 1
+   36   263 1
+   36   265 1
+   36   266 1
+   36   268 1
+   36   269 1
+   36   271 1
+   36   273 1
+   36   274 1
+   36   276 1
+   36   278 1
+   36   279 1
+   36   280 1
+   36   282 1
+   36   283 1
+   36   285 1
+   36   286 1
+   36   287 1
+   36   288 1
+   36   289 1
+   36   291 1
+   36   293 1
+   36   294 1
+   36   295 1
+   36   298 1
+   36   299 1
+   36   300 1
+   37    36 1
+   38    36 1
+   39    36 1
+   42    36 1
+   42  1166 1
+   44    36 1
+   44    58 1
+   45    36 1
+   45    58 1
+   50    36 1
+   50    58 1
+   51    36 1
+   51    58 1
+   52    36 1
+   53    36 1
+   55    36 1
+   55    58 1
+   56    36 1
+   57    36 1
+   57    58 1
+   58    36 1
+   58  1021 1
+   58  1022 1
+   58  1023 1
+   58  1024 1
+   58   114 1
+   58    45 1
+   58    44 1
+   58    57 1
+   58  1025 1
+   58    94 1
+   58    61 1
+   58    83 1
+   58   101 1
+   58  1027 1
+   58  1028 1
+   58    37 1
+   58    48 1
+   58    60 1
+   58  1032 1
+   58   110 1
+   58  1033 1
+   58  1034 1
+   58    88 1
+   58    42 1
+   58  1037 1
+   59    36 1
+   61    58 1
+   62    36 1
+   64    36 1
+   64   483 1
+   65    36 1
+   65   781 1
+   65    58 1
+   65  1166 1
+   66    36 1
+   67    36 1
+   68    36 1
+   69    36 1
+   70    36 1
+   71    36 1
+   73    36 1
+   73   327 1
+   75    36 1
+   76    36 1
+   76   340 1
+   76   483 1
+   76   498 1
+   80    36 1
+   81    36 1
+   81   498 1
+   84    36 1
+   84   317 1
+   85    36 1
+   87    36 1
+   87    58 1
+   89    36 1
+   90    36 1
+   91    36 1
+   95    36 1
+   95   860 1
+   96    36 1
+   96   483 1
+   96   610 1
+   98    36 1
+  100    36 1
+  100  1166 1
+  101    36 1
+  103    36 1
+  104    36 1
+  105    36 1
+  107    36 1
+  108    36 1
+  110    36 1
+  112    36 1
+  114    36 1
+  115    36 1
+  116    36 1
+  117    36 1
+  119    36 1
+  119   980 1
+  119    58 1
+  119  1166 1
+  120    36 1
+  122   330 1
+  123    36 1
+  124    36 1
+  127    36 1
+  128    36 1
+  129    36 1
+  130    36 1
+  131    36 1
+  132    36 1
+  134   498 1
+  134   655 1
+  136    36 1
+  140    36 1
+  143    36 1
+  144    36 1
+  145    36 1
+  146    36 1
+  149    36 1
+  150    36 1
+  151    36 1
+  152    36 1
+  153    36 1
+  155    36 1
+  155  1166 1
+  156    36 1
+  157    36 1
+  158    36 1
+  166    36 1
+  167    36 1
+  169    36 1
+  170    36 1
+  170  1166 1
+  172    36 1
+  175    36 1
+  177    36 1
+  178    36 1
+  178   317 1
+  179    36 1
+  180    36 1
+  181    36 1
+  182    36 1
+  183    36 1
+  183   483 1
+  183   498 1
+  184    36 1
+  185    36 1
+  186    36 1
+  187    36 1
+  188    36 1
+  189    36 1
+  191    36 1
+  192    36 1
+  193    36 1
+  196    36 1
+  197    36 1
+  198    36 1
+  198   330 1
+  198   377 1
+  198   483 1
+  198   683 1
+  198  1166 1
+  199    36 1
+  200    36 1
+  202    36 1
+  203    36 1
+  204    36 1
+  208    36 1
+  209    36 1
+  210    36 1
+  212    36 1
+  212   483 1
+  212   498 1
+  212   327 1
+  213    36 1
+  214    36 1
+  215    36 1
+  217    36 1
+  218    36 1
+  219    36 1
+  220    36 1
+  221    36 1
+  222    36 1
+  223    36 1
+  224    36 1
+  224   483 1
+  224  1166 1
+  227    36 1
+  228    36 1
+  231    36 1
+  233    36 1
+  234    36 1
+  234   443 1
+  234   683 1
+  235    36 1
+  235   610 1
+  236    36 1
+  237    36 1
+  238    36 1
+  239    36 1
+  239  1232 1
+  240    36 1
+  241    36 1
+  243    36 1
+  244    36 1
+  245    36 1
+  247    36 1
+  249    36 1
+  251    36 1
+  252    36 1
+  253    36 1
+  254    36 1
+  255    36 1
+  256    36 1
+  257    36 1
+  258    36 1
+  258  1038 1
+  259    36 1
+  260    36 1
+  261    36 1
+  262    36 1
+  264    36 1
+  267    36 1
+  270    36 1
+  271   317 1
+  271   781 1
+  271   817 1
+  271   610 1
+  272    36 1
+  275    36 1
+  275   589 1
+  275    58 1
+  277    36 1
+  281    36 1
+  281   340 1
+  281   506 1
+  281   684 1
+  281   685 1
+  281   686 1
+  281   688 1
+  281   695 1
+  284    36 1
+  290    36 1
+  292    36 1
+  296    36 1
+  297    36 1
+  301    36 1
+  302   303 1
+  302   304 1
+  302   305 1
+  302   307 1
+  302   308 1
+  302   309 1
+  302   310 1
+  302   311 1
+  302   314 1
+  302   315 1
+  302   316 1
+  302   317 1
+  302   319 1
+  306   302 1
+  312   302 1
+  313   302 1
+  317   390 1
+  317   395 1
+  317   399 1
+  317   402 1
+  317   403 1
+  317   388 1
+  317   404 1
+  317   401 1
+  317   414 1
+  317   416 1
+  317   418 1
+  317   420 1
+  317   407 1
+  317   422 1
+  317   423 1
+  317   424 1
+  317   429 1
+  317   431 1
+  317   437 1
+  317   439 1
+  317   440 1
+  317   441 1
+  318   302 1
+  320   321 1
+  322   321 1
+  323   321 1
+  323   498 1
+  324   321 1
+  325   321 1
+  325  1166 1
+  326   321 1
+  326   383 1
+  326   589 1
+  326   327 1
+  326   901 1
+  326   923 1
+  326   683 1
+  326  1166 1
+  327   321 1
+  327   281 1
+  327   700 1
+  327   613 1
+  327   706 1
+  327   707 1
+  327   572 1
+  327   708 1
+  327   689 1
+  327   710 1
+  327   716 1
+  327   724 1
+  327   546 1
+  327   727 1
+  327   738 1
+  327   740 1
+  327   742 1
+  327   747 1
+  327   403 1
+  327   750 1
+  327   753 1
+  327   754 1
+  327   703 1
+  328   321 1
+  329   330 1
+  330    68 1
+  330   136 1
+  330   336 1
+  330    47 1
+  330    48 1
+  330   338 1
+  330   110 1
+  330    41 1
+  331   330 1
+  332   330 1
+  333   330 1
+  334   330 1
+  335   330 1
+  336   610 1
+  337   330 1
+  339   330 1
+  340   343 1
+  340   350 1
+  340   352 1
+  340   354 1
+  341   340 1
+  342   340 1
+  344   340 1
+  344   955 1
+  345   340 1
+  346   340 1
+  347   340 1
+  348   340 1
+  349   340 1
+  351   340 1
+  353   340 1
+  355   356 1
+  355   357 1
+  355   358 1
+  355   359 1
+  355   360 1
+  355   362 1
+  355   364 1
+  355   366 1
+  355   369 1
+  355   370 1
+  355   371 1
+  355   372 1
+  355   373 1
+  355   374 1
+  355   376 1
+  356   355 1
+  356   483 1
+  357   483 1
+  357   327 1
+  357   610 1
+  358   879 1
+  361   355 1
+  363   355 1
+  365   355 1
+  367   355 1
+  368   355 1
+  370   683 1
+  370   610 1
+  375   355 1
+  378   377 1
+  379   377 1
+  380   377 1
+  381   377 1
+  382   383 1
+  382   589 1
+  383   384 1
+  385   383 1
+  385   483 1
+  385   498 1
+  385   327 1
+  386   383 1
+  387   383 1
+  388   317 1
+  388   483 1
+  388   819 1
+  388   817 1
+  389   317 1
+  390   317 1
+  391   317 1
+  392   317 1
+  392   819 1
+  392   817 1
+  393   317 1
+  394   317 1
+  395   819 1
+  395   817 1
+  396   317 1
+  397   317 1
+  397   610 1
+  398   317 1
+  398  1038 1
+  399   317 1
+  400   317 1
+  401   317 1
+  401   817 1
+  403   317 1
+  403   819 1
+  403   817 1
+  404   610 1
+  405   317 1
+  405   443 1
+  406   317 1
+  407   317 1
+  407   781 1
+  407   819 1
+  407   817 1
+  408   317 1
+  409   317 1
+  410   317 1
+  411   317 1
+  411   781 1
+  412   317 1
+  413   317 1
+  414  1166 1
+  414   817 1
+  415   317 1
+  417   317 1
+  418   317 1
+  418   819 1
+  419   317 1
+  421   317 1
+  421   923 1
+  421   683 1
+  422   443 1
+  425   317 1
+  426   317 1
+  427   317 1
+  428   317 1
+  430   317 1
+  432   317 1
+  433   317 1
+  434   317 1
+  435   317 1
+  436   317 1
+  438   317 1
+  439   483 1
+  439   498 1
+  439   610 1
+  442   443 1
+  443   422 1
+  443   442 1
+  443   447 1
+  443   446 1
+  443   457 1
+  443   450 1
+  443   458 1
+  443   459 1
+  443   456 1
+  443   469 1
+  443   480 1
+  444   443 1
+  445   443 1
+  445  1038 1
+  446   443 1
+  447   443 1
+  447  1038 1
+  448   443 1
+  449   443 1
+  450   443 1
+  450  1038 1
+  451   443 1
+  452   443 1
+  453   443 1
+  453   923 1
+  453  1166 1
+  454   443 1
+  455   443 1
+  456   443 1
+  460   443 1
+  460   589 1
+  460  1038 1
+  461   443 1
+  462   443 1
+  463   443 1
+  464   443 1
+  465   443 1
+  466   443 1
+  467   443 1
+  468   443 1
+  469  1038 1
+  470   443 1
+  471   443 1
+  472   443 1
+  473   443 1
+  473  1166 1
+  474   443 1
+  474   498 1
+  474   781 1
+  474   901 1
+  474   923 1
+  474   683 1
+  474  1166 1
+  475   443 1
+  476   443 1
+  477   443 1
+  478   443 1
+  479   443 1
+  481   443 1
+  482   483 1
+  482   498 1
+  482   610 1
+  483   488 1
+  483   509 1
+  483   510 1
+  483   270 1
+  483   493 1
+  483   514 1
+  483   517 1
+  483   524 1
+  483   529 1
+  483   530 1
+  483   532 1
+  483   498 1
+  483   539 1
+  483   553 1
+  483   561 1
+  483   564 1
+  483   569 1
+  483   576 1
+  483   531 1
+  483   502 1
+  484   483 1
+  484   498 1
+  484   610 1
+  485   483 1
+  485   610 1
+  486   483 1
+  486   498 1
+  487   483 1
+  487   498 1
+  487   610 1
+  489   483 1
+  489   610 1
+  490   483 1
+  491   483 1
+  492   483 1
+  492   498 1
+  492   610 1
+  493   483 1
+  493   610 1
+  494   483 1
+  495   483 1
+  495   498 1
+  495   281 1
+  495   610 1
+  496   483 1
+  497   483 1
+  498   483 1
+  498   596 1
+  498   506 1
+  498   601 1
+  498   603 1
+  498   605 1
+  498   607 1
+  498   509 1
+  498   611 1
+  498   604 1
+  498   574 1
+  498   587 1
+  498   616 1
+  498   617 1
+  498   626 1
+  498   516 1
+  498   631 1
+  498   531 1
+  498   404 1
+  498   637 1
+  498   639 1
+  498   640 1
+  498   641 1
+  498   643 1
+  498   356 1
+  498   648 1
+  499   483 1
+  500   483 1
+  501   483 1
+  501   498 1
+  501   610 1
+  502   483 1
+  502   498 1
+  502   610 1
+  503   483 1
+  503   498 1
+  504   483 1
+  504   498 1
+  505   483 1
+  505   610 1
+  506   483 1
+  507   483 1
+  507   498 1
+  507   610 1
+  508   483 1
+  509   483 1
+  510   610 1
+  511   483 1
+  511   498 1
+  511   327 1
+  511  1232 1
+  511  1166 1
+  512   483 1
+  512   498 1
+  512   610 1
+  513   483 1
+  515   483 1
+  516   483 1
+  516   498 1
+  516   610 1
+  518   483 1
+  519   483 1
+  519   498 1
+  519   610 1
+  520   483 1
+  520   498 1
+  520   610 1
+  521   483 1
+  521   498 1
+  521   610 1
+  522   483 1
+  522   781 1
+  523   483 1
+  524   483 1
+  525   483 1
+  526   483 1
+  527   483 1
+  527   610 1
+  528   483 1
+  531   483 1
+  531   498 1
+  533   483 1
+  533   498 1
+  533   610 1
+  534   483 1
+  535   483 1
+  535   498 1
+  535   610 1
+  536   483 1
+  536   498 1
+  536   610 1
+  537   483 1
+  538   483 1
+  538   610 1
+  540   483 1
+  541   483 1
+  541  1166 1
+  542   483 1
+  543   483 1
+  544   483 1
+  545   483 1
+  545   498 1
+  546   483 1
+  547   483 1
+  548   483 1
+  549   483 1
+  550   483 1
+  550   610 1
+  551   483 1
+  552   483 1
+  552   610 1
+  554   483 1
+  555   483 1
+  555   980 1
+  556   483 1
+  557   483 1
+  557   498 1
+  557   610 1
+  558   483 1
+  559   483 1
+  559   610 1
+  560   483 1
+  562   483 1
+  563   483 1
+  565   483 1
+  565   610 1
+  566   483 1
+  567   483 1
+  568   483 1
+  570   483 1
+  571   483 1
+  571   610 1
+  572   483 1
+  572   327 1
+  572   952 1
+  573   483 1
+  573   610 1
+  574   483 1
+  574   498 1
+  574   980 1
+  574   610 1
+  575   483 1
+  576   498 1
+  576   610 1
+  577   483 1
+  577   498 1
+  577   610 1
+  578   483 1
+  579   483 1
+  580   483 1
+  581   483 1
+  582   483 1
+  583   483 1
+  584   483 1
+  585   483 1
+  585   498 1
+  586   483 1
+  587   483 1
+  587   498 1
+  587   610 1
+  588   483 1
+  590   589 1
+  591   589 1
+  592   589 1
+  593   589 1
+  594   589 1
+  595   498 1
+  596   757 1
+  597   498 1
+  597   610 1
+  598   498 1
+  599   498 1
+  600   498 1
+  600   610 1
+  601  1232 1
+  602   498 1
+  604   498 1
+  604   610 1
+  605   498 1
+  606   498 1
+  608   498 1
+  608   610 1
+  609   498 1
+  610   498 1
+  610   509 1
+  610   574 1
+  610  1418 1
+  610  1427 1
+  610  1428 1
+  610   587 1
+  610  1426 1
+  610  1432 1
+  610   493 1
+  610   564 1
+  610   880 1
+  610   502 1
+  610   626 1
+  610   404 1
+  610   357 1
+  610   630 1
+  611  1408 1
+  612   498 1
+  612   610 1
+  613   498 1
+  613   955 1
+  613   683 1
+  613  1232 1
+  613   610 1
+  614   498 1
+  615   498 1
+  615   610 1
+  617   498 1
+  618   498 1
+  619   498 1
+  620   498 1
+  620   610 1
+  621   498 1
+  622   498 1
+  623   498 1
+  624   498 1
+  624   610 1
+  625   498 1
+  625  1166 1
+  627   498 1
+  628   498 1
+  629   498 1
+  630   498 1
+  631   655 1
+  632   498 1
+  633   498 1
+  633   610 1
+  634   498 1
+  635   498 1
+  636   498 1
+  638   498 1
+  638   610 1
+  642   498 1
+  644   498 1
+  645   498 1
+  646   498 1
+  647   498 1
+  649   498 1
+  650   498 1
+  651   498 1
+  651   327 1
+  652   498 1
+  653   498 1
+  654   498 1
+  655   656 1
+  655   661 1
+  655   674 1
+  656   655 1
+  657   655 1
+  658   655 1
+  659   655 1
+  660   655 1
+  661   655 1
+  662   655 1
+  663   655 1
+  664   655 1
+  665   655 1
+  666   655 1
+  667   655 1
+  668   655 1
+  669   655 1
+  670   655 1
+  671   655 1
+  672   655 1
+  673   655 1
+  674   868 1
+  674   869 1
+  674   871 1
+  674   403 1
+  674   873 1
+  674   877 1
+  675   655 1
+  676   655 1
+  677   655 1
+  677   952 1
+  678   655 1
+  679   655 1
+  680   681 1
+  682   681 1
+  683   681 1
+  683   327 1
+  683   980 1
+  683   555 1
+  683  1108 1
+  683   198 1
+  683  1111 1
+  683  1112 1
+  683  1113 1
+  683   474 1
+  683  1115 1
+  683  1117 1
+  683  1118 1
+  683  1120 1
+  683  1020 1
+  683  1129 1
+  683  1131 1
+  683  1133 1
+  683  1136 1
+  683  1137 1
+  683  1059 1
+  683   574 1
+  683  1138 1
+  683  1139 1
+  683  1141 1
+  683  1142 1
+  683  1143 1
+  683  1144 1
+  683  1145 1
+  683  1147 1
+  683   326 1
+  683  1149 1
+  683   724 1
+  683  1150 1
+  683  1154 1
+  683  1156 1
+  683   370 1
+  683   509 1
+  683  1157 1
+  683  1159 1
+  683   591 1
+  683  1160 1
+  683  1161 1
+  683  1162 1
+  683   353 1
+  683  1164 1
+  683  1166 1
+  683   491 1
+  683  1167 1
+  683  1168 1
+  683  1169 1
+  683  1170 1
+  683  1172 1
+  683  1008 1
+  683  1173 1
+  683  1175 1
+  683   114 1
+  683  1177 1
+  683  1181 1
+  683  1182 1
+  683  1183 1
+  683  1186 1
+  683   640 1
+  683  1187 1
+  683  1188 1
+  683   521 1
+  683  1190 1
+  683   576 1
+  683  1191 1
+  683  1194 1
+  683  1196 1
+  683  1198 1
+  683   329 1
+  683  1202 1
+  683  1203 1
+  683  1204 1
+  683  1205 1
+  683  1206 1
+  683  1207 1
+  683  1208 1
+  683  1209 1
+  683  1211 1
+  683  1216 1
+  683  1217 1
+  683  1218 1
+  683  1219 1
+  683  1220 1
+  683  1221 1
+  683  1222 1
+  683  1224 1
+  683  1225 1
+  683  1226 1
+  683   134 1
+  683  1227 1
+  683   439 1
+  683  1228 1
+  683   592 1
+  683  1229 1
+  683   397 1
+  684   281 1
+  687   281 1
+  689   281 1
+  689   327 1
+  690   281 1
+  691   281 1
+  692   281 1
+  693   281 1
+  693   893 1
+  694   281 1
+  695   281 1
+  696   281 1
+  697   327 1
+  697   610 1
+  698   327 1
+  699   327 1
+  699   683 1
+  700   327 1
+  701   327 1
+  702   327 1
+  703   327 1
+  704   327 1
+  705   327 1
+  706   327 1
+  708   327 1
+  709   327 1
+  709   683 1
+  711   327 1
+  712   327 1
+  713   327 1
+  714   327 1
+  715   327 1
+  717   327 1
+  718   327 1
+  719   327 1
+  720   327 1
+  721   327 1
+  722   327 1
+  723   327 1
+  724   327 1
+  724   952 1
+  724   980 1
+  724   683 1
+  725   327 1
+  726   327 1
+  728   327 1
+  729   327 1
+  730   327 1
+  730  1166 1
+  730   610 1
+  731   327 1
+  732   327 1
+  733   327 1
+  734   327 1
+  735   327 1
+  736   327 1
+  737   327 1
+  739   327 1
+  741   327 1
+  743   327 1
+  744   327 1
+  745   327 1
+  746   327 1
+  748   327 1
+  749   327 1
+  751   327 1
+  752   327 1
+  755   327 1
+  756   757 1
+  756  1166 1
+  757   759 1
+  757   764 1
+  757   767 1
+  757   769 1
+  757   756 1
+  757   773 1
+  757   774 1
+  757   776 1
+  757   777 1
+  757   778 1
+  758   757 1
+  759   757 1
+  760   757 1
+  761   757 1
+  762   757 1
+  763   757 1
+  763   819 1
+  764   757 1
+  764   781 1
+  764   674 1
+  765   757 1
+  766   757 1
+  768   757 1
+  768   674 1
+  770   757 1
+  771   757 1
+  772   757 1
+  775   757 1
+  775   781 1
+  775   674 1
+  779   757 1
+  780   781 1
+  781   785 1
+  781   646 1
+  781   787 1
+  781   788 1
+  781   789 1
+  781   790 1
+  781   724 1
+  781   793 1
+  781   794 1
+  781   796 1
+  781   797 1
+  781   800 1
+  781   767 1
+  781   775 1
+  781   407 1
+  781   802 1
+  781   804 1
+  781   805 1
+  781   506 1
+  781   779 1
+  781   807 1
+  781   810 1
+  781   813 1
+  781   815 1
+  781   817 1
+  782   781 1
+  783   781 1
+  784   781 1
+  784   819 1
+  785   817 1
+  786   781 1
+  787   781 1
+  787   819 1
+  791   781 1
+  792   781 1
+  795   781 1
+  798   781 1
+  799   781 1
+  800   817 1
+  801   781 1
+  803   781 1
+  806   781 1
+  808   781 1
+  809   781 1
+  809   674 1
+  809  1166 1
+  811   781 1
+  811   819 1
+  811   817 1
+  812   781 1
+  814   781 1
+  814   674 1
+  816   781 1
+  816  1166 1
+  817   403 1
+  817   395 1
+  817   392 1
+  817   401 1
+  817  1369 1
+  817   388 1
+  817  1238 1
+  817  1372 1
+  817   848 1
+  817  1375 1
+  817  1376 1
+  817  1379 1
+  817  1380 1
+  817   831 1
+  817   823 1
+  817  1386 1
+  817   829 1
+  817  1383 1
+  817   783 1
+  817  1395 1
+  817   407 1
+  817   834 1
+  817  1397 1
+  817  1398 1
+  817  1399 1
+  817  1326 1
+  817  1371 1
+  817  1374 1
+  817  1401 1
+  818   819 1
+  819   818 1
+  819   821 1
+  819   403 1
+  819   271 1
+  819   823 1
+  819   407 1
+  819   826 1
+  819   829 1
+  819   830 1
+  819   833 1
+  819   835 1
+  819   837 1
+  819   838 1
+  819   787 1
+  819   832 1
+  819   840 1
+  819   843 1
+  819   233 1
+  819   314 1
+  819   848 1
+  819   849 1
+  819   834 1
+  819   824 1
+  819   857 1
+  820   819 1
+  821   819 1
+  822   819 1
+  822   817 1
+  824   819 1
+  824   817 1
+  825   819 1
+  826   819 1
+  827   819 1
+  828   819 1
+  831   819 1
+  831   817 1
+  832   819 1
+  832   817 1
+  834   819 1
+  836   819 1
+  838   819 1
+  839   819 1
+  841   819 1
+  842   819 1
+  844   819 1
+  844   817 1
+  845   819 1
+  846   819 1
+  847   819 1
+  850   819 1
+  851   819 1
+  852   819 1
+  853   819 1
+  854   819 1
+  855   819 1
+  856   819 1
+  858   819 1
+  859   860 1
+  860   861 1
+  860   866 1
+  861   860 1
+  862   860 1
+  863   860 1
+  864   860 1
+  865   860 1
+  867   674 1
+  870   674 1
+  872   674 1
+  874   674 1
+  875   674 1
+  876   674 1
+  878   674 1
+  879   697 1
+  879   880 1
+  879   533 1
+  879   613 1
+  879   610 1
+  879   881 1
+  879   511 1
+  879   884 1
+  879   509 1
+  879   886 1
+  879   357 1
+  879   356 1
+  879   888 1
+  881   610 1
+  882   879 1
+  883   879 1
+  884  1166 1
+  885   879 1
+  885   610 1
+  887   879 1
+  889   879 1
+  890   773 1
+  891   773 1
+  892   773 1
+  893   894 1
+  893   896 1
+  893   898 1
+  893   899 1
+  893   900 1
+  894   893 1
+  895   893 1
+  897   893 1
+  901   903 1
+  901   904 1
+  902   901 1
+  902  1232 1
+  905   901 1
+  906   907 1
+  908   907 1
+  909   907 1
+  910   907 1
+  911   907 1
+  912   907 1
+  913   907 1
+  914   907 1
+  915   907 1
+  916   907 1
+  917   907 1
+  918   357 1
+  918   919 1
+  918   920 1
+  918   921 1
+  922   918 1
+  923   915 1
+  923   949 1
+  923   951 1
+  923   952 1
+  924   923 1
+  925   923 1
+  926   923 1
+  927   923 1
+  927  1038 1
+  928   923 1
+  929   923 1
+  930   923 1
+  931   923 1
+  932   923 1
+  933   923 1
+  934   923 1
+  935   923 1
+  936   923 1
+  937   923 1
+  938   923 1
+  938   955 1
+  939   923 1
+  940   923 1
+  941   923 1
+  942   923 1
+  943   923 1
+  944   923 1
+  945   923 1
+  946   923 1
+  947   923 1
+  948   923 1
+  950   923 1
+  952   953 1
+  952   960 1
+  952   968 1
+  954   952 1
+  955   952 1
+  955   949 1
+  955   976 1
+  956   952 1
+  957   952 1
+  958   952 1
+  959   952 1
+  961   952 1
+  962   952 1
+  963   952 1
+  964   952 1
+  965   952 1
+  966   952 1
+  967   952 1
+  969   970 1
+  969   683 1
+  971   970 1
+  972   970 1
+  973   955 1
+  974   955 1
+  975   955 1
+  977   955 1
+  978   955 1
+  979   980 1
+  979  1232 1
+  980   981 1
+  980   982 1
+  980   984 1
+  980   987 1
+  980   990 1
+  980   983 1
+  980   998 1
+  980  1006 1
+  980  1002 1
+  980  1015 1
+  980  1016 1
+  980   985 1
+  981   980 1
+  983   980 1
+  984   980 1
+  985   980 1
+  986   980 1
+  988   980 1
+  988  1166 1
+  989   980 1
+  991   980 1
+  992   980 1
+  993   980 1
+  994   980 1
+  995   980 1
+  996   980 1
+  997   980 1
+  999   980 1
+ 1000   980 1
+ 1001   980 1
+ 1002   980 1
+ 1003   980 1
+ 1004   980 1
+ 1005   980 1
+ 1007   980 1
+ 1008   980 1
+ 1009   980 1
+ 1010   980 1
+ 1011   980 1
+ 1011  1166 1
+ 1012   980 1
+ 1013   980 1
+ 1014   980 1
+ 1017   980 1
+ 1018  1019 1
+ 1019  1020 1
+ 1026    58 1
+ 1029    58 1
+ 1030    58 1
+ 1031    58 1
+ 1035    58 1
+ 1036    58 1
+ 1038  1039 1
+ 1038  1040 1
+ 1038  1042 1
+ 1038  1045 1
+ 1038  1046 1
+ 1038  1049 1
+ 1038  1050 1
+ 1038   457 1
+ 1038  1051 1
+ 1038  1052 1
+ 1038  1053 1
+ 1038   774 1
+ 1038  1057 1
+ 1038  1056 1
+ 1038  1059 1
+ 1038  1060 1
+ 1038  1062 1
+ 1038  1066 1
+ 1038  1058 1
+ 1038  1067 1
+ 1038  1070 1
+ 1038  1071 1
+ 1038  1072 1
+ 1038  1073 1
+ 1038  1076 1
+ 1038  1077 1
+ 1038  1080 1
+ 1038  1083 1
+ 1038  1074 1
+ 1038  1084 1
+ 1038  1085 1
+ 1038  1087 1
+ 1038  1088 1
+ 1038  1090 1
+ 1038  1092 1
+ 1038  1093 1
+ 1038  1094 1
+ 1038  1095 1
+ 1038  1097 1
+ 1038  1099 1
+ 1038  1100 1
+ 1038  1064 1
+ 1040  1038 1
+ 1041  1038 1
+ 1042  1038 1
+ 1043  1038 1
+ 1044  1038 1
+ 1046  1038 1
+ 1047  1038 1
+ 1048  1038 1
+ 1049  1038 1
+ 1050  1038 1
+ 1051  1038 1
+ 1053  1038 1
+ 1054  1038 1
+ 1054  1166 1
+ 1055  1038 1
+ 1056  1038 1
+ 1058  1038 1
+ 1061  1038 1
+ 1063  1038 1
+ 1064  1038 1
+ 1065  1038 1
+ 1068  1038 1
+ 1069  1038 1
+ 1073  1038 1
+ 1074  1038 1
+ 1075  1038 1
+ 1078  1038 1
+ 1079  1038 1
+ 1081  1038 1
+ 1082  1038 1
+ 1084  1038 1
+ 1086  1038 1
+ 1089  1038 1
+ 1091  1038 1
+ 1095  1166 1
+ 1096  1038 1
+ 1098  1038 1
+ 1101  1038 1
+ 1102  1038 1
+ 1103  1038 1
+ 1104  1038 1
+ 1105  1038 1
+ 1106  1038 1
+ 1107  1038 1
+ 1107  1166 1
+ 1108   683 1
+ 1109   683 1
+ 1110   683 1
+ 1110  1166 1
+ 1113   683 1
+ 1114   683 1
+ 1116   683 1
+ 1117   683 1
+ 1118   683 1
+ 1119   683 1
+ 1121   683 1
+ 1122   683 1
+ 1123   683 1
+ 1124   683 1
+ 1125   683 1
+ 1126   683 1
+ 1127   683 1
+ 1128   683 1
+ 1128  1166 1
+ 1129   683 1
+ 1130   683 1
+ 1132   683 1
+ 1134   683 1
+ 1135   683 1
+ 1140   683 1
+ 1143  1406 1
+ 1143  1404 1
+ 1146   683 1
+ 1148   683 1
+ 1151   683 1
+ 1152   683 1
+ 1153   683 1
+ 1155   683 1
+ 1158   683 1
+ 1163   683 1
+ 1165   683 1
+ 1166  1267 1
+ 1166   869 1
+ 1166   814 1
+ 1166  1269 1
+ 1166  1270 1
+ 1166  1271 1
+ 1166  1273 1
+ 1166  1275 1
+ 1166  1278 1
+ 1166  1021 1
+ 1166  1281 1
+ 1166    65 1
+ 1166  1284 1
+ 1166  1285 1
+ 1166  1290 1
+ 1166  1294 1
+ 1166  1016 1
+ 1166   407 1
+ 1166  1295 1
+ 1166   817 1
+ 1166  1274 1
+ 1166  1297 1
+ 1166  1300 1
+ 1166   574 1
+ 1166   414 1
+ 1166  1305 1
+ 1166  1306 1
+ 1166  1310 1
+ 1166  1311 1
+ 1166   709 1
+ 1166  1312 1
+ 1166  1314 1
+ 1166  1316 1
+ 1166  1317 1
+ 1166  1318 1
+ 1166  1320 1
+ 1166  1322 1
+ 1166  1323 1
+ 1166   271 1
+ 1166  1325 1
+ 1166  1326 1
+ 1166  1327 1
+ 1166  1329 1
+ 1166   782 1
+ 1166  1334 1
+ 1166  1335 1
+ 1166  1338 1
+ 1166  1339 1
+ 1166  1340 1
+ 1166  1342 1
+ 1166   775 1
+ 1166  1349 1
+ 1166  1350 1
+ 1166  1352 1
+ 1166  1353 1
+ 1166  1354 1
+ 1166  1355 1
+ 1166  1356 1
+ 1166  1357 1
+ 1166  1359 1
+ 1166  1362 1
+ 1166  1363 1
+ 1166  1365 1
+ 1166   764 1
+ 1166  1366 1
+ 1166  1368 1
+ 1166  1280 1
+ 1171   683 1
+ 1174   683 1
+ 1176   683 1
+ 1178   683 1
+ 1179   683 1
+ 1180   683 1
+ 1184   683 1
+ 1185   683 1
+ 1188  1166 1
+ 1189   683 1
+ 1189  1166 1
+ 1192   683 1
+ 1193   683 1
+ 1195   683 1
+ 1197   683 1
+ 1199   683 1
+ 1200   683 1
+ 1201   683 1
+ 1201   610 1
+ 1210   683 1
+ 1212   683 1
+ 1213   683 1
+ 1214   683 1
+ 1215   683 1
+ 1223   683 1
+ 1230   683 1
+ 1231   683 1
+ 1232  1233 1
+ 1232   775 1
+ 1232   601 1
+ 1232   613 1
+ 1232   519 1
+ 1232  1244 1
+ 1232  1248 1
+ 1232  1250 1
+ 1232  1253 1
+ 1232  1256 1
+ 1232  1258 1
+ 1232  1259 1
+ 1232  1260 1
+ 1232  1257 1
+ 1232  1264 1
+ 1232  1265 1
+ 1232  1266 1
+ 1233  1232 1
+ 1234  1232 1
+ 1235  1232 1
+ 1236  1232 1
+ 1237  1232 1
+ 1238  1232 1
+ 1238  1166 1
+ 1238   610 1
+ 1239  1232 1
+ 1240  1232 1
+ 1241  1232 1
+ 1242  1232 1
+ 1243  1232 1
+ 1243  1166 1
+ 1245  1232 1
+ 1245  1166 1
+ 1246  1232 1
+ 1247  1232 1
+ 1249  1232 1
+ 1251  1232 1
+ 1252  1232 1
+ 1254  1232 1
+ 1255  1232 1
+ 1257  1232 1
+ 1261  1232 1
+ 1262  1232 1
+ 1263  1232 1
+ 1267  1166 1
+ 1268  1166 1
+ 1269  1166 1
+ 1272  1166 1
+ 1274  1166 1
+ 1276  1166 1
+ 1277  1166 1
+ 1279  1166 1
+ 1280  1166 1
+ 1282  1166 1
+ 1282   817 1
+ 1283  1166 1
+ 1286  1166 1
+ 1287  1166 1
+ 1288  1166 1
+ 1289  1166 1
+ 1291  1166 1
+ 1292  1166 1
+ 1293  1166 1
+ 1296  1166 1
+ 1296   610 1
+ 1298  1166 1
+ 1299  1166 1
+ 1301  1166 1
+ 1302  1166 1
+ 1303  1166 1
+ 1304  1166 1
+ 1307  1166 1
+ 1308  1166 1
+ 1309  1166 1
+ 1313  1166 1
+ 1315  1166 1
+ 1319  1166 1
+ 1321  1166 1
+ 1324  1166 1
+ 1326   817 1
+ 1328  1166 1
+ 1330  1166 1
+ 1331  1166 1
+ 1332  1166 1
+ 1333  1166 1
+ 1336  1166 1
+ 1337  1166 1
+ 1341  1166 1
+ 1343  1166 1
+ 1344  1166 1
+ 1345  1166 1
+ 1346  1166 1
+ 1347  1166 1
+ 1348  1166 1
+ 1351  1166 1
+ 1358  1166 1
+ 1360  1166 1
+ 1361  1166 1
+ 1364  1166 1
+ 1367  1166 1
+ 1370   817 1
+ 1371   817 1
+ 1373   817 1
+ 1374   817 1
+ 1375   817 1
+ 1377   817 1
+ 1378   817 1
+ 1381   817 1
+ 1382   817 1
+ 1383   817 1
+ 1384   817 1
+ 1385   817 1
+ 1387   817 1
+ 1388   817 1
+ 1389   817 1
+ 1390   817 1
+ 1391   817 1
+ 1392   817 1
+ 1393   817 1
+ 1394   817 1
+ 1396   817 1
+ 1400   817 1
+ 1402   817 1
+ 1403   817 1
+ 1404  1143 1
+ 1405  1143 1
+ 1407  1408 1
+ 1408  1407 1
+ 1408  1410 1
+ 1409  1408 1
+ 1411  1408 1
+ 1412   610 1
+ 1413   610 1
+ 1414   610 1
+ 1415   610 1
+ 1416   610 1
+ 1417   610 1
+ 1419   610 1
+ 1420   610 1
+ 1421   610 1
+ 1422   610 1
+ 1423   610 1
+ 1424   610 1
+ 1425   610 1
+ 1426   610 1
+ 1428   610 1
+ 1429   610 1
+ 1430   610 1
+ 1431   610 1
+ 1432   610 1
+ 1433   610 1
+ 1434   610 1
+ 1435   610 1
+ 1436   610 1
+ 1437   610 1
+ 1438   610 1
+ 1439   610 1
+ 1440   610 1
+ 1441   610 1
+ 1442   610 1
+ 1443   610 1
+ 1444   610 1
+ 1445   610 1
+ 1446   610 1
+ 1447   610 1
+ 1448   610 1
+ 1449   610 1
+ 1450   610 1
+ 1451   610 1
+ 1452   610 1
+ 1453   610 1
+ 1454   610 1
+ 1455   610 1
+ 1456   610 1
+ 1457   610 1
+ 1458   610 1
+ 1459   610 1
+ 1460   610 1
+ 1461   610 1
+ 1462   610 1
+ 1463   610 1

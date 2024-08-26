@@ -10,7 +10,8 @@ def create_graph_file(filename):
             G = nx.read_pajek(filename)
             G = nx.DiGraph(G)
             return G
-        except:
+        except Exception as e:
+            print (f"{e}")
             print(f"Errore nell'apertura del file \"{filename}\" (controlla che il file esista o che siano presenti i giusti permessi)")
             return None
     else:
@@ -21,8 +22,10 @@ def create_graph_file(filename):
             for line in file:
                 line = line.strip().split(";")
                 from_node = line[1].strip()
+                from_node_edited = from_node.replace(" ", "_").replace("(", "").replace(")", "")
                 to_node = line[2].strip()
-                G.add_edge(from_node, to_node)
+                to_node_edited = to_node.replace(" ", "_").replace("(", "").replace(")", "")
+                G.add_edge(from_node_edited, to_node_edited)
             file.close()
             return G
 

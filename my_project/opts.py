@@ -2,6 +2,7 @@ import sys, os, re
 from .create_graph import *
 from .bow_tie_detection import *
 from .pajek import *
+import random
 
 def clear_screen():
     if os.name == "nt":
@@ -44,6 +45,18 @@ def avalanche_to_partitions(G, avalanche):
     
     return partitions
 
+def prob_avalanche(G, output_file="prob_avalanche.txt", percentage=0.6):
+    all_nodes = list(G.nodes)
+    num_nodes_to_select = int(len(all_nodes) * percentage)
+    selected_nodes = random.sample(all_nodes, num_nodes_to_select)
+
+    with open(output_file, "w") as outfile:
+        for node in selected_nodes:
+            outfile.write(f"{node}\n")
+        
+    print("A possible avalanche has been generated into \"prob_avalanche.txt\" file")
+
+
 
 def exe_case_1(G):
     UG = G.to_undirected()
@@ -60,6 +73,8 @@ def exe_case_1(G):
     create_pajek_partitions_file(partitions_file, G, partitions)
 
     open_pajek(G, partitions_file)
+
+    prob_avalanche(G)
 
 def case_1():
     choice = input("How would you create the network?\n1) By File(.txt or .net)\n2) By giving the total of nodes\n>> ")
@@ -139,7 +154,8 @@ def case_2():
         flag = file.readline().strip().lower() == 'true'
         shock = file.readline().strip().lower() == 'true'
         for line in file:
-            list_nodes.append(line.strip())
+            cleaned_line = line.rstrip('\n')
+            list_nodes.append(str(cleaned_line))
 
         if flag is not None and list_nodes is not None:
             exe_case_2(G, flag, list_nodes, shock)
@@ -188,7 +204,8 @@ def single_avalanche(G, start_node, results, shock):
             nodes_to_check = new_nodes_to_check
 
     results[start_node] = avalanche
-    filename = str(start_node) + ".txt"
+    node_edited = str(start_node).replace("/", "")
+    filename = str(node_edited) + ".txt"
     folder = "avalanches"
 
     file_path = os.path.join(folder, filename)
@@ -197,8 +214,8 @@ def single_avalanche(G, start_node, results, shock):
         with open(file_path, "w") as file:
             for n in avalanche:
                 file.write(f"{n}\n")
-    except:
-        print("Error...")
+    except ValueError as e:
+        print(f"Error: {e}")
 
 def multiple_avalanches(G, list_nodes, shock):
     rate = 0.5
@@ -252,8 +269,8 @@ def multiple_avalanches(G, list_nodes, shock):
         with open(file_path, "w") as file:
             for n in avalanche:
                 file.write(f"{n}\n")
-    except:
-        print("Error...")
+    except ValueError as e:
+        print(f"Error: {e}")
 
     return avalanche
 
@@ -315,6 +332,8 @@ def exe_case_4(G):
     create_pajek_partitions_file(partitions_file, G, partitions)
 
     open_pajek(G, partitions_file)
+
+    prob_avalanche(G)
 
 def case_4():
     choice = input("How would you create the network?\n1) By File(.txt or .net)\n2) By giving the total of nodes\n>> ")

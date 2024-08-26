@@ -1,0 +1,16 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+
+% Reading Network   ---    C:\Users\ivang\Desktop\Università\Tirocinio\Progetto_Giove\network.net
+N 1 RDN "C:\Users\ivang\Desktop\Università\Tirocinio\Progetto_Giove\network.net" (1463)
+E 1 CIRCULAR
+E 1 DRAW 0 0 0 0 0
+% Reading Partition   ---    C:\Users\ivang\Desktop\Università\Tirocinio\Progetto_Giove\partitions.clu
+C 1 RDC "C:\Users\ivang\Desktop\Università\Tirocinio\Progetto_Giove\partitions.clu" (1463)
+E 1 DRAW 1 0 0 0 0
+% Saving network to file   ---    C:\Users\ivang\Desktop\Università\Tirocinio\Progetto_Giove\network_3.net
+N 1 WN "C:\Users\ivang\Desktop\Università\Tirocinio\Progetto_Giove\network_3.net" 0 (1463)
