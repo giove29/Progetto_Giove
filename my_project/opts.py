@@ -4,6 +4,10 @@ from .bow_tie_detection import *
 from .pajek import *
 import random
 
+PERCENTAGE_PROB_AVALANCHE = 1
+RATE = 1
+RATE_SHOCK = 0.5
+
 def clear_screen():
     if os.name == "nt":
         os.system("cls")
@@ -45,16 +49,17 @@ def avalanche_to_partitions(G, avalanche):
     
     return partitions
 
-def prob_avalanche(G, output_file="prob_avalanche.txt", percentage=0.6):
+def prob_avalanche(G, output_file="prob_avalanche.txt", percentage=PERCENTAGE_PROB_AVALANCHE):
     all_nodes = list(G.nodes)
     num_nodes_to_select = int(len(all_nodes) * percentage)
     selected_nodes = random.sample(all_nodes, num_nodes_to_select)
 
     with open(output_file, "w") as outfile:
+        outfile.write("True\nFalse\n")
         for node in selected_nodes:
             outfile.write(f"{node}\n")
         
-    print("A possible avalanche has been generated into \"prob_avalanche.txt\" file")
+    print("A possible avalanche has been generated into \"prob_avalanche.txt\" file ")
 
 
 
@@ -151,8 +156,8 @@ def case_2():
     try:
         list_nodes = []
         file = open(filename, "r")
-        flag = file.readline().strip().lower() == 'true'
-        shock = file.readline().strip().lower() == 'true'
+        flag = file.readline().strip().lower() == 'true' #First bool -> True: Single; False: Multiple
+        shock = file.readline().strip().lower() == 'true' #Second bool -> True: Shock ON; False: Shock OFF
         for line in file:
             cleaned_line = line.rstrip('\n')
             list_nodes.append(str(cleaned_line))
@@ -166,8 +171,8 @@ def case_2():
 
 
 def single_avalanche(G, start_node, results, shock):
-    rate = 0.5
-    rate_shock = 0.5
+    rate = RATE
+    rate_shock = RATE_SHOCK
     avalanche = set()
     avalanche.add(start_node)
     #we're going to check only the successors of the nodes in the avalanche at every cycle
@@ -204,6 +209,7 @@ def single_avalanche(G, start_node, results, shock):
             nodes_to_check = new_nodes_to_check
 
     results[start_node] = avalanche
+    ''' Creates a file of the avalanche of each node
     node_edited = str(start_node).replace("/", "")
     filename = str(node_edited) + ".txt"
     folder = "avalanches"
@@ -216,6 +222,7 @@ def single_avalanche(G, start_node, results, shock):
                 file.write(f"{n}\n")
     except ValueError as e:
         print(f"Error: {e}")
+    '''
 
 def multiple_avalanches(G, list_nodes, shock):
     rate = 0.5
@@ -303,8 +310,8 @@ def result(G, results):
     try:
         df.to_excel(file_path, index = False)
         print(f"Excel created as \"{filename}\"")
-    except:
-        print("Excel not created due to errors!")
+    except Exception as e:
+        print("Excel not created due to errors!\n" + str(e))
 
 
 def case_3():

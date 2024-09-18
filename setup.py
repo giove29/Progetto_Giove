@@ -11,6 +11,7 @@ setup(
         "networkx",
         "matplotlib",
         "scipy",
-        "pandas"
+        "pandas",
+        "openpyxl"
     ]
 )

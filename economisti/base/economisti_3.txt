@@ -1,0 +1,1975 @@
+ID;	from;	to
+0;	Belle International Holdings Ltd;	Adidas AG
+1;	Nike Inc;	Adidas AG
+2;	Omnicom Group Inc;	Adidas AG
+3;	TBWA Worldwide Inc;	Adidas AG
+4;	Leanix GmbH;	Adidas AG
+5;	Pou Chen Corp;	Adidas AG
+6;	Zalando SE;	Adidas AG
+7;	Sciessent LLC;	Adidas AG
+8;	Yue Yuen Industrial (Holdings) Ltd;	Adidas AG
+9;	Hibbett Inc;	Adidas AG
+10;	Polygiene AB;	Adidas AG
+11;	I.A.R. Systems AB;	Adidas AG
+12;	Lululemon Athletica Inc;	Adidas AG
+13;	Isobar;	Adidas AG
+14;	Staffbase GmbH;	Adidas AG
+15;	Under Armour Inc;	Adidas AG
+16;	Adidas AG;	Frasers Group PLC
+17;	Grand Twins International Cambodia PLC;	Adidas AG
+18;	retarus GmbH;	Adidas AG
+19;	Seewhy Inc;	Adidas AG
+20;	Airship Group Inc;	Adidas AG
+21;	Adidas AG;	Manchester United PLC
+22;	RedPrairie Corp;	Adidas AG
+23;	YOC AG;	Adidas AG
+24;	Demandware LLC;	Adidas AG
+25;	Exasol AG;	Adidas AG
+26;	Realtime Technology AG;	Adidas AG
+27;	WPP PLC;	Adidas AG
+28;	Dyehard Fan Supply LLC;	Adidas AG
+29;	Adidas AG;	H & M Hennes & Mauritz AB
+30;	JD Sports Fashion PLC;	Adidas AG
+31;	Frasers Group PLC;	Adidas AG
+32;	YDx Innovation Corp;	Adidas AG
+33;	Adyen NV;	Facebook Inc
+34;	Airbus SE;	Air France KLM SA
+35;	Airbus SE;	Air Lease Corp
+36;	Airbus SE;	Airasia Group Bhd
+37;	Airbus SE;	AirAsia X Bhd
+38;	Airbus SE;	American Airlines Group Inc
+39;	Bombardier Inc;	Airbus SE
+40;	Airbus SE;	Cebu Air Inc
+41;	CFM International Inc;	Airbus SE
+42;	Cfm International SA;	Airbus SE
+43;	Airbus SE;	Delta Air Lines Inc
+44;	Airbus SE;	Deutsche Lufthansa AG
+45;	Airbus SE;	Easyjet PLC
+46;	Airbus SE;	Emirates Airline
+47;	FACC AG;	Airbus SE
+48;	Hexcel Corp;	Airbus SE
+49;	Airbus SE;	Interglobe Aviation Ltd
+50;	Airbus SE;	Iran Air
+51;	Airbus SE;	JetBlue Airways Corp
+52;	Pratt & Whitney Co;	Airbus SE
+53;	Raytheon Technologies Corp;	Airbus SE
+54;	Rolls-Royce Holdings PLC;	Airbus SE
+55;	Safran SA;	Airbus SE
+56;	Spirit AeroSystems Holdings Inc;	Airbus SE
+57;	Airbus SE;	United Airlines Inc
+58;	Airbus SE;	Vietjet Aviation JSC
+59;	Airbus SE;	Wizz Air Holdings PLC
+60;	Airbus SE;	AerCap Holdings NV
+61;	Air Lease Corp;	Airbus SE
+62;	Airbus SE;	Airasia Group Bhd
+63;	Dassault Systemes SE;	Airbus SE
+64;	General Electric Co;	Airbus SE
+65;	Interglobe Aviation Ltd;	Airbus SE
+66;	Magellan Aerospace Corp;	Airbus SE
+67;	MTU Aero Engines AG;	Airbus SE
+68;	Airbus SE;	Qantas Airways Ltd
+69;	Rockwell Collins Inc;	Airbus SE
+70;	Thales SA;	Airbus SE
+71;	Air France KLM SA;	Airbus SE
+72;	Airbus SE;	Controladora Vuela Compania de Aviacion SAB de CV
+73;	Airbus SE;	Eutelsat Communications SA
+74;	Inmarsat Group Holdings Ltd;	Airbus SE
+75;	Airbus SE;	Qatar Airways Group QCSC
+76;	Airbus SE;	AirAsia X Bhd
+77;	Controladora Vuela Compania de Aviacion SAB de CV;	Airbus SE
+78;	Hardide PLC;	Airbus SE
+79;	Constellium SE;	Airbus SE
+80;	Airbus SE;	Air Arabia PJSC
+81;	Airbus SE;	ANA Holdings Inc
+82;	Airbus SE;	China Southern Airlines Co Ltd
+83;	Collins Aerospace;	Airbus SE
+84;	Howmet Aerospace Inc;	Airbus SE
+85;	Airbus SE;	IndiGo Airlines
+86;	Airbus SE;	Lockheed Martin Corp
+87;	Qantas Airways Ltd;	Airbus SE
+88;	TriMas Corp;	Airbus SE
+89;	Triumph Group Inc;	Airbus SE
+90;	Airbus SE;	Virgin Atlantic Airways Ltd
+91;	Zodiac Aerospace SA;	Airbus SE
+92;	Airbus SE;	Aegean Airlines SA
+93;	Cobham Ltd;	Airbus SE
+94;	Ge Aviation Systems;	Airbus SE
+95;	Gogo Inc;	Airbus SE
+96;	Airbus SE;	Japan Airlines Co Ltd
+97;	Airbus SE;	Sichuan Airlines Co Ltd
+98;	Airbus SE;	Singapore Airlines Ltd
+99;	AstroNova Inc;	Airbus SE
+100;	GKN Ltd;	Airbus SE
+101;	Airbus SE;	Hawaiian Holdings Inc
+102;	Latecoere SA;	Airbus SE
+103;	Airbus SE;	Middle East Airlines SAL
+104;	Rolls-Royce PLC;	Airbus SE
+105;	Saab AB;	Airbus SE
+106;	Airbus SE;	Volotea SL
+107;	American Lithium Corp;	Airbus SE
+108;	B/E Aerospace Inc;	Airbus SE
+109;	CAE Inc;	Airbus SE
+110;	Airbus SE;	China Eastern Airlines Corp Ltd
+111;	Airbus SE;	Inmarsat Group Holdings Ltd
+112;	Strata Manufacturing PJSC;	Airbus SE
+113;	UTC Aerospace Systems;	Airbus SE
+114;	Airbus SE;	Vietnam Airlines JSC
+115;	Airbus SE;	Air Canada
+116;	Airbus SE;	Air China Ltd
+117;	Aviation Capital Group LLC;	Airbus SE
+118;	Airbus SE;	China Aircraft Leasing Group Holdings Ltd
+119;	Constellium SE;	Airbus SE
+120;	Honeywell International Inc;	Airbus SE
+121;	Airbus SE;	LATAM Airlines Group SA
+122;	Airbus SE;	Spirit Airlines Inc
+123;	Airbus SE;	United Airlines Holdings Inc
+124;	Wizz Air Holdings PLC;	Airbus SE
+125;	Airbus SE;	International Consolidated Airlines Group SA
+126;	Esterline Technologies Corp;	Airbus SE
+127;	Howmet Aerospace Inc;	Airbus SE
+128;	Meggitt PLC;	Airbus SE
+129;	Airbus SE;	Al Yah Satellite Communications Company Pjsc
+130;	Airbus SE;	Etihad Airways Pjsc
+131;	Goodrich Corp;	Airbus SE
+132;	Korea Aerospace Industries Ltd;	Airbus SE
+133;	Airbus SE;	Kuwait Airways Corp KSC
+134;	Airbus SE;	Lion Mentari PT
+135;	Airbus SE;	Aeroflot-Rossiyskiye Avialinii PAO
+136;	Axiscades Technologies Ltd;	Airbus SE
+137;	Composites Technology Research Malaysia Sdn Bhd;	Airbus SE
+138;	Indigo Partners Inc;	Airbus SE
+139;	Korporatsiya VSMPO-AVISMA PAO;	Airbus SE
+140;	Northrop Grumman Corp;	Airbus SE
+141;	Airbus SE;	Norwegian Air Shuttle ASA
+142;	Airbus SE;	Renault SA
+143;	Airbus SE;	Virgin America Inc
+144;	British Airways PLC;	Airbus SE
+145;	Airbus SE;	Cathay Pacific Airways Ltd
+146;	Airbus SE;	China Airlines Ltd
+147;	Airbus SE;	Sky Brasil Servicos Ltda
+148;	Turk Hava Yollari AO;	Airbus SE
+149;	Airbus SE;	Uganda Airlines
+150;	Airbus SE;	Air Transat AT Inc
+151;	CTT Systems AB;	Airbus SE
+152;	Lufthansa Technik AG;	Airbus SE
+153;	LATAM Airlines Group SA;	Airbus SE
+154;	Air Canada;	Airbus SE
+155;	Liebherr-International Ltd;	Airbus SE
+156;	Mahindra Group;	Airbus SE
+157;	Airbus SE;	SES SA
+158;	Airbus SE;	AER Lingus Group DAC
+159;	Ashley Services Group Ltd;	Airbus SE
+160;	CAE CANADA;	Airbus SE
+161;	Iran Air;	Airbus SE
+162;	Orolia Ltd;	Airbus SE
+163;	Safran Transmission Systems SASU;	Airbus SE
+164;	Transatel SA;	Airbus SE
+165;	Airbus SE;	Indigo Exploration Inc
+166;	Rolls Royce Motor Cars GmbH;	Airbus SE
+167;	SIA Engineering Company Ltd;	Airbus SE
+168;	Stratasys Ltd;	Airbus SE
+169;	Tekna Holding AS;	Airbus SE
+170;	Airbus SE;	Avianca Holdings SA
+171;	Airbus SE;	Aviation Capital Group LLC
+172;	Airbus SE;	BOC Aviation Ltd
+173;	Airbus SE;	China Aviation Supplies Holdings Co
+174;	Airbus SE;	Dubai Aerospace Enterprise Capital
+175;	Airbus SE;	Embraer SA
+176;	Airbus SE;	Hainan Airlines Holding Co Ltd
+177;	Airbus SE;	Korean Air Lines Co Ltd
+178;	Rheinmetall AG;	Airbus SE
+179;	Spirit Airlines Inc;	Airbus SE
+180;	Antavia SAS;	Airbus SE
+181;	Airbus SE;	British Airways PLC
+182;	Airbus SE;	House of Travel Indian Airlines
+183;	Airbus SE;	Indigo Partners Inc
+184;	Leonardo SpA;	Airbus SE
+185;	Senior PLC;	Airbus SE
+186;	Airbus SE;	Turk Hava Yollari AO
+187;	Aeroflot-Rossiyskiye Avialinii PAO;	Airbus SE
+188;	Airbus SE;	Avolon TLB Borrower 1 Luxembourg SARL
+189;	BAE Systems PLC;	Airbus SE
+190;	Airbus SE;	Thai AirAsia Co Ltd
+191;	Airbus SE;	Vistara Capital Partners Ltd
+192;	Denel Saab Aerostructures Pty Ltd;	Airbus SE
+193;	Airbus SE;	Sky Airline SA
+194;	Thai Airasia X Co Ltd;	Airbus SE
+195;	AAR Corp;	Airbus SE
+196;	Airasia Group Bhd;	Airbus SE
+197;	2Crsi SA;	Airbus SE
+198;	Aernnova Aerospace SA;	Airbus SE
+199;	Air Partner PLC;	Airbus SE
+200;	Aladdin Healthcare Technologies SE;	Airbus SE
+201;	Aleris Corp;	Airbus SE
+202;	Chemetall GmbH;	Airbus SE
+203;	Chemetall Ltd;	Airbus SE
+204;	Elbit Systems Ltd;	Airbus SE
+205;	L&T Technology Services Ltd;	Airbus SE
+206;	L3 Technologies Inc;	Airbus SE
+207;	Mahindra Aerospace Private Ltd;	Airbus SE
+208;	Airbus SE;	Malaysian Airline System Bhd
+209;	Optima Diagnostics Ltd;	Airbus SE
+210;	Rovsing A/S;	Airbus SE
+211;	Saudi Arabian Airlines;	Airbus SE
+212;	Airbus SE;	SKY Perfect JSAT Corp
+213;	Airbus SE;	Transat AT Inc
+214;	TY-OHM Electronic Works Co Ltd;	Airbus SE
+215;	Universal Alloy Corporation Europe SRL;	Airbus SE
+216;	Accenture PLC;	Airbus SE
+217;	Aerkomm Inc;	Airbus SE
+218;	Airbus SE;	Aerkomm Inc
+219;	Aerospace Industrial Development Corp;	Airbus SE
+220;	Airbus SE;	Air Tanzania Corp
+221;	Airports Authority of India;	Airbus SE
+222;	Amprius  Inc;	Airbus SE
+223;	Asco Industries SA;	Airbus SE
+224;	Airbus SE;	Aviakompaniya Azimut AO
+225;	Airbus SE;	Avolon Aerospace Leasing Ltd
+226;	Airbus SE;	Bohai Leasing Co Ltd
+227;	Carbures Europe SA;	Airbus SE
+228;	Comac SpA;	Airbus SE
+229;	Curtiss-Wright Corp;	Airbus SE
+230;	Airbus SE;	GREEN AFRICA SHIPPING (PTY) LTD
+231;	IQGeo Group PLC;	Airbus SE
+232;	Magellan Health Inc;	Airbus SE
+233;	Morson Group Ltd;	Airbus SE
+234;	Next Level Aviation LLC;	Airbus SE
+235;	Airbus SE;	Oasis Hong Kong Airlines Ltd
+236;	Ovzon AB (publ);	Airbus SE
+237;	Palantir Technologies Inc;	Airbus SE
+238;	Protech Wheel Industry Co Ltd;	Airbus SE
+239;	PTC Inc;	Airbus SE
+240;	Scisys Group PLC;	Airbus SE
+241;	Singapore Technologies Engineering Ltd;	Airbus SE
+242;	Societe Anonyme Belge de Constructions Aeronautiques SA;	Airbus SE
+243;	SupplyOn AG;	Airbus SE
+244;	Airbus SE;	Thales Alenia Space SAS
+245;	Airbus SE;	TOULOUSE A380 AIRBUS HANGAR
+246;	Travel + Leisure Co;	Airbus SE
+247;	Air BP Ltd;	Airbus SE
+248;	Airbus SE;	Air Greenland A/S
+249;	Airbus SE;	Air Vanuatu
+250;	Alcoa Corp;	Airbus SE
+251;	Airbus SE;	Allegiant Travel Co
+252;	Babcock International Group PLC;	Airbus SE
+253;	Capgemini SE;	Airbus SE
+254;	CEVA Logistics AG;	Airbus SE
+255;	Chemetall Us Inc;	Airbus SE
+256;	Ducommun Inc;	Airbus SE
+257;	ECA SA;	Airbus SE
+258;	Larsen & Toubro Ltd;	Airbus SE
+259;	LSP Technologies Inc;	Airbus SE
+260;	Mda Lawyers;	Airbus SE
+261;	Airbus SE;	Measat Global Bhd
+262;	Melrose Industries PLC;	Airbus SE
+263;	OneLogin Inc;	Airbus SE
+264;	Premium Aerotec GmbH;	Airbus SE
+265;	Airbus SE;	Royal Air Force Charitable Trust Enterprises
+266;	Safran Nacelles Ltd;	Airbus SE
+267;	Airbus SE;	Spicejet Ltd
+268;	Spirit Aerosystems (Europe) Ltd;	Airbus SE
+269;	Airbus SE;	Transat Holidays USA Inc
+270;	UMW Holdings Bhd;	Airbus SE
+271;	United Airlines Holdings Inc;	Airbus SE
+272;	Velocity Composites PLC;	Airbus SE
+273;	Vibrant Corp;	Airbus SE
+274;	Vislink Technologies Inc;	Airbus SE
+275;	Vistara Bioscience LLC;	Airbus SE
+276;	Aerostructures Assemblies India Pvt Ltd;	Airbus SE
+277;	Aleris AS;	Airbus SE
+278;	Coupa Software Inc;	Airbus SE
+279;	DRS Technologies Canada Ltd;	Airbus SE
+280;	Ethiopian Airlines Enterprise;	Airbus SE
+281;	Eurofighter Jagdflugzeug GmbH;	Airbus SE
+282;	Frontier Airlines Holdings Inc;	Airbus SE
+283;	Airbus SE;	Frontier Airlines Holdings Inc
+284;	Airbus SE;	Frontier Group Holdings Inc
+285;	Ge Aviation Systems Ltd;	Airbus SE
+286;	Airbus SE;	GlobalData PLC
+287;	Airbus SE;	Go Airlines (India) Ltd
+288;	Gudeng Precision Industrial Co Ltd;	Airbus SE
+289;	Airbus SE;	HNA Group Co Ltd
+290;	Airbus SE;	Qingdao Airlines Co Ltd
+291;	Rolls-Royce Motor Cars Ltd;	Airbus SE
+292;	Airbus SE;	Royal Dutch Shell PLC
+293;	SAS AB;	Airbus SE
+294;	Airbus SE;	Shenzhen Airlines Co Ltd
+295;	Airbus SE;	SMBC Aviation Capital Ltd
+296;	Sopra Steria Group SA;	Airbus SE
+297;	Airbus SE;	STATE GRID GENERAL AVIATION CO LTD
+298;	Tata Sons Pvt Ltd;	Airbus SE
+299;	Airbus SE;	888 Partners Fund 2014-C Series LP
+300;	Airbus SE;	Al-Nawadi Holding Co KPSC
+301;	Airbus SE;	Arianespace SASU
+302;	Deutsche Post AG;	Airbus SE
+303;	Airbus SE;	Egyptair Holding Co
+304;	Airbus SE;	Hong Kong Airlines Ltd
+305;	IAR SA;	Airbus SE
+306;	Airbus SE;	Malaysia Airlines Bhd
+307;	Airbus SE;	Monarch Airlines Ltd
+308;	Airbus SE;	NWS Holdings Ltd
+309;	Airbus SE;	Oneweb Systems Inc
+310;	Airbus SE;	Pacific Airlines Aviation JSC
+311;	QC Ware Corp;	Airbus SE
+312;	Airbus SE;	Ryanair Holdings PLC
+313;	Safran Aircraft Engines SASU;	Airbus SE
+314;	Airbus SE;	Skymark Airlines Inc
+315;	Airbus SE;	Titan Airways Ltd
+316;	Airbus SE;	Agustawestland SpA
+317;	Elbe Flugzeugwerke GmbH;	Airbus SE
+318;	Galliford Try Holdings PLC;	Airbus SE
+319;	Airbus SE;	GE Capital Aviation Services LLC
+320;	Airbus SE;	Jet Airways (India) Ltd
+321;	Airbus SE;	Jet2 PLC
+322;	Starlux Airlines Co Ltd;	Airbus SE
+323;	Air Liquide;	ASDA Group Ltd
+324;	Air Liquide;	Sasol Ltd
+325;	Air Liquide;	Steel Dynamics Inc
+326;	Total Energies Nouvelles Activites USA SASU;	Air Liquide
+327;	Air Liquide;	Axion Energy Argentina SA
+328;	Air Liquide;	Eastman Chemical Co
+329;	Air Liquide;	Marathon Petroleum Company LP
+330;	Air Liquide;	OCI Partners LP
+331;	Air Liquide;	Shandong Energy Group Co Ltd
+332;	Akeneo SAS;	Air Liquide
+333;	ArcelorMittal SA;	Air Liquide
+334;	Air Liquide;	China Petroleum & Chemical Corp
+335;	Air Liquide;	Petroleos Mexicanos
+336;	Air Liquide;	SINOPEC Beijing Yanshan Petrochemical Ltd
+337;	Air Liquide;	BASF SE
+338;	Chart Industries Inc;	Air Liquide
+339;	Air Liquide;	Severstal' PAO
+340;	Scores Holding Company Inc;	Allianz SE
+341;	SinnerSchrader AG;	Allianz SE
+342;	CENIT AG;	Allianz SE
+343;	Tricentis Technology & Consulting GmbH;	Allianz SE
+344;	Talend SA;	Allianz SE
+345;	International Business Machines Corp;	Allianz SE
+346;	Deutsche Telekom AG;	Allianz SE
+347;	Preferred Life Variable Account C;	Allianz SE
+348;	VMware Inc;	Amadeus IT Group SA
+349;	Couchbase Inc;	Amadeus IT Group SA
+350;	Inntopia Com Inc;	Amadeus IT Group SA
+351;	Amadeus IT Group SA;	Qantas Airways Ltd
+352;	Moovly Media Inc;	Amadeus IT Group SA
+353;	TravelClick Inc;	Amadeus IT Group SA
+354;	Amadeus IT Group SA;	British Airways PLC
+355;	Etihad Airways Pjsc;	Amadeus IT Group SA
+356;	Red Hat Inc;	Amadeus IT Group SA
+357;	Accenture PLC;	Amadeus IT Group SA
+358;	Amadeus IT Group SA;	Bosch Corp
+359;	Amadeus IT Group SA;	Deutsche Lufthansa AG
+360;	Amadeus IT Group SA;	Easyjet PLC
+361;	everis Spain SLU;	Amadeus IT Group SA
+362;	Amadeus IT Group SA;	Southwest Airlines Co
+363;	Amadeus IT Group SA;	Air Canada
+364;	Amadeus IT Group SA;	American Airlines Group Inc
+365;	Sabre Corp;	Amadeus IT Group SA
+366;	Deutsche Post AG;	Anheuser Busch Inbev SA
+367;	Asana Rebel GmbH;	Anheuser Busch Inbev SA
+368;	Ardagh Packaging Holdings Ltd;	Anheuser Busch Inbev SA
+369;	Anheuser Busch Inbev SA;	Molson Coors Beverage Co
+370;	Ardagh Group SA;	Anheuser Busch Inbev SA
+371;	Constellation Brands Inc;	Anheuser Busch Inbev SA
+372;	Budweiser;	Anheuser Busch Inbev SA
+373;	Constellium SE;	Anheuser Busch Inbev SA
+374;	Spark Neuro Inc;	Anheuser Busch Inbev SA
+375;	Absolicon Solar Collector AB;	Anheuser Busch Inbev SA
+376;	pulse220 LLC;	Anheuser Busch Inbev SA
+377;	Anheuser Busch Inbev SA;	Cerveceria y Malteria Quilmes SAICA y G
+378;	Kapitan Diado Nikola v nesustoiatelnost AD;	Anheuser Busch Inbev SA
+379;	Anheuser Busch Inbev SA;	Ambev SA
+380;	PepsiCo Inc;	Anheuser Busch Inbev SA
+381;	Anheuser Busch Inbev SA;	KKR & Co Inc
+382;	ASML Holding NV;	Intel Corp
+383;	ASML Holding NV;	Samsung Electronics Co Ltd
+384;	ASML Holding NV;	Taiwan Semiconductor Manufacturing Co Ltd
+385;	ASML Holding NV;	Carl Zeiss SMT GmbH
+386;	ASML Holding NV;	Nikon Corp
+387;	Lumentum Holdings Inc;	ASML Holding NV
+388;	Intel Corp;	ASML Holding NV
+389;	ASML Holding NV;	Semiconductor Manufacturing International Corp
+390;	Jenoptik AG;	ASML Holding NV
+391;	ASML Holding NV;	Cymer Inc
+392;	Entegris Inc;	ASML Holding NV
+393;	ASML Holding NV;	Joh Berenberg Gossler & Co KG
+394;	KPMG Accountants NV;	ASML Holding NV
+395;	Lumentum Holdings Inc;	ASML Holding NV
+396;	ASML Motion Sub BV;	ASML Holding NV
+397;	ASML Holding NV;	SK Hynix Inc
+398;	ASML Holding NV;	Apple Inc
+399;	ASML Holding NV;	Cymer LLC
+400;	ASML Holding NV;	NXT-ID Inc
+401;	ASML Holding NV;	XTAL Inc
+402;	ASML Holding NV;	EuV Residential Lizenzholding GmbH
+403;	SMT Scharf AG;	ASML Holding NV
+404;	ASML Holding NV;	Micron Technology Inc
+405;	Accenture PLC;	AXA SA
+406;	Aeh Group Ltd;	AXA SA
+407;	Ngdata NV;	AXA SA
+408;	SecurityScorecard Inc;	AXA SA
+409;	Vymo Solutions Pvt Ltd;	AXA SA
+410;	Refinitiv US Holdings Inc;	Banco Santander SA
+411;	Banco Santander SA;	Santander UK Group Holdings PLC
+412;	Nuance Communications Inc;	Banco Santander SA
+413;	Evertec Inc;	Banco Santander SA
+414;	International Business Machines Corp;	Banco Santander SA
+415;	nCino Inc;	Banco Santander SA
+416;	Glencore PLC;	BASF SE
+417;	Fluor Corp;	BASF SE
+418;	Royal Dutch Shell PLC;	BASF SE
+419;	BASF SE;	Verbund AG
+420;	Sunpower Group Ltd;	BASF SE
+421;	Gunvor Group Ltd;	BASF SE
+422;	RWE AG;	BASF SE
+423;	Verbund AG;	BASF SE
+424;	Bilfinger SE;	BASF SE
+425;	BASF SE;	Vitol SA
+426;	Elemica Inc;	BASF SE
+427;	HP Inc;	BASF SE
+428;	Jacobs Engineering Group Inc;	BASF SE
+429;	BASF SE;	Amarin Corporation PLC
+430;	Aspen Aerogels Inc;	BASF SE
+431;	Trafigura Pte Ltd;	BASF SE
+432;	BASF SE;	Trinseo SA
+433;	BP PLC;	BASF SE
+434;	BASF SE;	BP PLC
+435;	BASF SE;	Glencore PLC
+436;	Amarin Corporation PLC;	BASF SE
+437;	BASF SE;	General Motors Co
+438;	Air Liquide Far Eastern Ltd;	BASF SE
+439;	Esw Holdings Inc;	BASF SE
+440;	BASF SE;	Trafigura Pte Ltd
+441;	Equinor ASA;	BASF SE
+442;	GMK Noril'skiy Nikel' PAO;	BASF SE
+443;	Citrine Informatics Inc;	BASF SE
+444;	Emerson Automation Solutions Final Control Uk Ltd;	BASF SE
+445;	Emerson Electric Co;	BASF SE
+446;	Hollysys Automation Technologies Ltd;	BASF SE
+447;	Huntsman International LLC;	BASF SE
+448;	BASF SE;	Petroliam Nasional Bhd
+449;	Quality Distribution Inc;	BASF SE
+450;	BASF SE;	Stahl Group BV
+451;	Anaqua Inc;	BASF SE
+452;	BASF SE;	Aspen Technology Inc
+453;	Aspen Technology Inc;	BASF SE
+454;	Azelis Americas Case LLC;	BASF SE
+455;	BASF SE;	Diversey Inc
+456;	Ecovadis SAS;	BASF SE
+457;	BASF SE;	Equinor ASA
+458;	BASF SE;	Monsanto Co
+459;	BASF SE;	R Stahl AG
+460;	AAR Corp;	BASF SE
+461;	BASF SE;	BeyondSpring Inc
+462;	Hexion Inc;	BASF SE
+463;	Huntsman Corp;	BASF SE
+464;	Mauser Group NV;	BASF SE
+465;	Microtek Laboratories Inc;	BASF SE
+466;	BASF SE;	Solenis LLC
+467;	Worley Ltd;	BASF SE
+468;	BASF SE;	M Holland Co
+469;	THT Heat Transfer Technology Inc;	BASF SE
+470;	Transportes Azkar SA;	BASF SE
+471;	MATRIKON Deutschland GmbH;	BASF SE
+472;	Nisshin Pharma Inc;	BASF SE
+473;	Wintershall Dea AG;	BASF SE
+474;	BASF SE;	Xinjiang Tianye Group Co Ltd
+475;	L'Air Liquide Societe Anonyme pour l'Etude et l'Exploitation des Procedes Georges Claude SA;	BASF SE
+476;	BASF SE;	Robert Bosch GmbH
+477;	BASF SE;	Solvay SA
+478;	TriMas Corp;	BASF SE
+479;	BASF SE;	Beijing Oriental Yuhong Waterproof Technology Co Ltd
+480;	Ionis Pharmaceuticals Inc;	Bayer AG
+481;	Vyne Pharmaceuticals Ltd;	Bayer AG
+482;	Bayer AG;	Monsanto Co
+483;	Bayer AG;	Ionis Pharmaceuticals Inc
+484;	Genzyme Corp;	Bayer AG
+485;	Atara Biotherapeutics Inc;	Bayer AG
+486;	ImmunoGen Inc;	Bayer AG
+487;	Monsanto Co;	Bayer AG
+488;	Teva Pharmaceutical Industries Ltd;	Bayer AG
+489;	Kimball International Inc;	Bayer AG
+490;	Regeneron Pharmaceuticals Inc;	Bayer AG
+491;	Bayer AG;	ImmunoGen Inc
+492;	Perrigo Co;	Bayer AG
+493;	Veeva Systems Inc;	Bayer AG
+494;	Celonis GmbH;	Bayer AG
+495;	Paragon Marketing Communication General Trading Co WLL;	Bayer AG
+496;	Loxo Oncology Inc;	Bayer AG
+497;	retarus GmbH;	Bayer AG
+498;	Bayer AG;	Atara Biotherapeutics Inc
+499;	Biogen Inc;	Bayer AG
+500;	Bayer AG;	Merck & Co Inc
+501;	Bayer AG;	Regeneron Pharmaceuticals Inc
+502;	Bayer AG;	Sensyne Health PLC
+503;	Bayer AG;	Bausch Health Companies Inc
+504;	ExpertAi SpA;	Bayer AG
+505;	Recursion Pharmaceuticals Inc;	Bayer AG
+506;	Rivery Technology Ltd;	Bayer AG
+507;	DocuSign Inc;	Bayer AG
+508;	Grifols SA;	Bayer AG
+509;	Qumu Corp;	Bayer AG
+510;	Acura Pharmaceuticals Inc;	Bayer AG
+511;	Air Liquide Far Eastern Ltd;	Bayer AG
+512;	Bayer AG;	Biogen Inc
+513;	Blujay Solutions Ltd;	Bayer AG
+514;	Boston Scientific Corp;	Bayer AG
+515;	Bayer AG;	Horizon Pharma Inc
+516;	Kythera Biopharmaceuticals Inc;	Bayer AG
+517;	Nektar Therapeutics;	Bayer AG
+518;	OncoMed Pharmaceuticals Inc;	Bayer AG
+519;	Rekoop Ltd;	Bayer AG
+520;	Salesforce.Com Inc;	Bayer AG
+521;	Capgemini SE;	Bayer AG
+522;	Natco Pharma Ltd;	Bayer AG
+523;	PeptiDream Inc;	Bayer AG
+524;	Moberg Pharma AB (publ);	Bayer AG
+525;	US Bioservices Corp;	Bayer AG
+526;	Compugen Ltd;	Bayer AG
+527;	Bayer AG;	SK Motor-Harant TDV
+528;	Appian Corp;	Bayer AG
+529;	Harman International Industries Inc;	BMW AG
+530;	Magna International Inc;	BMW AG
+531;	Samsung SDI Co Ltd;	BMW AG
+532;	A123 Systems Inc;	BMW AG
+533;	Contemporary Amperex Technology Co Ltd;	BMW AG
+534;	BMW AG;	SAAB Automobile AB
+535;	Hankook Tire & Technology Co Ltd;	BMW AG
+536;	Steel Strips Wheels Ltd;	BMW AG
+537;	ZF Friedrichshafen AG;	BMW AG
+538;	IQGeo Group PLC;	BMW AG
+539;	C & A Textiles Ltd;	BMW AG
+540;	Constellium SE;	BMW AG
+541;	Ganfeng Lithium Co Ltd;	BMW AG
+542;	Inchcape PLC;	BMW AG
+543;	NVIDIA Corp;	BMW AG
+544;	Livent Corp;	BMW AG
+545;	VDL Nedcar BV;	BMW AG
+546;	Daimler AG;	BMW AG
+547;	Glencore PLC;	BMW AG
+548;	Innoviz Technologies Ltd;	BMW AG
+549;	Xometry Inc;	BMW AG
+550;	Hankook & Company Co Ltd;	BMW AG
+551;	Visteon Corp;	BMW AG
+552;	Garmin Ltd;	BMW AG
+553;	Cooper-Standard Holdings Inc;	BMW AG
+554;	GKN Ltd;	BMW AG
+555;	Incadea Ltd;	BMW AG
+556;	Amazon.com Inc;	BMW AG
+557;	Lear Corp;	BMW AG
+558;	SGL Carbon SE;	BMW AG
+559;	BMW AG;	Audi AG
+560;	BMW AG;	Northvolt AB
+561;	BMW AG;	Rolls-Royce Motor Cars Ltd
+562;	Nokia Oyj;	BMW AG
+563;	TomTom NV;	BMW AG
+564;	BMW AG;	Ganfeng Lithium Co Ltd
+565;	Robert Bosch GmbH;	BMW AG
+566;	SHL Liquidation Industries Inc;	BMW AG
+567;	BMW AG;	Toyota Motor Europe SA
+568;	Akzo Nobel NV;	BMW AG
+569;	Ballard Power Systems Inc;	BMW AG
+570;	BMW AG;	DriveNow GmbH & Co KG
+571;	Duerr AG;	BMW AG
+572;	Faurecia SE;	BMW AG
+573;	Gentex Corp;	BMW AG
+574;	Infosys Ltd;	BMW AG
+575;	Nordex SE;	BMW AG
+576;	Yit Oyj;	BMW AG
+577;	BMW AG;	Jaguar Land Rover Automotive PLC
+578;	Mobileye BV;	BMW AG
+579;	Samsung Electronics Co Ltd;	BMW AG
+580;	Solid Power Inc;	BMW AG
+581;	Superior Industries Europe AG;	BMW AG
+582;	Accenture PLC;	BMW AG
+583;	Jaguar Land Rover Automotive PLC;	BMW AG
+584;	Magna Steyr AG & Co KG;	BMW AG
+585;	BMW AG;	Oxe Marine AB
+586;	BMW AG;	Range Rover of North America Inc
+587;	Volvo AB;	BMW AG
+588;	BMW AG;	BMW Bank GmbH
+589;	Dassault Systemes SE;	BMW AG
+590;	Intel Corp;	BMW AG
+591;	Tesla Inc;	BMW AG
+592;	Novelis Inc;	BMW AG
+593;	Audi AG;	BMW AG
+594;	Continental AG;	BMW AG
+595;	BMW AG;	Daimler AG
+596;	TKJP Corp;	BMW AG
+597;	Alcantara SpA;	BMW AG
+598;	Aleris Corp;	BMW AG
+599;	Aptiv PLC;	BMW AG
+600;	BMW AG;	BMW MOTORRAD GMBH & CO
+601;	Crossmedia;	BMW AG
+602;	Exide Technologies LLC;	BMW AG
+603;	Giesecke+Devrient GmbH;	BMW AG
+604;	Immedia Group PLC;	BMW AG
+605;	Livent Inc;	BMW AG
+606;	Martinrea International Inc;	BMW AG
+607;	Osram Licht AG;	BMW AG
+608;	Premier Technical Services Group Ltd;	BMW AG
+609;	QNX Software Systems Ltd;	BMW AG
+610;	RideCell Inc;	BMW AG
+611;	Tenneco Inc;	BMW AG
+612;	ThingWorx Inc;	BMW AG
+613;	Valeo SE;	BMW AG
+614;	BMW AG;	Vattenfall AB
+615;	Vision 6 Pty Ltd;	BMW AG
+616;	Alibaba Group Holding Ltd;	BMW AG
+617;	ANSYS Inc;	BMW AG
+618;	Borgwarner Inc;	BMW AG
+619;	Eagle Ottawa LLC;	BMW AG
+620;	Halla Holdings Corp;	BMW AG
+621;	Hilite International Inc;	BMW AG
+622;	BMW AG;	Maserati SpA
+623;	NavInfo Co Ltd;	BMW AG
+624;	Novelis Korea Ltd;	BMW AG
+625;	BMW AG;	Opel Automobile GmbH
+626;	Parrot SA;	BMW AG
+627;	SupplyOn AG;	BMW AG
+628;	Unity Technologies ApS;	BMW AG
+629;	VOXX International Corp;	BMW AG
+630;	WINDCHILL TECHNOLOGY CORP;	BMW AG
+631;	BMW AG;	Workhorse Group Inc
+632;	Yokohama Rubber Co Ltd;	BMW AG
+633;	ZF TRW Automotive Holdings Corp;	BMW AG
+634;	AT&T Inc;	BMW AG
+635;	China XD Plastics Company Ltd;	BMW AG
+636;	Ford Motor Co;	BMW AG
+637;	Getac Technology Corp;	BMW AG
+638;	BMW AG;	Kuka AG
+639;	Royal Imtech NV;	BMW AG
+640;	BMW AG;	Volvo AB
+641;	Wirelesscar Sweden AB;	BMW AG
+642;	wpd AG;	BMW AG
+643;	Xtime LLC;	BMW AG
+644;	Baidu Inc;	BMW AG
+645;	Delta Electronics Inc;	BMW AG
+646;	Nuance Communications Inc;	BMW AG
+647;	Verne Global Ltd;	BMW AG
+648;	BMW AG;	Visteon Corp
+649;	Brilliance China Automotive Holdings Ltd;	BMW AG
+650;	Deere & Co;	BMW AG
+651;	Quintiq Holding BV;	BMW AG
+652;	Stellantis NV;	BMW AG
+653;	ZKW Group GmbH;	BMW AG
+654;	Refinitiv US Holdings Inc;	BNP Paribas SA
+655;	International Business Machines Corp;	BNP Paribas SA
+656;	Ingenico Group SA;	BNP Paribas SA
+657;	IBM Luxembourg SARL;	BNP Paribas SA
+658;	ExpertAi SpA;	BNP Paribas SA
+659;	Tata Consultancy Services Ltd;	BNP Paribas SA
+660;	Illumio Inc;	BNP Paribas SA
+661;	Infotel SA;	BNP Paribas SA
+662;	Sopra Steria Group SA;	BNP Paribas SA
+663;	Commercial Vehicle Group Inc;	Daimler AG
+664;	Daimler AG;	Nissan Motor Co Ltd
+665;	SK Innovation Co Ltd;	Daimler AG
+666;	Tesla Inc;	Daimler AG
+667;	WABCO Holdings Inc;	Daimler AG
+668;	Meritor Inc;	Daimler AG
+669;	Contemporary Amperex Technology Co Ltd;	Daimler AG
+670;	Renault SA;	Daimler AG
+671;	TomTom NV;	Daimler AG
+672;	Martinrea International Inc;	Daimler AG
+673;	Daimler AG;	Amazon.com Inc
+674;	Dana Inc;	Daimler AG
+675;	Harman International Industries Inc;	Daimler AG
+676;	Daimler AG;	United Parcel Service Inc
+677;	Akka Technologies SE;	Daimler AG
+678;	Visteon Corp;	Daimler AG
+679;	Daimler AG;	Aston Martin Lagonda Ltd
+680;	Ballard Power Systems Inc;	Daimler AG
+681;	Cummins Inc;	Daimler AG
+682;	NVIDIA Corp;	Daimler AG
+683;	Daimler AG;	Bayerische Motoren Werke AG
+684;	Constellium SE;	Daimler AG
+685;	Cooper-Standard Holdings Inc;	Daimler AG
+686;	Kuka AG;	Daimler AG
+687;	Toyota Motor Corp;	Daimler AG
+688;	Daimler AG;	Daimler Truck AG
+689;	IQGeo Group PLC;	Daimler AG
+690;	Lear Corp;	Daimler AG
+691;	A123 Systems Inc;	Daimler AG
+692;	Magna International Inc;	Daimler AG
+693;	Hexagon Composites ASA;	Daimler AG
+694;	Stellantis NV;	Daimler AG
+695;	Veoneer Inc;	Daimler AG
+696;	Volkswagen AG;	Daimler AG
+697;	Daimler AG;	Audi AG
+698;	Daimler AG;	Bollore SE
+699;	Daimler AG;	Cummins Inc
+700;	LG Chem Ltd;	Daimler AG
+701;	Daimler AG;	Ford Motor Co
+702;	Microsoft Corp;	Daimler AG
+703;	Parkopedia Ltd;	Daimler AG
+704;	Daimler AG;	Stellantis NV
+705;	Day Software Holding AG;	Daimler AG
+706;	Daimler AG;	Kamaz PAO
+707;	Daimler AG;	Penske Automotive Group Inc
+708;	Daimler Mobility Services GmbH;	Daimler AG
+709;	Gentex Corp;	Daimler AG
+710;	Hankook & Company Co Ltd;	Daimler AG
+711;	Icertis Inc;	Daimler AG
+712;	Motherson Sumi Systems Ltd;	Daimler AG
+713;	Nuance Communications Inc;	Daimler AG
+714;	Valmet Automotive Oy;	Daimler AG
+715;	Xilinx Inc;	Daimler AG
+716;	Borgwarner Inc;	Daimler AG
+717;	TKJP Corp;	Daimler AG
+718;	EVE Energy Co Ltd;	Daimler AG
+719;	LG Electronics Inc;	Daimler AG
+720;	ThoughtSpot Inc;	Daimler AG
+721;	Daimler AG;	Chrysler Ltd
+722;	Bayerische Motoren Werke AG;	Daimler AG
+723;	Robert Bosch GmbH;	Daimler AG
+724;	Autoliv Inc;	Daimler AG
+725;	Daimler AG;	Ballard Power Systems Inc
+726;	BNN Technology PLC;	Daimler AG
+727;	Howmet Aerospace Inc;	Daimler AG
+728;	Johnson Controls Inc;	Daimler AG
+729;	Porsche Automobil Holding SE;	Daimler AG
+730;	C & A Textiles Ltd;	Daimler AG
+731;	CENIT AG;	Daimler AG
+732;	Penske Automotive Group Inc;	Daimler AG
+733;	Daimler AG;	Publicis Groupe SA
+734;	Salesforce.Com Inc;	Daimler AG
+735;	Sanden Holdings Corp;	Daimler AG
+736;	Teklas Kaucuk Sanayi ve Ticaret AS;	Daimler AG
+737;	Daimler AG;	Volvo AB
+738;	Waymo LLC;	Daimler AG
+739;	Aleris Corp;	Daimler AG
+740;	Allison Transmission Holdings Inc;	Daimler AG
+741;	Barkawi Management Consultants GmbH & Co KG;	Daimler AG
+742;	Continental AG;	Daimler AG
+743;	Faurecia SE;	Daimler AG
+744;	Daimler AG;	General Motors Co
+745;	Daimler AG;	Goodyear Tire & Rubber Co
+746;	Linamar Light Metals SAS;	Daimler AG
+747;	Daimler AG;	Rolls Royce Power Systems AG
+748;	Royal Imtech NV;	Daimler AG
+749;	Daimler AG;	Uber Technologies Inc
+750;	Volvo AB;	Daimler AG
+751;	Daimler AG;	XCMG Construction Machinery Co Ltd
+752;	Alphabet Inc;	Daimler AG
+753;	Daimler AG;	Daimler Trucks North America LLC
+754;	Deutsche Accumotive GmbH & Co KG;	Daimler AG
+755;	Garmin Ltd;	Daimler AG
+756;	Nokia Oyj;	Daimler AG
+757;	Sccrsg Corp;	Daimler AG
+758;	Deere & Co;	Daimler AG
+759;	FCA US LLC;	Daimler AG
+760;	Ford Motor Co;	Daimler AG
+761;	Infosys Ltd;	Daimler AG
+762;	Daimler AG;	Intel Corp
+763;	MCI Communications Corp;	Daimler AG
+764;	Daimler AG;	Mercedes-Benz Bank AG
+765;	Cognigy GmbH;	Daimler AG
+766;	Mobility House AG;	Daimler AG
+767;	Software AG;	Daimler AG
+768;	Zoom Corp;	Daimler AG
+769;	Aleris International Inc;	Daimler AG
+770;	Northstar Commercial Partners;	Daimler AG
+771;	Danone SA;	Danone US Inc
+772;	Fonterra Co-Operative Group Ltd;	Danone SA
+773;	Danone US Inc;	Danone SA
+774;	Clover Industries Ltd;	Danone SA
+775;	Martek Biosciences Corp;	Danone SA
+776;	Fallon Worldwide;	Danone SA
+777;	Danone SA;	Loop Industries Inc
+778;	Renault SA;	Danone SA
+779;	Chr Hansen Holding A/S;	Danone SA
+780;	ID Logistics SAS;	Danone SA
+781;	Invibes Advertising NV;	Danone SA
+782;	Linkfluence SAS;	Danone SA
+783;	Ultrack Systems Inc;	Danone SA
+784;	Yashili International Holdings Ltd;	Danone SA
+785;	Publicis Groupe SA;	Danone SA
+786;	sorbion & GmbH Co KG;	Danone SA
+787;	Transparency Software Inc;	Danone SA
+788;	XMReality AB (publ);	Danone SA
+789;	Young and Rubicam Inc;	Danone SA
+790;	Amcor PLC;	Danone SA
+791;	Eurofins Scientific SE;	Danone SA
+792;	Danone SA;	Iberdrola SA
+793;	Loop Industries Inc;	Danone SA
+794;	Publicis Communications Schweiz AG;	Danone SA
+795;	EDF Renewables Distributed Solutions Inc;	Danone SA
+796;	David5 LLC;	Danone SA
+797;	Waste Management Inc;	Danone SA
+798;	Unitar;	Danone SA
+799;	Marlin & Associates New York LLC;	Deutsche Boerse AG
+800;	Juniper Networks Inc;	Deutsche Boerse AG
+801;	SAP SE;	Deutsche Boerse AG
+802;	Air Transport Services Group Inc;	Deutsche Post AG
+803;	Deutsche Post AG;	Amazon.com Inc
+804;	Deutsche Post AG;	Air Transport Services Group Inc
+805;	Deutsche Post AG;	Anheuser Busch Inbev SA
+806;	Deutsche Post AG;	Atlas Air Worldwide Holdings Inc
+807;	Deutsche Post AG;	innogy SE
+808;	3t Systems;	Deutsche Post AG
+809;	Deutsche Post AG;	Arcimoto Inc
+810;	Vodafone Group PLC;	Deutsche Post AG
+811;	NVIDIA Corp;	Deutsche Post AG
+812;	StreetScooter GmbH;	Deutsche Post AG
+813;	Cryoport Inc;	Deutsche Post AG
+814;	APO Group;	Deutsche Post AG
+815;	Staffbase GmbH;	Deutsche Post AG
+816;	Deutsche Telekom AG;	Deutsche Post AG
+817;	Blue Yonder Group Inc;	Deutsche Post AG
+818;	Kreisstadt Bad Hersfeld;	Deutsche Post AG
+819;	S.F. Holding Co Ltd;	Deutsche Post AG
+820;	Deutsche Post AG;	S.F. Holding Co Ltd
+821;	Vuzix Corp;	Deutsche Post AG
+822;	Deutsche Post AG;	Airbus SE
+823;	Huawei Technologies Co Ltd;	Deutsche Telekom AG
+824;	Nokia Oyj;	Deutsche Telekom AG
+825;	iPass Inc;	Deutsche Telekom AG
+826;	Telefonaktiebolaget LM Ericsson;	Deutsche Telekom AG
+827;	Deutsche Telekom AG;	Magyar Telekom Tavkozlesi Nyrt
+828;	Vodafone Group PLC;	Deutsche Telekom AG
+829;	ADTRAN Inc;	Deutsche Telekom AG
+830;	Dsp Group Inc;	Deutsche Telekom AG
+831;	Deutsche Telekom AG;	Microsoft Corp
+832;	Zenterio AB (publ);	Deutsche Telekom AG
+833;	AppDirect Inc;	Deutsche Telekom AG
+834;	T-Mobile US Inc;	Deutsche Telekom AG
+835;	Deutsche Telekom AG;	T-System Inc
+836;	Deutsche Telekom AG;	Orange SA
+837;	Deutsche Telekom AG;	AT&T Inc
+838;	IQGeo Group PLC;	Deutsche Telekom AG
+839;	T-Mobile USA Inc;	Deutsche Telekom AG
+840;	Deutsche Telekom AG;	T-Mobile USA Inc
+841;	Cisco Systems Inc;	Deutsche Telekom AG
+842;	Deutsche Telekom AG;	Vodafone Group PLC
+843;	T-System Inc;	Deutsche Telekom AG
+844;	Deutsche Telekom AG;	Telefonica Deutschland Holding AG
+845;	Samsung Electronics Co Ltd;	Deutsche Telekom AG
+846;	Infinera Corp;	Deutsche Telekom AG
+847;	Caverion Oyj;	Deutsche Telekom AG
+848;	EE Ltd;	Deutsche Telekom AG
+849;	MariaDB Corporation Ab;	Deutsche Telekom AG
+850;	Netcracker Technology Corp;	Deutsche Telekom AG
+851;	Nuance Communications Inc;	Deutsche Telekom AG
+852;	Deutsche Telekom AG;	Vodafone West GmbH
+853;	Voxbone SA;	Deutsche Telekom AG
+854;	Clicksoftware Technologies Ltd;	Deutsche Telekom AG
+855;	Ericsson AS;	Deutsche Telekom AG
+856;	Intec Telecom Systems Ltd;	Deutsche Telekom AG
+857;	Moengage India Pvt Ltd;	Deutsche Telekom AG
+858;	Neonode Inc;	Deutsche Telekom AG
+859;	Qualys Inc;	Deutsche Telekom AG
+860;	Deutsche Telekom AG;	Google LLC
+861;	Intershop Communications AG;	Deutsche Telekom AG
+862;	Mavenir Systems Inc;	Deutsche Telekom AG
+863;	Deutsche Telekom AG;	Osram Licht AG
+864;	Deutsche Telekom AG;	Digi International Inc
+865;	Alcatel Lucent SA;	Deutsche Telekom AG
+866;	Iss A/S;	Deutsche Telekom AG
+867;	Leoni AG;	Deutsche Telekom AG
+868;	MobiledgeX Inc;	Deutsche Telekom AG
+869;	Ribbon Communications Inc;	Deutsche Telekom AG
+870;	Aspiro AB;	Deutsche Telekom AG
+871;	BroadSoft Inc;	Deutsche Telekom AG
+872;	Deutsche Telekom AG;	Deutsche Post AG
+873;	Exozet Berlin GmbH;	Deutsche Telekom AG
+874;	Liberty Global PLC;	Deutsche Telekom AG
+875;	Sterlite Technologies Ltd;	Deutsche Telekom AG
+876;	Deutsche Telekom AG;	T Systems International GmbH
+877;	United Internet AG;	Deutsche Telekom AG
+878;	Deutsche Telekom AG;	Abu Dhabi Media Company PJSC
+879;	Artefact SA;	Deutsche Telekom AG
+880;	Deutsche Telekom AG;	Comcast Corp
+881;	Energous Corp;	Deutsche Telekom AG
+882;	International Business Machines Corp;	Deutsche Telekom AG
+883;	Magyar Telekom Tavkozlesi Nyrt;	Deutsche Telekom AG
+884;	Neo Technology Inc;	Deutsche Telekom AG
+885;	Nokia Networks US Son LLC;	Deutsche Telekom AG
+886;	TalkPool AG;	Deutsche Telekom AG
+887;	Deutsche Telekom AG;	Tele2 AB
+888;	UPC Telekabel Wien GmbH;	Deutsche Telekom AG
+889;	AT&T Inc;	Deutsche Telekom AG
+890;	Deutsche Telekom AG;	BP PLC
+891;	Google LLC;	Deutsche Telekom AG
+892;	Inmarsat Group Holdings Ltd;	Deutsche Telekom AG
+893;	SAP SE;	Deutsche Telekom AG
+894;	SerVision PLC;	Deutsche Telekom AG
+895;	Software AG;	Deutsche Telekom AG
+896;	Deutsche Telekom AG;	Telia Company AB
+897;	Altair Semiconductor Ltd;	Deutsche Telekom AG
+898;	EQT Corp;	Deutsche Telekom AG
+899;	Deutsche Telekom AG;	Netflix Inc
+900;	Deutsche Telekom AG;	Total Access Communication PCL
+901;	Deutsche Telekom AG;	Zenterio AB (publ)
+902;	Deutsche Telekom AG;	Allianz SE
+903;	Naspers Ltd;	Deutsche Telekom AG
+904;	Echelon Corp;	Enel SpA
+905;	Enel Green Power SpA;	Enel SpA
+906;	Enel Americas SA;	Enel SpA
+907;	Enel Generacion Chile SA;	Enel SpA
+908;	Enel SpA;	Enel Americas SA
+909;	STMicroelectronics NV;	Enel SpA
+910;	LDK Solar Co Ltd;	Enel SpA
+911;	NK Rosneft' PAO;	Enel SpA
+912;	Vestas Wind Systems A/S;	Enel SpA
+913;	Enel SpA;	Vestas Wind Systems A/S
+914;	Largo Resources Ltd;	Enel SpA
+915;	Aenza SAA;	Enel SpA
+916;	Enel SpA;	Anglo American PLC
+917;	Cheniere Energy Inc;	Enel SpA
+918;	Enel SpA;	Kellogg Co
+919;	Ansaldo Energia SpA;	Enel SpA
+920;	Enel SpA;	Echelon Corp
+921;	Ormat Technologies Inc;	Enel SpA
+922;	Indra Sistemas SA;	Enel SpA
+923;	Enel SpA;	Intesa Sanpaolo SpA
+924;	Enel SpA;	Johnson & Johnson
+925;	Nissan Motor Co Ltd;	Enel SpA
+926;	Areva SA;	Enel SpA
+927;	Enel SpA;	AES Andes SA
+928;	Enel SpA;	Colbun SA
+929;	Enel SpA;	Petroleo Brasileiro SA Petrobras
+930;	Electricite de France SA;	Enel SpA
+931;	Origin Energy Ltd;	Engie SA
+932;	Amec Foster Wheeler Ltd;	Engie SA
+933;	Areva SA;	Engie SA
+934;	Totalenergies Electricite Et Gaz France SA;	Engie SA
+935;	Plexus Holdings PLC;	Engie SA
+936;	Engie SA;	Cameron Lng LLC
+937;	IOT Group Ltd;	Engie SA
+938;	Engie SA;	FCA US LLC
+939;	Engie SA;	Gazprom PAO
+940;	Engie SA;	Southern Copper Corp
+941;	Engie SA;	Liquefied Natural Gas Ltd
+942;	Engie SA;	Yamal SPG OAO
+943;	Vlocity Inc;	Engie SA
+944;	Equinor ASA;	Engie SA
+945;	Engie SA;	Google LLC
+946;	Orchestrade SARL;	Engie SA
+947;	Engie SA;	Umicore SA
+948;	Engie SA;	AES Corp
+949;	Beijer Ref AB (publ);	Engie SA
+950;	Engie SA;	Beijing Gas Group Co Ltd
+951;	Emerson Electric Co;	Engie SA
+952;	Engie SA;	Enea AB
+953;	Lubelski Wegiel Bogdanka SA;	Engie SA
+954;	Naturgy Energy Group SA;	Engie SA
+955;	Royal Dutch Shell PLC;	Engie SA
+956;	Salesforce.Com Inc;	Engie SA
+957;	Engie SA;	Sempra Energy
+958;	Shell Energy Europe Ltd;	Engie SA
+959;	Vestas Wind Systems A/S;	Engie SA
+960;	Engie SA;	Anglo American PLC
+961;	Engie SA;	Areva SA
+962;	Engie SA;	Equinor ASA
+963;	Engie SA;	GAIL (India) Ltd
+964;	Luminus NV;	Engie SA
+965;	Engie SA;	National Central Cooling Co PJSC
+966;	Nordex SE;	Engie SA
+967;	Engie SA;	Scania AB
+968;	Altran Technologies SAS;	Engie SA
+969;	Engie SA;	Amazon.com Inc
+970;	Engie SA;	Electricite de France SA
+971;	Engie SA;	NIC Inc
+972;	Renox Projects;	Engie SA
+973;	Siemens Gamesa Renewable Energy SA;	Engie SA
+974;	Engie SA;	Taiwan Cement Corp
+975;	General Electric Co;	Engie SA
+976;	Golar LNG Ltd;	Engie SA
+977;	Korea Shipbuilding & Offshore Engineering Co Ltd;	Engie SA
+978;	Engie SA;	Petronet LNG Ltd
+979;	Alstom SA;	Engie SA
+980;	Engie SA;	Gerdau SA
+981;	Novatek PAO;	Engie SA
+982;	Engie SA;	TotalEnergies SE
+983;	Gazprom PAO;	Engie SA
+984;	Saipem SpA;	Eni SpA
+985;	Vitol SA;	Eni SpA
+986;	Glencore PLC;	Eni SpA
+987;	Eni SpA;	Saipem SpA
+988;	NK Rosneft' PAO;	Eni SpA
+989;	State Oil Company of the Azerbaijan Republic;	Eni SpA
+990;	Equinor ASA;	Eni SpA
+991;	Eni SpA;	Abu Dhabi National Oil Co
+992;	BP PLC;	Eni SpA
+993;	Eni SpA;	BP PLC
+994;	Surgutneftegaz PAO;	Eni SpA
+995;	Eni SpA;	Royal Dutch Shell PLC
+996;	Eni SpA;	Unipec America Inc
+997;	Sonatrach SPA;	Eni SpA
+998;	Gunvor Group Ltd;	Eni SpA
+999;	Ocean Power Technologies Inc;	Eni SpA
+1000;	Eni SpA;	Equinor ASA
+1001;	Eni SpA;	Exxon Mobil Corp
+1002;	Gazprom PAO;	Eni SpA
+1003;	Technip SA;	Eni SpA
+1004;	Valaris PLC;	Eni SpA
+1005;	Eni SpA;	CPC Corp Taiwan
+1006;	Eni SpA;	Il Af 27032002 A/S
+1007;	Litasco SA;	Eni SpA
+1008;	Repsol SA;	Eni SpA
+1009;	Eni SpA;	Crestwood Midstream Partners LP (Pre-Merger)
+1010;	Petroleos de Venezuela SA;	Eni SpA
+1011;	Plexus Holdings PLC;	Eni SpA
+1012;	Eni SpA;	Quicksilver Resources Inc
+1013;	TechnipFMC PLC;	Eni SpA
+1014;	Eni SpA;	Phillips 66
+1015;	Eni SpA;	Snam SpA
+1016;	Abu Dhabi National Oil Co;	Eni SpA
+1017;	Eni SpA;	Gazprom PAO
+1018;	NK Lukoil PAO;	Eni SpA
+1019;	Eni SpA;	Repsol SA
+1020;	Eni SpA;	China International United Petroleum & Chemicals Co Ltd
+1021;	Gasterra BV;	Eni SpA
+1022;	Golar LNG Ltd;	Eni SpA
+1023;	Halliburton Co;	Eni SpA
+1024;	Eni SpA;	Harbour Energy PLC
+1025;	Snam SpA;	Eni SpA
+1026;	SURGUT KARMEL' RESTORANTS OOO;	Eni SpA
+1027;	Aspen Technology Inc;	Eni SpA
+1028;	Eni SpA;	Babcock International Group PLC
+1029;	Eni SpA;	China Petroleum & Chemical Corp
+1030;	Exxon Mobil Corp;	Eni SpA
+1031;	GC Rieber Shipping ASA;	Eni SpA
+1032;	IPG Photonics Corp;	Eni SpA
+1033;	Modec Inc;	Eni SpA
+1034;	Eni SpA;	Morgan Stanley
+1035;	Eni SpA;	PDVSA Gas SA
+1036;	Sapura Energy Bhd;	Eni SpA
+1037;	Weatherford International PLC;	Eni SpA
+1038;	Nigerian National Petroleum Corp;	Eni SpA
+1039;	Telecom Italia SpA;	Eni SpA
+1040;	Transocean Ltd;	Eni SpA
+1041;	Bristow Norway AS;	Eni SpA
+1042;	Medservregis PLC;	Eni SpA
+1043;	Eni SpA;	Petroleos de Venezuela SA
+1044;	Eni SpA;	Sonatrach SPA
+1045;	Eni SpA;	Gaffney Cline & Associates (Consultants) Pte Ltd
+1046;	Vantage Drilling International;	Eni SpA
+1047;	Grandvision NV;	EssilorLuxottica SA
+1048;	Luxottica Group SpA;	EssilorLuxottica SA
+1049;	EssilorLuxottica SA;	Luxottica Group SpA
+1050;	Netuitive Inc;	EssilorLuxottica SA
+1051;	AstroNova Inc;	EssilorLuxottica SA
+1052;	Toi LLC;	EssilorLuxottica SA
+1053;	BBHC Inc;	EssilorLuxottica SA
+1054;	PPG Industries Inc;	EssilorLuxottica SA
+1055;	EssilorLuxottica SA;	Radiology Partners Inc
+1056;	Siemens Gamesa Renewable Energy SA;	Iberdrola SA
+1057;	Nel ASA;	Iberdrola SA
+1058;	Iberdrola SA;	Avangrid Inc
+1059;	Areva SA;	Iberdrola SA
+1060;	Iberdrola SA;	Orsted A/S
+1061;	MIX Telematics Ltd;	Iberdrola SA
+1062;	Cheniere Energy Inc;	Iberdrola SA
+1063;	Iberdrola SA;	Drax Group PLC
+1064;	Amec Foster Wheeler Engineering AG;	Iberdrola SA
+1065;	Iberdrola SA;	BP PLC
+1066;	Iberdrola SA;	Compagnie d'entreprises CFE SA
+1067;	Ingeteam Corporacion SA;	Iberdrola SA
+1068;	Aibel AS;	Iberdrola SA
+1069;	Corpus Christi Liquefaction LLC;	Iberdrola SA
+1070;	Danone SA;	Iberdrola SA
+1071;	Iberdrola SA;	Kutxabank SA
+1072;	Vestas Wind Systems A/S;	Iberdrola SA
+1073;	Ferrovial Construccion SA;	Iberdrola SA
+1074;	Alstom SA;	Iberdrola SA
+1075;	Infineon Technologies AG;	Huawei Technologies Co Ltd
+1076;	Infineon Technologies AG;	Hyundai Motor Co
+1077;	Infineon Technologies AG;	Tesla Inc
+1078;	Infineon Technologies AG;	Microsoft Corp
+1079;	Infineon Technologies AG;	Volkswagen AG
+1080;	Infineon Technologies AG;	LG Corp
+1081;	Amkor Technology Inc;	Infineon Technologies AG
+1082;	M&W Group GmbH;	Infineon Technologies AG
+1083;	Infineon Technologies AG;	Nokia Oyj
+1084;	Infineon Technologies AG;	Avnet Inc
+1085;	Wolfspeed Inc;	Infineon Technologies AG
+1086;	Infineon Technologies AG;	Audi AG
+1087;	Infineon Technologies AG;	Enphase Energy Inc
+1088;	Infineon Technologies AG;	Samsung Electronics Co Ltd
+1089;	CEVA Inc;	Infineon Technologies AG
+1090;	Infineon Technologies AG;	Intel Corp
+1091;	Taiwan Semiconductor Manufacturing Co Ltd;	Infineon Technologies AG
+1092;	Infineon Technologies AG;	AAC Technologies Holdings Inc
+1093;	SPTS Technologies Ltd;	Infineon Technologies AG
+1094;	Marketwall Srl;	Intesa Sanpaolo SpA
+1095;	Gemalto BV;	Intesa Sanpaolo SpA
+1096;	Bolero International Ltd;	Intesa Sanpaolo SpA
+1097;	Enel SpA;	Intesa Sanpaolo SpA
+1098;	Kering SA;	Guccio Gucci SpA
+1099;	Guccio Gucci SpA;	Kering SA
+1100;	Yoox Net-A-Porter Group SpA;	Kering SA
+1101;	Kering SA;	Compagnie Financiere Richemont SA
+1102;	Safilo Group SpA;	Kering SA
+1103;	Kering SA;	Mendes Sa(Ysl Couture)
+1104;	Blue Yonder Group Inc;	Kering SA
+1105;	Kering SA;	Stella Mccartney Ltd
+1106;	Kering SA;	Fnac Darty SA
+1107;	Salesforce.Com Inc;	Kone Oyj
+1108;	Sdl Ltd;	Kone Oyj
+1109;	International Business Machines Corp;	Kone Oyj
+1110;	Kone Oyj;	Metro Inc
+1111;	Kone Oyj;	Japan Resistor Mfg. Co Ltd
+1112;	Etteplan Oyj;	Kone Oyj
+1113;	Accounting Plaza Services BV;	Koninklijke Ahold Delhaize NV
+1114;	Annie's Inc;	Koninklijke Ahold Delhaize NV
+1115;	Blueconic Inc;	Koninklijke Ahold Delhaize NV
+1116;	Genpact Ltd;	Koninklijke Ahold Delhaize NV
+1117;	Greenyard NV;	Koninklijke Ahold Delhaize NV
+1118;	Park City Group Inc;	Koninklijke Ahold Delhaize NV
+1119;	Restaurant Technologies Inc;	Koninklijke Ahold Delhaize NV
+1120;	Zycus Inc;	Koninklijke Ahold Delhaize NV
+1121;	Procter & Gamble Co;	Koninklijke Ahold Delhaize NV
+1122;	NCR Corp;	Koninklijke Ahold Delhaize NV
+1123;	Delhaize America LLC;	Koninklijke Ahold Delhaize NV
+1124;	Linde PLC;	Samsung Electronics Co Ltd
+1125;	Linde PLC;	Shanghai Huayi Group Corp Ltd
+1126;	Linde PLC;	Evonik Industries AG
+1127;	Linde PLC;	GTA Semiconductor Co Ltd
+1128;	Fieldbit;	Linde PLC
+1129;	Demandware LLC;	L'Oreal SA
+1130;	Croda International PLC;	L'Oreal SA
+1131;	Fiorano Software Inc;	L'Oreal SA
+1132;	Landsea Homes Corp;	L'Oreal SA
+1133;	Ecovadis SAS;	L'Oreal SA
+1134;	Biovia Corp;	L'Oreal SA
+1135;	Celonis GmbH;	L'Oreal SA
+1136;	E2open LLC;	L'Oreal SA
+1137;	Salesforce.Com Inc;	L'Oreal SA
+1138;	Sitecore Corporation A/S;	L'Oreal SA
+1139;	Adparlor Inc;	L'Oreal SA
+1140;	PFSweb Inc;	L'Oreal SA
+1141;	Modiface Inc;	L'Oreal SA
+1142;	Dataiku SAS;	L'Oreal SA
+1143;	Ulta Beauty Inc;	L'Oreal SA
+1144;	Onespot Inc;	L'Oreal SA
+1145;	Silgan Holdings Inc;	L'Oreal SA
+1146;	Applied Media Logic;	L'Oreal SA
+1147;	Logility Inc;	L'Oreal SA
+1148;	Media Partnership SA;	L'Oreal SA
+1149;	Salsify Inc;	L'Oreal SA
+1150;	CloudCraze Software LLC;	L'Oreal SA
+1151;	Coveo Solutions Inc;	L'Oreal SA
+1152;	International Business Machines Corp;	L'Oreal SA
+1153;	Vivoom Inc;	L'Oreal SA
+1154;	Withings SAS;	L'Oreal SA
+1155;	Landec Corp;	L'Oreal SA
+1156;	Maesa SAS;	L'Oreal SA
+1157;	L'Oreal SA;	Procter & Gamble Co
+1158;	Sprinklr Inc;	L'Oreal SA
+1159;	Zettics Inc;	L'Oreal SA
+1160;	L'Oreal SA;	LVMH Moet Hennessy Louis Vuitton SE
+1161;	Valtech SE;	L'Oreal SA
+1162;	L'Oreal SA;	Nexity SA
+1163;	LVMH;	Christian Dior SE
+1164;	Google LLC;	LVMH
+1165;	David5 LLC;	LVMH
+1166;	St Dupont SA;	LVMH
+1167;	Pernod Ricard SA;	LVMH
+1168;	Tiffany & Co;	LVMH
+1169;	Algolia SAS;	LVMH
+1170;	AT&T Inc;	LVMH
+1171;	Marcolin SpA;	LVMH
+1172;	Troika Media Group Inc;	LVMH
+1173;	LVMH;	Hexaom SA
+1174;	Okta Inc;	LVMH
+1175;	Replika Software LLC;	LVMH
+1176;	Swatch Group AG;	LVMH
+1177;	Centric Software Engineering Holding BV;	LVMH
+1178;	Entrupy Inc;	LVMH
+1179;	SimpliField SAS;	LVMH
+1180;	Heng Long International Ltd;	LVMH
+1181;	L'Oreal SA;	LVMH
+1182;	LVMH;	Sephora SA
+1183;	HCL Technologies Ltd;	Muenchener
+1184;	Cybercube Analytics Inc;	Muenchener
+1185;	Informatica LLC;	Muenchener
+1186;	Logility Inc;	Pernod Ricard SA
+1187;	TBWA Worldwide Inc;	Pernod Ricard SA
+1188;	Pernod Ricard SA;	LVMH Moet Hennessy Louis Vuitton SE
+1189;	Ardagh Group SA;	Pernod Ricard SA
+1190;	Demand Management Inc;	Pernod Ricard SA
+1191;	IGS Capital Group Ltd;	Pernod Ricard SA
+1192;	M&C Saatchi PLC;	Pernod Ricard SA
+1193;	Pernod Ricard SA;	Brown-Forman Corp
+1194;	Compania Pisquera de Chile SA;	Pernod Ricard SA
+1195;	Microsoft Corp;	Pernod Ricard SA
+1196;	Verallia France SA;	Pernod Ricard SA
+1197;	Alibaba Cloud Computing Ltd;	Koninklijke Philips NV
+1198;	Koninklijke Philips NV;	DMS Health Technologies Inc
+1199;	Koninklijke Philips NV;	DMS Inc
+1200;	DMS Health Technologies Inc;	Koninklijke Philips NV
+1201;	Star Equity Holdings Inc;	Koninklijke Philips NV
+1202;	Koninklijke Philips NV;	Signify NV
+1203;	TPV Technology Ltd;	Koninklijke Philips NV
+1204;	Wipro Ltd;	Koninklijke Philips NV
+1205;	Koninklijke Philips NV;	US Department of Veterans Affairs
+1206;	Acrolinx GmbH;	Koninklijke Philips NV
+1207;	Usabilla BV;	Koninklijke Philips NV
+1208;	Koninklijke Philips NV;	Vithas Sanidad Malaga Internacional SL
+1209;	Google LLC;	Koninklijke Philips NV
+1210;	P&F USA Inc;	Koninklijke Philips NV
+1211;	Signify NV;	Koninklijke Philips NV
+1212;	Dana-Farber Cancer Institute Inc;	Koninklijke Philips NV
+1213;	Koninklijke Philips NV;	Star Equity Holdings Inc
+1214;	Hansen Medical Inc;	Koninklijke Philips NV
+1215;	Esterline Technologies Corp;	Koninklijke Philips NV
+1216;	Janrain Inc;	Koninklijke Philips NV
+1217;	SAP SE;	Koninklijke Philips NV
+1218;	Silicon Laboratories Inc;	Koninklijke Philips NV
+1219;	Wipro Technologies Oy Finland;	Koninklijke Philips NV
+1220;	Funai Electric Co Ltd;	Koninklijke Philips NV
+1221;	Koninklijke Philips NV;	Hillshire Brands Co
+1222;	Re-Act Enterprises Inc;	Koninklijke Philips NV
+1223;	Volex PLC;	Koninklijke Philips NV
+1224;	Zoran Corp;	Koninklijke Philips NV
+1225;	Breville Group Ltd;	Koninklijke Philips NV
+1226;	iWatt Inc;	Koninklijke Philips NV
+1227;	Sharp Corp;	Koninklijke Philips NV
+1228;	Sonos Inc;	Koninklijke Philips NV
+1229;	Koninklijke Philips NV;	Sony Group Corp
+1230;	Trident Microsystems Inc;	Koninklijke Philips NV
+1231;	Alibaba Group Holding Ltd;	Koninklijke Philips NV
+1232;	Koninklijke Philips NV;	Breville Group Ltd
+1233;	Cognizant Technology Solutions Corp;	Koninklijke Philips NV
+1234;	Elcoteq SE;	Koninklijke Philips NV
+1235;	Ford Motor Co;	Koninklijke Philips NV
+1236;	One Red Locker Inc;	Koninklijke Philips NV
+1237;	Skyworks Solutions Inc;	Koninklijke Philips NV
+1238;	Funai Soken Holdings Inc;	Koninklijke Philips NV
+1239;	Jasco Electronics Holdings Ltd;	Koninklijke Philips NV
+1240;	NXP Semiconductors NV;	Koninklijke Philips NV
+1241;	Koninklijke Philips NV;	Sectra AB
+1242;	Koninklijke Philips NV;	Toshiba Corp
+1243;	Koninklijke Philips NV;	TPV Technology Ltd
+1244;	Capsule Technologies Inc;	Koninklijke Philips NV
+1245;	Delivery Hero SE;	Prosus NV
+1246;	Prosus NV;	Deloitte LLP
+1247;	Safran SA;	Airbus SE
+1248;	Safran SA;	Boeing Co
+1249;	Safran SA;	Dassault Aviation SA
+1250;	Safran SA;	Airbus SAS
+1251;	Safran SA;	Cessna Aircraft Co
+1252;	Cfm International SA;	Safran SA
+1253;	Safran SA;	Honeywell International Inc
+1254;	Safran SA;	Cfm International SA
+1255;	Safran SA;	CFM International Inc
+1256;	Rolls-Royce Holdings PLC;	Safran SA
+1257;	Safran SA;	Rolls-Royce Holdings PLC
+1258;	Esterline Technologies Corp;	Safran SA
+1259;	Hexcel Corp;	Safran SA
+1260;	Safran SA;	FADEC International LLC
+1261;	Safran SA;	Singapore Airlines Ltd
+1262;	Safran SA;	Vietjet Aviation JSC
+1263;	Aveos Fleet Performance Inc;	Safran SA
+1264;	Safran SA;	Lockheed Martin Corp
+1265;	Safran SA;	Saab AB
+1266;	Safran SA;	Textron Inc
+1267;	CFM International Inc;	Safran SA
+1268;	Safran SA;	Cincinnati Bell Inc
+1269;	RBC Bearings Inc;	Safran SA
+1270;	Safran SA;	Air France KLM SA
+1271;	Omeo Financial Consulting AB;	Safran SA
+1272;	Albany International Corp;	Safran SA
+1273;	Safran SA;	Easyjet PLC
+1274;	FACC AG;	Safran SA
+1275;	Sopra Steria Group SA;	Safran SA
+1276;	Safran SA;	United Airlines Inc
+1277;	Safran SA;	ABC Aerolineas SA de CV
+1278;	Safran SA;	Air Canada
+1279;	Safran SA;	Corsair SA
+1280;	Safran SA;	Menhaden Resource Efficiency PLC
+1281;	Unison Industries LLC;	Safran SA
+1282;	Safran SA;	Aegean Airlines SA
+1283;	Safran SA;	Bombardier Inc
+1284;	Morpho Inc;	Safran SA
+1285;	Pratt & Whitney Co;	Safran SA
+1286;	Zodiac Aerospace SA;	Safran SA
+1287;	Vietjet Aviation JSC;	Safran SA
+1288;	Safran SA;	Euroopa ameti, mis loodi vabadusel, turvalisusel ja oigusel rajaneva ala suuremahuliste IT-susteemide operatiivjuhtimiseks (eu-LISA)
+1289;	General Electric Co;	Safran SA
+1290;	Sanofi SA;	Biontech AG
+1291;	MannKind Corp;	Sanofi SA
+1292;	Regeneron Pharmaceuticals Inc;	Sanofi SA
+1293;	Unilife Corp;	Sanofi SA
+1294;	Vivus Inc;	Sanofi SA
+1295;	ImmunoGen Inc;	Sanofi SA
+1296;	Sanofi SA;	MannKind Corp
+1297;	Sanofi SA;	Vivus Inc
+1298;	Oxford BioMedica PLC;	Sanofi SA
+1299;	GlaxoSmithKline PLC;	Sanofi SA
+1300;	Sanofi SA;	AstraZeneca PLC
+1301;	Sanofi SA;	Immune Design Corp
+1302;	Translate Bio MA Inc;	Sanofi SA
+1303;	Novartis AG;	Sanofi SA
+1304;	Sanofi SA;	Humanigen Inc
+1305;	Sanofi SA;	Evotec SE
+1306;	Sanofi SA;	Merck & Co Inc
+1307;	Sanofi SA;	MyoKardia Inc
+1308;	Sanofi SA;	Pfizer Inc
+1309;	Sanofi SA;	Zealand Pharma A/S
+1310;	Biovia Corp;	Sanofi SA
+1311;	ON Semiconductor Corp;	Sanofi SA
+1312;	Usablenet Inc;	Sanofi SA
+1313;	Sanofi SA;	Johnson & Johnson
+1314;	Vectura Group Services Ltd;	Sanofi SA
+1315;	Genzyme Corp;	Sanofi SA
+1316;	Sanofi SA;	Translate Bio Inc
+1317;	Sanofi SA;	Vectura Group Services Ltd
+1318;	Ablynx NV;	Sanofi SA
+1319;	Sanofi SA;	Moderna Inc
+1320;	Zealand Pharma A/S;	Sanofi SA
+1321;	Evotec SE;	Sanofi SA
+1322;	Sanofi SA;	Legend Natural Gas LP
+1323;	Medidata Solutions Inc;	Sanofi SA
+1324;	Sanofi SA;	Principia Biopharma Inc
+1325;	Yoobic Ltd;	Sanofi SA
+1326;	Ardelyx Inc;	Sanofi SA
+1327;	Eli Lilly and Co;	Sanofi SA
+1328;	Sanofi SA;	Sanofi Aventis Deutschland GmbH
+1329;	Sanofi SA;	Ablynx NV
+1330;	Coupa Software Inc;	Sanofi SA
+1331;	Humanigen Inc;	Sanofi SA
+1332;	Sanofi SA;	Lexicon Pharmaceuticals Inc
+1333;	NextBio;	Sanofi SA
+1334;	Regulus Therapeutics Inc;	Sanofi SA
+1335;	Sanofi SA;	Takeda Pharmaceutical Co Ltd
+1336;	Sanofi SA;	Warner Chilcott PLC
+1337;	Sanofi SA;	Genentech Inc
+1338;	Sanofi SA;	Merrimack Inc
+1339;	Pinnacle Airlines Corp;	Sanofi SA
+1340;	Theratechnologies Inc;	Sanofi SA
+1341;	Sanofi SA;	Transgene SA
+1342;	Sanofi SA;	Cellectis SA
+1343;	ExpertAi SpA;	Sanofi SA
+1344;	Gol Linhas Aereas Inteligentes SA;	Sanofi SA
+1345;	Havas Worldwide LLC;	Sanofi SA
+1346;	Jacobs Engineering Group Inc;	Sanofi SA
+1347;	Sanofi SA;	Ovintiv Exploration Inc
+1348;	Benchling Inc;	Sanofi SA
+1349;	China Lumena New Materials Corp;	Sanofi SA
+1350;	Sanofi SA;	Hubert Burda Media Holding KG
+1351;	Immune Design Corp;	Sanofi SA
+1352;	Sanofi SA;	Pinnacle Airlines Corp
+1353;	Sanofi SA;	POZEN Inc
+1354;	Sanofi SA;	Sanofi-Aventis US LLC
+1355;	Shenzhen Hepalink Pharmaceutical Group Co Ltd;	Sanofi SA
+1356;	Sanofi SA;	Covis Pharma BV (Zug Branch)
+1357;	Sanofi SA;	Hypera SA
+1358;	Merrimack Inc;	Sanofi SA
+1359;	MyoKardia Inc;	Sanofi SA
+1360;	Sanofi Pasteur SA;	Sanofi SA
+1361;	Sanofi SA;	Sanofi Winthrop Industrie SA
+1362;	Allergan plc;	Sanofi SA
+1363;	Sanofi SA;	Alliance Pharma PLC
+1364;	Sanofi SA;	Amber Resources Company Of Colorado
+1365;	Sanofi SA;	Amgen Inc
+1366;	Sanofi SA;	Arrow Electronics Inc
+1367;	Delta Apparel Inc;	Sanofi SA
+1368;	Horizon Pharma Inc;	Sanofi SA
+1369;	Sanofi SA;	Ipsen SA
+1370;	Ligand Pharmaceuticals Inc;	Sanofi SA
+1371;	Sanofi SA;	Matortho Ltd
+1372;	Sanofi SA;	Medimmune LLC
+1373;	Patheon Inc;	Sanofi SA
+1374;	Pieris Pharmaceuticals Inc;	Sanofi SA
+1375;	Sanofi SA;	Ardelyx Inc
+1376;	Icagen Inc;	Sanofi SA
+1377;	Acer Therapeutics Inc;	Sanofi SA
+1378;	Acer Therapeutics Inc;	Sanofi SA
+1379;	Alnylam Pharmaceuticals Inc;	Sanofi SA
+1380;	ER Squibb & Sons LLC;	Sanofi SA
+1381;	Sanofi SA;	Evotec SE
+1382;	POZEN Inc;	Sanofi SA
+1383;	Flex Ltd;	Sanofi SA
+1384;	Accenture PLC;	SAP SE
+1385;	SAP SE;	Alibaba Group Holding Ltd
+1386;	Microsoft Corp;	SAP SE
+1387;	Rimini Street Inc;	SAP SE
+1388;	SAP SE;	Rimini Street Inc
+1389;	Rimini Street Inc;	SAP SE
+1390;	SAP SE;	Rimini Street Inc
+1391;	Rimini Street Inc (Pre-Merger);	SAP SE
+1392;	SAP SE;	Accenture PLC
+1393;	Oracle Corp;	SAP SE
+1394;	SAP SE;	Sap Software System Co Ltd
+1395;	SAP SE;	Solar Frontier KK
+1396;	SAP SE;	Chelford SAP Solutions Ltd
+1397;	Qualtrics LLC;	SAP SE
+1398;	SAP SE;	Salesforce.Com Inc
+1399;	SAP SE;	All for One Group SE
+1400;	Google LLC;	SAP SE
+1401;	NetSuite Inc;	SAP SE
+1402;	SAP SE;	Qualtrics International Inc
+1403;	SAP SE;	Salesforce.Com Inc
+1404;	SuccessFactors Inc;	SAP SE
+1405;	Ariba Inc;	SAP SE
+1406;	SAP SE;	SuccessFactors Inc
+1407;	SAP SE;	TransNet Corp
+1408;	Kofax Sweden Services AB;	SAP SE
+1409;	Callidus Software Inc;	SAP SE
+1410;	Chelford SAP Solutions Ltd;	SAP SE
+1411;	SAP SE;	Deloitte LLP
+1412;	SAP AG;	SAP SE
+1413;	DoubleDutch Inc;	SAP SE
+1414;	Deloitte Global Services Ltd;	SAP SE
+1415;	Totango Inc;	SAP SE
+1416;	Spinnaker Support LLC;	SAP SE
+1417;	Trintech Inc;	SAP SE
+1418;	SAP SE;	Blackline Inc
+1419;	Blackline Inc;	SAP SE
+1420;	Concur Technologies Inc;	SAP SE
+1421;	SAP SE;	NTT DATA Business Solutions AG
+1422;	Qualtrics International Inc;	SAP SE
+1423;	Impinj Inc;	SAP SE
+1424;	SAP SE;	SAP SOLUTIONS GMBH(DEUTSCHE)
+1425;	Knoa Software Inc;	SAP SE
+1426;	BRIGHTIDEA INC;	SAP SE
+1427;	SAP SE;	Coles Group Ltd
+1428;	SAP SE;	E.ON SE
+1429;	SAP SE;	Moderna Inc
+1430;	SAP SE;	Ford Motor Co
+1431;	SAP SE;	Fujitsu Ltd
+1432;	International Business Machines Corp;	SAP SE
+1433;	SAP SE;	Lumen Technologies Inc
+1434;	ON24 Inc;	SAP SE
+1435;	SAP SE;	Sumup Payments Ltd
+1436;	SAP SE;	Unilever PLC
+1437;	SAP SE;	Vinci SA
+1438;	SAP SE;	ABB Mexico SA de CV
+1439;	SAP SE;	Boehrer GmbH
+1440;	Gigya Inc;	SAP SE
+1441;	SAP SE;	Grupo Q Gestion Inmobiliaria SL
+1442;	SAP SE;	International Business Machines Corp
+1443;	SAP SE;	Blackline Inc
+1444;	Fujitsu Technology Solutions GmbH;	SAP SE
+1445;	SAP SE;	Getronics BV
+1446;	SAP SE;	Google LLC
+1447;	SAP SE;	Graham Group Ltd
+1448;	Gurobi Optimization LLC;	SAP SE
+1449;	Rohrer Corp;	SAP SE
+1450;	NetApp Inc;	SAP SE
+1451;	SAP SE;	Seven Arts Pictures PLC
+1452;	Virtustream LLC;	SAP SE
+1453;	SAP SE;	Acs Application Management Services Inc
+1454;	SAP SE;	Apple Inc
+1455;	SAP SE;	Audi AG
+1456;	SAP SE;	Bnet Media Group Inc
+1457;	Cloudshare Inc;	SAP SE
+1458;	SAP SE;	Fraport AG Frankfurt Airport Services Worldwide
+1459;	SAP SE;	IBM Luxembourg SARL
+1460;	SAP SE;	Kaeser Kompressoren Se
+1461;	SAP SE;	Kakao Enterprise Corp
+1462;	SAP SE;	Koninklijke Philips NV
+1463;	SAP SE;	Mcdonald's Corp
+1464;	Nextgen Biomed Ltd;	SAP SE
+1465;	SAP SE;	PepsiCo Inc
+1466;	SAP SE;	Pricerite Stores Ltd
+1467;	Santen Pharmaceutical Co Ltd;	SAP SE
+1468;	SAP SE;	Siemens AG
+1469;	SAP SE;	ZF Friedrichshafen AG
+1470;	SAP SE;	Abington Memorial Hospital
+1471;	SAP SE;	Acuity Brands Inc
+1472;	SAP SE;	Arvato Financial Solutions Ltd
+1473;	SAP SE;	Associacao Grupo Boticario
+1474;	Atheletic Mindset Consulting DWC-LLC;	SAP SE
+1475;	SAP SE;	Brewdog PLC
+1476;	SAP SE;	Cognizant Technology Solutions Corp
+1477;	Ecovadis SAS;	SAP SE
+1478;	SAP SE;	ER-Telekom Holding AO
+1479;	Forcam GmbH;	SAP SE
+1480;	SAP SE;	Forrester Research Inc
+1481;	Hireright LLC;	SAP SE
+1482;	SAP SE;	Honeywell International Inc
+1483;	SAP SE;	Lenovo Group Ltd
+1484;	Linc Energy Ltd;	SAP SE
+1485;	Mirakl SAS;	SAP SE
+1486;	Mobiquity Technologies Inc;	SAP SE
+1487;	SAP SE;	MongoDB Inc
+1488;	SAP SE;	Nasdaq Inc
+1489;	SAP SE;	REV Group Inc
+1490;	Samsung SnP;	SAP SE
+1491;	Suse Linux GmbH;	SAP SE
+1492;	SAP SE;	Tokyo Gas Co Ltd
+1493;	SAP SE;	Uber Technologies Inc
+1494;	SAP SE;	Workday Inc
+1495;	SAP SE;	Atos SE
+1496;	Facebook Inc;	SAP SE
+1497;	HCL Technologies Ltd;	SAP SE
+1498;	Hitachi Ltd;	SAP SE
+1499;	SAP SE;	Infosys Ltd
+1500;	SAP SE;	Innovapptive Inc
+1501;	SAP SE;	Kuka AG
+1502;	SAP SE;	Migros Genossenschafts Bund
+1503;	Netline Corp;	SAP SE
+1504;	NTT Communications Corp;	SAP SE
+1505;	SAP SE;	Prada SpA
+1506;	Qlik Analytics ISR Ltd;	SAP SE
+1507;	SAP SE;	Sealed Air Corp
+1508;	SNP Schneider Neureither & Partner SE;	SAP SE
+1509;	SAP SE;	Tagetik Software Srl
+1510;	Telefonaktiebolaget LM Ericsson;	SAP SE
+1511;	UiPath Inc;	SAP SE
+1512;	Utopia Global Inc;	SAP SE
+1513;	Verizon Communications Inc;	SAP SE
+1514;	SAP SE;	VMware Inc
+1515;	SAP SE;	Alfresco Softwash Ltd
+1516;	Apple Inc;	SAP SE
+1517;	SAP SE;	Ballance Agri-Nutrients Ltd
+1518;	SAP SE;	Beyond Technologies Consulting Inc
+1519;	SAP SE;	Burger King Corp
+1520;	SAP SE;	BYD Co Ltd
+1521;	Capgemini SE;	SAP SE
+1522;	SAP SE;	China Foods Ltd
+1523;	Cisco Systems Inc;	SAP SE
+1524;	SAP SE;	CNH Industrial NV
+1525;	SAP SE;	Coca-Cola Co
+1526;	SAP SE;	Deutsche Boerse AG
+1527;	SAP SE;	Deutsche Telekom AG
+1528;	GK Software SE;	SAP SE
+1529;	SAP SE;	Growmark Inc
+1530;	Neptune Software PLC;	SAP SE
+1531;	Ricoh Co Ltd;	SAP SE
+1532;	Salesforce.Com Inc;	SAP SE
+1533;	Seerene GmbH;	SAP SE
+1534;	Thomson Reuters Corp;	SAP SE
+1535;	SAP SE;	ThreatConnect Inc
+1536;	SAP SE;	Valley National Bank (New Jersey)
+1537;	SAP SE;	Altima SASU
+1538;	SAP SE;	Doehler Group SE
+1539;	SAP SE;	iMarketKorea Inc
+1540;	SAP SE;	Kongsberg Automotive ASA
+1541;	SAP SE;	Libbey Inc
+1542;	Mercado Libre SRL;	SAP SE
+1543;	SAP SE;	MindTree Ltd
+1544;	SAP SE;	Nestle Nespresso SA
+1545;	SAP SE;	NTT Data Corp
+1546;	SAP SE;	Renault SA
+1547;	SAP SE;	Revlon Inc
+1548;	SAP SE;	Robert Bosch GmbH
+1549;	SAP SE;	Sesotec GmbH
+1550;	SAP SE;	Tata Consultancy Services Ltd
+1551;	SAP SE;	Xinja Pty Ltd
+1552;	SAP SE;	HP Inc
+1553;	Oxya Corp;	SAP SE
+1554;	Smartshift GmbH;	SAP SE
+1555;	Alibaba Cloud Computing Ltd;	Schneider Electric SE
+1556;	AVEVA Group PLC;	Schneider Electric SE
+1557;	Box Inc;	Schneider Electric SE
+1558;	Jobvite Inc;	Schneider Electric SE
+1559;	Outsystems Software em Rede SA;	Schneider Electric SE
+1560;	Medallia Inc;	Schneider Electric SE
+1561;	Schneider Electric SE;	AVEVA Group PLC
+1562;	Amazon Web Services Inc;	Schneider Electric SE
+1563;	Snaplogic Inc;	Schneider Electric SE
+1564;	Etap Adress AD Sofia;	Schneider Electric SE
+1565;	Schneider Electric SE;	Areva SA
+1566;	Medallia Inc;	Schneider Electric SE
+1567;	Semtech Corp;	Schneider Electric SE
+1568;	Schneider Electric SE;	United Parcel Service Inc
+1569;	Schneider Electric SE;	Microsoft Corp
+1570;	AsCo Power Technologies;	Schneider Electric SE
+1571;	Datalliance SAS;	Schneider Electric SE
+1572;	Schneider Electric SE;	Faurecia SE
+1573;	Schneider Electric SE;	Guardian Glass LLC
+1574;	IXYS Corp;	Schneider Electric SE
+1575;	Kinaxis Inc;	Schneider Electric SE
+1576;	RIB Software SE;	Schneider Electric SE
+1577;	Schneider Electric SE;	Alithya Group Inc
+1578;	Cyanconnode Holdings PLC;	Schneider Electric SE
+1579;	Schneider Electric SE;	Industrial Control Systems ICS
+1580;	Sdl Ltd;	Schneider Electric SE
+1581;	ThoughtWire Corp;	Schneider Electric SE
+1582;	Topia Education Inc;	Schneider Electric SE
+1583;	Schneider Electric SE;	Walmart Inc
+1584;	Anord Mardix UK;	Schneider Electric SE
+1585;	Ayla Networks Inc;	Schneider Electric SE
+1586;	Schneider Electric SE;	Blackstone Inc
+1587;	Rio Tinto PLC;	Schneider Electric SE
+1588;	Schneider Electric SE;	Rs Components Ltd
+1589;	Schneider Electric SE;	Schneider Electric Software LLC
+1590;	Schneider Electric SE;	Equinix Inc
+1591;	Schneider Electric SE;	Rio Tinto PLC
+1592;	Wiztopic SAS;	Schneider Electric SE
+1593;	Nokia Oyj;	Schneider Electric SE
+1594;	Odaseva Technologies SAS;	Schneider Electric SE
+1595;	United Parcel Service Inc;	Schneider Electric SE
+1596;	Larsen & Toubro Ltd;	Schneider Electric SE
+1597;	Microsoft Corp;	Schneider Electric SE
+1598;	Nozomi Networks Inc;	Schneider Electric SE
+1599;	Schneider Electric SE;	Veolia Environnement SA
+1600;	Schneider Electric SE;	DartPoints LLC
+1601;	Schneider Electric SE;	Nestle SA
+1602;	Siemens AG;	Deutsche Bahn AG
+1603;	Siemens AG;	Orsted A/S
+1604;	Atos SE;	Siemens AG
+1605;	Celonis GmbH;	Siemens AG
+1606;	Midas Holdings Ltd;	Siemens AG
+1607;	Siemens AG;	Alstom SA
+1608;	Siemens AG;	Forte Biosciences Inc
+1609;	Siemens AG;	MidAmerican Energy Co
+1610;	ON Semiconductor Corp;	Siemens AG
+1611;	Siemens AG;	Magnolia LNG LLC
+1612;	Siemens Gamesa Renewable Energy SA;	Siemens AG
+1613;	Tata Technologies Ltd;	Siemens AG
+1614;	Siemens AG;	Teollisuuden Voima Oyj
+1615;	Universal Biosensors Inc;	Siemens AG
+1616;	Siemens AG;	Via Rail Canada Inc
+1617;	Dresser-Rand Group Inc;	Siemens AG
+1618;	Powerwave Technologies Inc;	Siemens AG
+1619;	Siemens AG;	COOPERATIVE ENERGY DEVELOPMENT
+1620;	Abb Ltd;	Siemens AG
+1621;	Senior PLC;	Siemens AG
+1622;	Varian Medical Systems Inc;	Siemens AG
+1623;	Siemens AG;	Boeing Co
+1624;	Siemens AG;	Eurostar SA
+1625;	John Wood Group PLC;	Siemens AG
+1626;	Petards Group PLC;	Siemens AG
+1627;	General Electric Co;	Siemens AG
+1628;	Siemens AG;	General Electric Co
+1629;	Siemens AG;	Vinfast Trading and Production LLC
+1630;	Amazon Web Services Inc;	Siemens AG
+1631;	Siemens AG;	Abengoa SA
+1632;	Accenture PLC;	Siemens AG
+1633;	Bombardier Inc;	Siemens AG
+1634;	Broadwind Inc;	Siemens AG
+1635;	Cloud9 Analytics Inc;	Siemens AG
+1636;	Forte Biosciences Inc;	Siemens AG
+1637;	GSE Systems Inc;	Siemens AG
+1638;	Hydrogenics Corp;	Siemens AG
+1639;	Siemens AG;	Power Grid Corporation of India Ltd
+1640;	Tacton Systems AB;	Siemens AG
+1641;	Trintech Inc;	Siemens AG
+1642;	Faiveley Transport SA;	Siemens AG
+1643;	Matillion Ltd;	Siemens AG
+1644;	Siemens AG;	Pattern Energy Group One LP
+1645;	Siemens AG;	Toshiba Corp
+1646;	Siemens AG;	Equinor ASA
+1647;	Siemens AG;	Power Grid Co of Bangladesh Ltd
+1648;	Teradata Corp;	Siemens AG
+1649;	Siemens AG;	TotalEnergies SE
+1650;	Siemens AG;	Universal Biosensors Inc
+1651;	Siemens AG;	CITIC Dicastal Co Ltd
+1652;	Petroliam Nasional Bhd;	Siemens AG
+1653;	Tangoe US Inc;	Siemens AG
+1654;	Clearpoint Neuro Inc;	Siemens AG
+1655;	International Business Machines Corp;	Siemens AG
+1656;	Siemens AG;	Pharmacom Biovet Inc
+1657;	Nokia Oyj;	Siemens AG
+1658;	Easyask Corp;	Siemens AG
+1659;	Esterline Technologies Corp;	Siemens AG
+1660;	Siemens AG;	Ford Motor Co
+1661;	FRIEND2FRIEND INC;	Siemens AG
+1662;	IXYS Corp;	Siemens AG
+1663;	Kaon Interactive Inc;	Siemens AG
+1664;	Leoni AG;	Siemens AG
+1665;	Siemens AG;	Petroliam Nasional Bhd
+1666;	Renewable Energy Systems Canada Inc;	Siemens AG
+1667;	SAP SE;	Siemens AG
+1668;	Skyworks Solutions Inc;	Siemens AG
+1669;	Siemens AG;	Tenaska Energy Inc
+1670;	Siemens AG;	Vale SA
+1671;	Viasystems Group Inc;	Siemens AG
+1672;	Westinghouse Air Brake Technologies Corp;	Siemens AG
+1673;	Acrolinx GmbH;	Siemens AG
+1674;	Arrow Electronics Inc;	Siemens AG
+1675;	Asseco South Eastern Europe SA;	Siemens AG
+1676;	Avnet Inc;	Siemens AG
+1677;	Siemens AG;	BLS Cargo AG
+1678;	Siemens AG;	Brooklyn Navy Yard Cogeneration Partners LP
+1679;	Siemens AG;	Cisco Systems Inc
+1680;	Siemens AG;	Consolidated Edison Inc
+1681;	Coresystems AG;	Siemens AG
+1682;	Datalliance SAS;	Siemens AG
+1683;	Siemens AG;	Deepwater Wind LLC
+1684;	Dell Inc;	Siemens AG
+1685;	Siemens AG;	Denso Corp
+1686;	Siemens AG;	Dulux(Pty)Ltd
+1687;	Siemens AG;	Eviation Aircraft Ltd
+1688;	Exide Technologies LLC;	Siemens AG
+1689;	IDH Development SA;	Siemens AG
+1690;	Siemens AG;	Intermountain Healthcare Inc
+1691;	Mulesoft LLC;	Siemens AG
+1692;	Siemens AG;	NJR Clean Energy Ventures Corp
+1693;	Novatek PAO;	Siemens AG
+1694;	Oracle Corp;	Siemens AG
+1695;	Siemens AG;	OTTO Motors
+1696;	Paragon Software Inc;	Siemens AG
+1697;	Siemens AG;	Royal Dutch Shell PLC
+1698;	Siemens AG;	Salzgitter AG
+1699;	Siemens AG;	Saudi Arabian Oil Co
+1700;	Siemens AG;	Scottish Power Ltd
+1701;	Stibo-Fonden;	Siemens AG
+1702;	SupplyOn AG;	Siemens AG
+1703;	Siemens AG;	SWU Verkehr GmbH
+1704;	Talend SA;	Siemens AG
+1705;	World Peace International Pte Ltd;	Siemens AG
+1706;	Adents High Tech International SAS;	Siemens AG
+1707;	Advanced Airfoil Components LLC;	Siemens AG
+1708;	Siemens AG;	Amec Foster Wheeler Ltd
+1709;	Extension Inc;	Siemens AG
+1710;	Flex Ltd;	Siemens AG
+1711;	Siemens AG;	Golden Pass Lng Terminal LLC
+1712;	Siemens AG;	Imaging Canada Liquidating Corp
+1713;	Jabil Inc;	Siemens AG
+1714;	Mitsubishi Electric Corp;	Siemens AG
+1715;	Siemens AG;	National Grid PLC
+1716;	Siemens AG;	National Railroad Passenger Corp
+1717;	Siemens AG;	Pattern Energy Group Inc
+1718;	PSI Repair Services Inc;	Siemens AG
+1719;	Siemens AG;	PVHMC Federal Credit Union
+1720;	Rolls Royce Motor Cars GmbH;	Siemens AG
+1721;	Rolls-Royce PLC;	Siemens AG
+1722;	ServiceSource International Inc;	Siemens AG
+1723;	Siemens Medical Solutions Health Services Corp;	Siemens AG
+1724;	Xerox Holdings Corp;	Siemens AG
+1725;	APX Group Holdings Inc;	Siemens AG
+1726;	Siemens AG;	Areva SA
+1727;	Blg Logistics;	Siemens AG
+1728;	Bombardier Transportation GmbH;	Siemens AG
+1729;	Siemens AG;	Cathay Industrial Biotech Ltd
+1730;	Siemens AG;	Cerner Corp
+1731;	Deufol SE;	Siemens AG
+1732;	Echelon Corp;	Siemens AG
+1733;	Siemens AG;	Hainan Jinpan Smart Technology Co Ltd
+1734;	Hitachi Ltd;	Siemens AG
+1735;	Siemens AG;	Kiewit Construction Co
+1736;	Siemens AG;	Mazda Motor Corp
+1737;	Siemens AG;	Polski Koncern Naftowy Orlen SA
+1738;	Siemens AG;	Stereotaxis Inc
+1739;	ThoughtSpot Inc;	Siemens AG
+1740;	Siemens AG;	Vivint Wireless Inc
+1741;	Deutsche Bahn AG;	Siemens AG
+1742;	eMeter Corp;	Siemens AG
+1743;	Siemens AG;	Metrans as
+1744;	Nokia Solutions and Networks OOO;	Siemens AG
+1745;	Proton Motor Power Systems PLC;	Siemens AG
+1746;	Rekoop Ltd;	Siemens AG
+1747;	Siemens AG;	Renfe-Operadora
+1748;	Salesforce.Com Inc;	Siemens AG
+1749;	Siemens AG;	UBS AG
+1750;	Mendix Inc;	Siemens AG
+1751;	Siemens AG;	Ministry of Railways
+1752;	Siemens AG;	Vestas Wind Systems A/S
+1753;	Siemens AG;	ViewRay Inc
+1754;	Invensys Ltd;	Siemens AG
+1755;	Siemens AG;	Jinyu Bio-Technology Co Ltd
+1756;	Siemens AG;	Varian Medical Systems Inc
+1757;	TotalEnergies SE;	BP PLC
+1758;	BP PLC;	TotalEnergies SE
+1759;	Gunvor Group Ltd;	TotalEnergies SE
+1760;	Vitol SA;	TotalEnergies SE
+1761;	Glencore PLC;	TotalEnergies SE
+1762;	TotalEnergies SE;	Vitol SA
+1763;	TotalEnergies SE;	Gunvor Group Ltd
+1764;	TotalEnergies SE;	Trafigura Pte Ltd
+1765;	TotalEnergies SE;	CMA CGM SA
+1766;	Surgutneftegaz PAO;	TotalEnergies SE
+1767;	Royal Dutch Shell PLC;	TotalEnergies SE
+1768;	Trafigura Pte Ltd;	TotalEnergies SE
+1769;	North Sea Group Bunkering BV;	TotalEnergies SE
+1770;	TotalEnergies SE;	Glencore PLC
+1771;	TotalEnergies SE;	Amazon Web Services Inc
+1772;	Chevron Corp;	TotalEnergies SE
+1773;	TotalEnergies SE;	ENN Energy Holdings Ltd
+1774;	Repsol SA;	TotalEnergies SE
+1775;	TotalEnergies SE;	Morgan Stanley
+1776;	Equinor ASA;	TotalEnergies SE
+1777;	Siemens AG;	TotalEnergies SE
+1778;	AP Moeller - Maersk A/S;	TotalEnergies SE
+1779;	Indian Oil Corporation Ltd;	TotalEnergies SE
+1780;	Petroliam Nasional Bhd;	TotalEnergies SE
+1781;	TotalEnergies SE;	Bharat Petroleum Corporation Ltd
+1782;	TotalEnergies SE;	Interoil Corp
+1783;	Sempra Energy;	TotalEnergies SE
+1784;	Tellurian Inc;	TotalEnergies SE
+1785;	Albemarle Corp;	TotalEnergies SE
+1786;	TotalEnergies SE;	C&J Oldco Inc
+1787;	TotalEnergies SE;	Cargill Inc
+1788;	Egyptian General Petroleum Corp;	TotalEnergies SE
+1789;	TotalEnergies SE;	Litasco SA
+1790;	Oceanica Consulting Pty Ltd;	TotalEnergies SE
+1791;	Pertamina (Persero) PT;	TotalEnergies SE
+1792;	Scomi Group Bhd;	TotalEnergies SE
+1793;	TotalEnergies SE;	Unipec America Inc
+1794;	Argos Therapeutics Inc;	TotalEnergies SE
+1795;	Bharat Petroleum Corporation Ltd;	TotalEnergies SE
+1796;	TotalEnergies SE;	Chugoku Electric Power Co Inc
+1797;	TotalEnergies SE;	CPC Corp Taiwan
+1798;	John Wood Group PLC;	TotalEnergies SE
+1799;	National Iranian Oil Co;	TotalEnergies SE
+1800;	Oil and Natural Gas Corporation Ltd;	TotalEnergies SE
+1801;	TotalEnergies SE;	Pertamina (Persero) PT
+1802;	Seadrill Partners LLC;	TotalEnergies SE
+1803;	SURGUT KARMEL' RESTORANTS OOO;	TotalEnergies SE
+1804;	Vallourec SA;	TotalEnergies SE
+1805;	Abaco Systems Ltd;	TotalEnergies SE
+1806;	Exxonmobil Qatargas (ii) Terminal Co Ltd;	TotalEnergies SE
+1807;	Golar LNG Ltd;	TotalEnergies SE
+1808;	PetroChina Co Ltd;	TotalEnergies SE
+1809;	TotalEnergies SE;	Totalenergies Electricite Et Gaz France SA
+1810;	Canadian Solar Inc;	TotalEnergies SE
+1811;	TotalEnergies SE;	CNOOC Ltd
+1812;	TotalEnergies SE;	Equinor ASA
+1813;	Litasco SA;	TotalEnergies SE
+1814;	Mangalore Refinery and Petrochemicals Ltd;	TotalEnergies SE
+1815;	TotalEnergies SE;	Petroleos de Venezuela SA
+1816;	TotalEnergies SE;	Platts
+1817;	Saudi Arabian Oil Co;	TotalEnergies SE
+1818;	Cameron Lng LLC;	TotalEnergies SE
+1819;	TotalEnergies SE;	Clean Energy Fuels Corp
+1820;	TotalEnergies SE;	Nigeria Lng Ltd
+1821;	Sabine Pass Liquefaction LLC;	TotalEnergies SE
+1822;	TotalEnergies SE;	Saudi Arabian Oil Co
+1823;	TotalEnergies SE;	Chevron Corp
+1824;	Engie SA;	TotalEnergies SE
+1825;	TotalEnergies SE;	Indian Oil Corporation Ltd
+1826;	TotalEnergies SE;	Kia Corp
+1827;	Sonangol Sociedade Nacional de Combustiveis de Angola EP;	TotalEnergies SE
+1828;	Sonatrach SPA;	TotalEnergies SE
+1829;	Tullow Oil PLC;	TotalEnergies SE
+1830;	Intuitive Surgical Inc;	Vinci SA
+1831;	SAP SE;	Vinci SA
+1832;	Avio SpA;	Vinci SA
+1833;	Vinci SA;	ACS Actividades de Construccion y Servicios SA
+1834;	Vinci SA;	Intuitive Surgical Inc
+1835;	Altice France SA;	Vivendi SE
+1836;	Vivendi SE;	Altice France SA
+1837;	Activision Blizzard Inc;	Vivendi SE
+1838;	Vivendi SE;	Ubisoft Entertainment SA
+1839;	Bollore SE;	Vivendi SE
+1840;	inmediaONE GmbH;	Vivendi SE
+1841;	Volkswagen AG;	Audi AG
+1842;	Faurecia SE;	Volkswagen AG
+1843;	Volkswagen AG;	Ford Motor Co
+1844;	GKN Ltd;	Volkswagen AG
+1845;	LG Chem Ltd;	Volkswagen AG
+1846;	Magna International Inc;	Volkswagen AG
+1847;	Samsung SDI Co Ltd;	Volkswagen AG
+1848;	SK Innovation Co Ltd;	Volkswagen AG
+1849;	TomTom NV;	Volkswagen AG
+1850;	Harman International Industries Inc;	Volkswagen AG
+1851;	Microsoft Corp;	Volkswagen AG
+1852;	Robert Bosch GmbH;	Volkswagen AG
+1853;	Tesla Inc;	Volkswagen AG
+1854;	ZF TRW Automotive Holdings Corp;	Volkswagen AG
+1855;	Ford Motor Co;	Volkswagen AG
+1856;	Hankook & Company Co Ltd;	Volkswagen AG
+1857;	Ballard Power Systems Inc;	Volkswagen AG
+1858;	Borgwarner Inc;	Volkswagen AG
+1859;	Contemporary Amperex Technology Co Ltd;	Volkswagen AG
+1860;	Huawei Technologies Co Ltd;	Volkswagen AG
+1861;	LG Corp;	Volkswagen AG
+1862;	Motherson Sumi Systems Ltd;	Volkswagen AG
+1863;	Nexen Tire Corp;	Volkswagen AG
+1864;	Infosys Ltd;	Volkswagen AG
+1865;	Kuka AG;	Volkswagen AG
+1866;	Dana Inc;	Volkswagen AG
+1867;	Samsung Electronics Co Ltd;	Volkswagen AG
+1868;	Aptiv PLC;	Volkswagen AG
+1869;	Dogus Otomotiv Servis ve Ticaret AS;	Volkswagen AG
+1870;	Sierra Wireless Inc;	Volkswagen AG
+1871;	Visteon Corp;	Volkswagen AG
+1872;	D'Ieteren Group NV;	Volkswagen AG
+1873;	Continental AG;	Volkswagen AG
+1874;	Volkswagen AG;	Daimler AG
+1875;	Fuyao Glass Industry Group Co Ltd;	Volkswagen AG
+1876;	Northvolt AB;	Volkswagen AG
+1877;	Argo AI LLC;	Volkswagen AG
+1878;	General Motors Co;	Volkswagen AG
+1879;	Gentex Corp;	Volkswagen AG
+1880;	Hankook Tire & Technology Co Ltd;	Volkswagen AG
+1881;	Infineon Technologies AG;	Volkswagen AG
+1882;	Volkswagen AG;	Skoda
+1883;	TKJP Corp;	Volkswagen AG
+1884;	Amazon Web Services Inc;	Volkswagen AG
+1885;	American Axle & Manufacturing Holdings Inc;	Volkswagen AG
+1886;	LG Electronics Inc;	Volkswagen AG
+1887;	Linamar Corp;	Volkswagen AG
+1888;	Royal Imtech NV;	Volkswagen AG
+1889;	ZetaDisplay AB;	Volkswagen AG
+1890;	Day Software Holding AG;	Volkswagen AG
+1891;	Alfen NV;	Volkswagen AG
+1892;	Aptiv PLC;	Volkswagen AG
+1893;	C & A Textiles Ltd;	Volkswagen AG
+1894;	EDAG Engineering Group AG;	Volkswagen AG
+1895;	Gotion High tech Co Ltd;	Volkswagen AG
+1896;	Hexagon Composites ASA;	Volkswagen AG
+1897;	Incadea Ltd;	Volkswagen AG
+1898;	Isuzu Motors Ltd;	Volkswagen AG
+1899;	Navistar International Corp;	Volkswagen AG
+1900;	Superior Industries Europe AG;	Volkswagen AG
+1901;	Continental AG;	Volkswagen AG
+1902;	Volkswagen AG;	Fisker Group Inc
+1903;	Volkswagen AG;	Gaz Group LLC
+1904;	Leoni AG;	Volkswagen AG
+1905;	Linamar Light Metals SAS;	Volkswagen AG
+1906;	Piksel Inc;	Volkswagen AG
+1907;	Valeo SE;	Volkswagen AG
+1908;	AD Plastik dd;	Volkswagen AG
+1909;	Leanix GmbH;	Volkswagen AG
+1910;	Stellantis NV;	Volkswagen AG
+1911;	Gaz Group LLC;	Volkswagen AG
+1912;	Tata AutoComp Systems Ltd;	Volkswagen AG
+1913;	Volkswagen AG;	Stellantis NV
+1914;	Suzuki Motor Corp;	Volkswagen AG
+1915;	Compagnie Plastic Omnium SE;	Volkswagen AG
+1916;	Continental Automotive GmbH;	Volkswagen AG
+1917;	Greenlots;	Volkswagen AG
+1918;	Littelfuse Inc;	Volkswagen AG
+1919;	Volkswagen AG;	Navistar International Corp
+1920;	Nexteer Automotive Group Ltd;	Volkswagen AG
+1921;	Tupy SA;	Volkswagen AG
+1922;	AB SKF;	Volkswagen AG
+1923;	Cummins Inc;	Volkswagen AG
+1924;	Elixxer Ltd;	Volkswagen AG
+1925;	Halla Holdings Corp;	Volkswagen AG
+1926;	Hyundai Mobis Co Ltd;	Volkswagen AG
+1927;	Key Safety Systems Inc;	Volkswagen AG
+1928;	Oppo;	Volkswagen AG
+1929;	Parrot SA;	Volkswagen AG
+1930;	Pasdec Automotive Technologies;	Volkswagen AG
+1931;	SK Inc;	Volkswagen AG
+1932;	Volkswagen AG;	Suzuki Motor Corp
+1933;	Teklas Kaucuk Sanayi ve Ticaret AS;	Volkswagen AG
+1934;	United States International Trade Commission;	Volkswagen AG
+1935;	Volkswagen Group Rus OOO;	Volkswagen AG
+1936;	Apple Inc;	Volkswagen AG
+1937;	CEVA Logistics AG;	Volkswagen AG
+1938;	China XD Plastics Company Ltd;	Volkswagen AG
+1939;	FS Fehrer Automotive GmbH;	Volkswagen AG
+1940;	Ganfeng Lithium Co Ltd;	Volkswagen AG
+1941;	Volkswagen AG;	Ganfeng Lithium Co Ltd
+1942;	Gri Renewable Industries SL;	Volkswagen AG
+1943;	Kraussmaffei Group GmbH;	Volkswagen AG
+1944;	Lear Corp;	Volkswagen AG
+1945;	NVIDIA Corp;	Volkswagen AG
+1946;	Omnicom Group Inc;	Volkswagen AG
+1947;	Volkswagen AG;	Opel Automobile GmbH
+1948;	Technical Publications Service SpA;	Volkswagen AG
+1949;	Unipart Group of Companies Ltd;	Volkswagen AG
+1950;	Unipart Logistics Ltd;	Volkswagen AG
+1951;	UNIWHEELS Holding (Malta) Ltd;	Volkswagen AG
+1952;	Verizon Communications Inc;	Volkswagen AG
+1953;	Aeva Inc;	Volkswagen AG
+1954;	HP Inc;	Volkswagen AG
+1955;	Volkswagen AG;	Hyundai Motor Co
+1956;	INRIX Inc;	Volkswagen AG
+1957;	Mando Corp;	Volkswagen AG
+1958;	Skoda Auto as;	Volkswagen AG
+1959;	Tenneco Inc;	Volkswagen AG
+1960;	Teradata Corp;	Volkswagen AG
+1961;	Venyon Oy;	Volkswagen AG
+1962;	Volkswagen AG;	Visteon Corp
+1963;	Wolfspeed Inc;	Volkswagen AG
+1964;	Bosch Corp;	Volkswagen AG
+1965;	Volkswagen AG;	Chrysler Ltd
+1966;	Volkswagen AG;	General Motors Co
+1967;	Goodman Birtcher North America LLC;	Volkswagen AG
+1968;	Royal Dutch Shell PLC;	Volkswagen AG
+1969;	Volkswagen AG;	Samsung Electronics Co Ltd
+1970;	Xiaomi Corp;	Volkswagen AG
+1971;	Car Connectivity Consortium LLC;	Volkswagen AG
+1972;	Volkswagen AG;	Porsche Automobil Holding SE
+1973;	Tower International Inc;	Volkswagen AG
