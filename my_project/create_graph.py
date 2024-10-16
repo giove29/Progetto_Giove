@@ -1,6 +1,7 @@
 def create_graph_number(n):
     import networkx as nx
     G = nx.DiGraph(nx.scale_free_graph(n)) #nx.scale_free_graph(n, seed=14) for a controlled random generator
+    #G = nx.DiGraph(nx.barabasi_albert_graph(n=n, m=2)) #for a different math model
     return G
 
 def create_graph_file(filename):

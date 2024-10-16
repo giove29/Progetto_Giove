@@ -28,7 +28,9 @@ from .opts import (
     result,
     case_3,
     exe_case_4,
-    case_4
+    case_4,
+    case_5,
+    exe_case_5
 )
 from .pajek import *
 
@@ -58,6 +60,8 @@ __all__ = [
     "case_3",
     "exe_case_4",
     "case_4",
+    "case_5",
+    "exe_case_5",
     "open_pajek", 
     "clean_pajek_logs"
 ]

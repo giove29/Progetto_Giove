@@ -1,3 +1,4 @@
+import copy
 import sys, os, re
 from .create_graph import *
 from .bow_tie_detection import *
@@ -5,8 +6,8 @@ from .pajek import *
 import random
 
 PERCENTAGE_PROB_AVALANCHE = 1
-RATE = 1
-RATE_SHOCK = 0.5
+RATE = 0.1
+RATE_SHOCK = 1
 
 def clear_screen():
     if os.name == "nt":
@@ -64,6 +65,7 @@ def prob_avalanche(G, output_file="prob_avalanche.txt", percentage=PERCENTAGE_PR
 
 
 def exe_case_1(G):
+    import networkx as nx
     UG = G.to_undirected()
     bowtie_components = get_bowtie_components(G)
     #node_colors = get_node_colors(G, bowtie_components)
@@ -80,6 +82,12 @@ def exe_case_1(G):
     open_pajek(G, partitions_file)
 
     prob_avalanche(G)
+
+    is_weakly_connected = nx.is_weakly_connected(G)
+    print(f"Grafo debolmente connesso: {is_weakly_connected}")
+    is_strongly_connected = nx.is_strongly_connected(G)
+    print(f"Grafo fortemente connesso: {is_strongly_connected}")
+
 
 def case_1():
     choice = input("How would you create the network?\n1) By File(.txt or .net)\n2) By giving the total of nodes\n>> ")
@@ -361,3 +369,60 @@ def case_4():
             print("Expected an Integer!")
     else:
         print("Not supported option")
+
+def case_5():
+    filename_graph = input("Type the file of the network (.txt or .net)>> ")
+    G = create_graph_file(filename_graph)
+    if G is None:
+        return False
+    exe_case_5(G)
+
+def exe_case_5(G):
+    import networkx as nx
+    iterations = G.number_of_edges() * 20
+    steps_check = 100
+    G_copy = copy.deepcopy(G)
+    for i in range(iterations):
+        if(i%50==0):
+            clear_screen()
+            perc = i*100/iterations
+            print(f"{perc:.1f}%")
+        flag = True
+        while flag:
+            edges = list(G.edges())
+            random_edge_1, random_edge_2 = random.sample(edges, 2)
+            if check_and_add_edges_for_similar_network(G, random_edge_1, random_edge_2): #if True, next iteration
+                flag = False
+        
+        if i % steps_check == 0:
+            if not nx.is_weakly_connected(G):
+                print("Back for connectivity\n")
+                i-=steps_check
+                G = copy.deepcopy(G_copy)
+            else:
+                G_copy = copy.deepcopy(G)
+    
+    try:
+        nx.write_pajek(G, "new_network.net")
+        print("Successfully created a similar network: \"new_network.net\"")
+    except Exception as e:
+        print(e)
+    
+
+
+def check_and_add_edges_for_similar_network(G, random_edge_1, random_edge_2):
+    start_node_1, end_node_1 = random_edge_1
+    start_node_2, end_node_2 = random_edge_2
+
+    if start_node_1 == start_node_2 or end_node_1 == end_node_2 or ( (start_node_1 == end_node_2) or (start_node_2 == end_node_1) ):
+        return False
+    
+    if not G.has_edge(start_node_1, end_node_2) and not G.has_edge(start_node_2, end_node_1):
+        G.remove_edge(start_node_1, end_node_1)
+        G.remove_edge(start_node_2, end_node_2)
+        G.add_edge(start_node_2, end_node_1)
+        G.add_edge(start_node_1, end_node_2)
+        return True
+    else:
+        return False
+    
